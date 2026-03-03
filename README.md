@@ -3,7 +3,7 @@
 	<sup>eleventy <sup><img src="/11ty-logo.png" width="16"></sup></sup>
 </h1>
 
-<p align="center">A curated list of awesome Eleventy (11ty) starter projects, plugins, guides, snippets, etc</p>
+<p align="center">A curated list of awesome Build Awesome (Eleventy <code>11ty</code>) starter projects, plugins, guides, snippets, etc.</p>
 
 
 ## Contents
