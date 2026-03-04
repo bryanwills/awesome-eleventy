@@ -48,6 +48,12 @@ Minimally maintained:
 - [2018] [Turn Jekyll up to Eleventy](https://24ways.org/2018/turn-jekyll-up-to-eleventy/) - An excellent article explaining the differences and similarities between Jekyll and 11ty.
 - [2018] [Simplifying Content Management With Eleventy.js and Netlify CMS](https://www.youtube.com/watch?v=883iX2E57kc)
 
+Webmentions:
+- [2019] [Static Indieweb - Using Webmentions](https://mxb.dev/blog/using-webmentions-on-static-sites/) - How [Max Böck](https://mxb.dev) added webmentions to his Eleventy site.
+
+GraphQL:
+- [2019] [Consuming a headless CMS GraphQL API with Eleventy](https://www.webstoemp.com/blog/headless-cms-graphql-api-eleventy/) - Consuming data coming from a GraphQL API to generate static pages is as easy as using Markdown files.
+
 ## Sites using Build Awesome
 
 - [Benchmark web sites Built with Eleventy over time](https://www.11ty.dev/speedlify/) created by Zach Leatherman
