@@ -8,11 +8,19 @@
 
 ## Contents
 
+- [Build Awesome](#eleventy-is-becoming-build-awesome)
 - [Starter Projects](#starter-projects)
 - [Tutorials and Guides](#tutorials-and-guides)
 - [Screencasts](#screencasts)
 - [Sites using Eleventy](#sites-using-eleventy)
 
+
+## Eleventy is becoming Build Awesome
+
+- Official posts:
+	- by 11ty: https://bsky.app/profile/11ty.dev/post/3mg6ahzej722m
+	- by Font Awesome: https://bsky.app/profile/fontawesome.com/post/3mg67zsc5ge2w
+- Ongoing Kickstarter campaign: https://www.kickstarter.com/projects/fontawesome/build-awesome
 
 
 ## Starter Projects
