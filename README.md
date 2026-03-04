@@ -1,10 +1,9 @@
 <h1 align="center">
-	<img src="https://awesome.re/badge.svg"> Build Awesome
-	<sup>eleventy <sup><img src="/11ty-logo.png" width="16"></sup></sup>
+  <img src="https://awesome.re/badge.svg"> Build Awesome
+  <sup>eleventy <sup><img src="/11ty-logo.png" width="16"></sup></sup>
 </h1>
 
 <p align="center">A curated list of awesome Build Awesome (Eleventy <code>11ty</code>) starter projects, plugins, guides, snippets, etc.</p>
-
 
 ## Contents
 
@@ -14,55 +13,52 @@
 - [Screencasts](#screencasts)
 - [Sites using Eleventy](#sites-using-eleventy)
 
-
 ## Eleventy is becoming Build Awesome
 
 - Official posts:
-	- by 11ty: https://bsky.app/profile/11ty.dev/post/3mg6ahzej722m
-	- by Font Awesome: https://bsky.app/profile/fontawesome.com/post/3mg67zsc5ge2w
+  - by 11ty: https://bsky.app/profile/11ty.dev/post/3mg6ahzej722m
+  - by Font Awesome: https://bsky.app/profile/fontawesome.com/post/3mg67zsc5ge2w
 - Ongoing Kickstarter campaign: https://www.kickstarter.com/projects/fontawesome/build-awesome
-
 
 ## Starter Projects
 
 Projects that provide a quick starting point for Eleventy sites.
 
 - [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
-- [Eleventy One](https://github.com/philhawksworth/eleventyone) - 
-A scaffold for a quick start building with the Eleventy SSG.
-- [Hylia](https://hylia.website/) 📦 - Hylia is a lightweight Eleventy starter kit with Netlify CMS pre-configured, so that you can one-click install a progressive, accessible blog in minutes. 
+- [Eleventy One](https://github.com/philhawksworth/eleventyone) -
+  A scaffold for a quick start building with the Eleventy SSG.
+- [Hylia](https://hylia.website/) 📦 - Hylia is a lightweight Eleventy starter kit with Netlify CMS pre-configured, so that you can one-click install a progressive, accessible blog in minutes.
 - [Deventy](https://github.com/ianrose/deventy) - A minimal 11ty starting point for building static websites with modern tools.
 - [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) - A boilerplate for building a simple website with the Eleventy static site generator.
 - [Eleventy Starter Ghost](https://github.com/TryGhost/eleventy-starter-ghost) - A starter template to build websites with Ghost & Eleventy.
-- [Eleventy Web Starter](https://github.com/chrissy-dev/eleventy-web-starter) - A modern static website workflow using Eleventy, Tailwind CSS, Webpack and PostCSS. 
+- [Eleventy Web Starter](https://github.com/chrissy-dev/eleventy-web-starter) - A modern static website workflow using Eleventy, Tailwind CSS, Webpack and PostCSS.
 - [Eleventy Starter Boilerplate](https://creativedesignsguru.com/demo/Eleventy-Starter-Boilerplate/eleventy-starter-boilerplate-presentation/) - 🚀 Eleventy Starter Boilerplate is production-ready with SEO-friendly for quickly starting a blog. ⚡️ Built with Eleventy, ESLint, Prettier, Webpack, PostCSS, Tailwind CSS.
 - [Eleventy Garden](https://github.com/b3u/eleventy-garden) - A starter site for building a [mind garden](https://nesslabs.com/mind-garden) in Eleventy.
 
 ## Tutorials and guides
 
-- [Turn Jekyll up to Eleventy](https://24ways.org/2018/turn-jekyll-up-to-eleventy/) - An excellent article explaining the differences and similarities between Jekyll and 11ty. 
+- [Turn Jekyll up to Eleventy](https://24ways.org/2018/turn-jekyll-up-to-eleventy/) - An excellent article explaining the differences and similarities between Jekyll and 11ty.
 - [Static Indieweb - Using Webmentions](https://mxb.dev/blog/using-webmentions-on-static-sites/) - How [Max Böck](https://mxb.dev) added webmentions to his Eleventy site.
 - [Consuming a headless CMS GraphQL API with Eleventy](https://www.webstoemp.com/blog/headless-cms-graphql-api-eleventy/) - Consuming data coming from a GraphQL API to generate static pages is as easy as using Markdown files.
-## Screencasts 
-- Building a Static Site with Eleventy
-	- [Building a Static Site with Eleventy - Part 1](https://www.youtube.com/watch?v=p7TkCS01lI8)
-	- [Static Sites Using Data - Part 2](https://www.youtube.com/watch?v=JpK0G4vQjZI)
-	- [Creating a reusable simple content template - Part 3](https://www.youtube.com/watch?v=iHHxd5L_gIo)
-	- [Collections - Part 4](https://www.youtube.com/watch?v=xzH2XZubgEk)
-	- [Custom Homepage - Part 5](https://www.youtube.com/watch?v=5MpfJNdPnNs)
-	- [Contact Page and Deploying to Netlify - Part 6](https://www.youtube.com/watch?v=Rw75idHWPi4)
-- [Simplifying Content Management With Eleventy.js and Netlify CMS](https://www.youtube.com/watch?v=883iX2E57kc)
 
+## Screencasts
+
+- Building a Static Site with Eleventy
+  - [Building a Static Site with Eleventy - Part 1](https://www.youtube.com/watch?v=p7TkCS01lI8)
+  - [Static Sites Using Data - Part 2](https://www.youtube.com/watch?v=JpK0G4vQjZI)
+  - [Creating a reusable simple content template - Part 3](https://www.youtube.com/watch?v=iHHxd5L_gIo)
+  - [Collections - Part 4](https://www.youtube.com/watch?v=xzH2XZubgEk)
+  - [Custom Homepage - Part 5](https://www.youtube.com/watch?v=5MpfJNdPnNs)
+  - [Contact Page and Deploying to Netlify - Part 6](https://www.youtube.com/watch?v=Rw75idHWPi4)
+- [Simplifying Content Management With Eleventy.js and Netlify CMS](https://www.youtube.com/watch?v=883iX2E57kc)
 
 ## Sites using Eleventy
 
 An offical list is maintained on the 11ty.dev site. [You can see it here](https://www.11ty.dev/docs/sites/).
 
-
 ## Contribute
 
 Contributions welcome and encouraged! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
 
 ## License
 
