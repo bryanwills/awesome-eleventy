@@ -28,6 +28,7 @@
 Projects that provide a quick starting point for Eleventy sites:
 
 - [Curated list of starters](https://11tybundle.dev/starters/) by 11tybundle
+- [Curated list of minimal starters](https://any.digital/tricks/build-awesome/#min-starters) by *Any*digital
 - [A larger list of community starters](https://www.11ty.dev/docs/starter/)
 
 Modern v4 starters:
