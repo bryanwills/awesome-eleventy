@@ -5,21 +5,25 @@
 
 <p align="center">A curated list of awesome Build Awesome (Eleventy <code>11ty</code>) starter projects, plugins, guides, snippets, etc.</p>
 
-## Contents
+`On this Page:`
 
 - [Build Awesome](#eleventy-is-becoming-build-awesome)
 - [Starter projects](#starter-projects)
 - [Tutorials and guides](#tutorials-and-guides)
 - [Sites using Build Awesome](#sites-using-build-awesome)
 
-## Eleventy is becoming Build Awesome
+---
+
+<!--section:content-->
+
+### Eleventy is becoming Build Awesome
 
 - Official announcements:
   - [by 11ty on Bluesky](https://bsky.app/profile/11ty.dev/post/3mg6ahzej722m)
   - [by Font Awesome on Bluesky](https://bsky.app/profile/fontawesome.com/post/3mg67zsc5ge2w)
 - [Ongoing Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome)
 
-## Starter projects
+### Starter projects
 
 Projects that provide a quick starting point for Eleventy sites:
 
@@ -41,7 +45,7 @@ Minimally maintained:
 
 </details>
 
-## Tutorials and guides
+### Tutorials and guides
 
 - [2022] [11ty Second 11ty by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3rrNiBBN-wn2BJ11OHiBuC1n)
 - [2019] [Eleventy (11ty) Tutorials by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3roi5Eb3v-SkUV3nfGIyc_LF)
@@ -54,20 +58,22 @@ Webmentions:
 GraphQL:
 - [2019] [Consuming a headless CMS GraphQL API with Eleventy](https://www.webstoemp.com/blog/headless-cms-graphql-api-eleventy/) - Consuming data coming from a GraphQL API to generate static pages is as easy as using Markdown files.
 
-## Sites using Build Awesome
+### Sites using Build Awesome
 
 - [Benchmark web sites Built with Eleventy over time](https://www.11ty.dev/speedlify/) created by Zach Leatherman
 
-## Contribute
+<!--section-->
+
+### Contribute
 
 Contributions welcome and encouraged! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
-## Credits
+### Credits
 
 - Originally created by [Chris C.](https://github.com/chrissy-dev)
 - Currently maintained by [*Any*digital](https://github.com/anydigital)
 
-## License
+### License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
