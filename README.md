@@ -62,6 +62,11 @@ GraphQL:
 
 Contributions welcome and encouraged! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
+## Credits
+
+- Originally created by [Chris C.](https://github.com/chrissy-dev)
+- Currently maintained by [_Any_digital](https://github.com/anydigital)
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
