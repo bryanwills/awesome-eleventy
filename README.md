@@ -71,6 +71,7 @@ GraphQL:
 ### Sites using Build Awesome
 
 - [Benchmark web sites Built with Eleventy over time](https://www.11ty.dev/speedlify/) created by Zach Leatherman
+- [A showcase of websites built with the Eleventy static site generator](https://11tybundle.dev/showcase/) by 11tybundle
 
 <!--section-->
 
