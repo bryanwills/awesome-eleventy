@@ -50,7 +50,7 @@ Minimally maintained:
 
 ## Sites using Build Awesome
 
-- [Benchmark web sites Built with Eleventy over time](https://www.11ty.dev/speedlify/) created by @zachleat
+- [Benchmark web sites Built with Eleventy over time](https://www.11ty.dev/speedlify/) created by Zach Leatherman
 
 ## Contribute
 
