@@ -19,8 +19,8 @@
 ### Eleventy is becoming Build Awesome
 
 - Official announcements:
-  - [by 11ty on Bluesky](https://bsky.app/profile/11ty.dev/post/3mg6ahzej722m)
-  - [by Font Awesome on Bluesky](https://bsky.app/profile/fontawesome.com/post/3mg67zsc5ge2w)
+  - [Introducing: Build Awesome](https://blog.fontawesome.com/introducing-build-awesome-static-site-platform-kickstarter/) by Font Awesome
+  - [Post on Bluesky](https://bsky.app/profile/11ty.dev/post/3mg6ahzej722m) by 11ty
 - [Ongoing Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome)
 
 ### Starter projects
