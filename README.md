@@ -40,7 +40,10 @@ Archived:
 - 📦 [Eleventy Starter Boilerplate](https://creativedesignsguru.com/demo/Eleventy-Starter-Boilerplate/eleventy-starter-boilerplate-presentation/) - 🚀 Eleventy Starter Boilerplate is production-ready with SEO-friendly for quickly starting a blog. ⚡️ Built with Eleventy, ESLint, Prettier, Webpack, PostCSS, Tailwind CSS.
 - 📦 [Eleventy Garden](https://github.com/b3u/eleventy-garden) - A starter site for building a [mind garden](https://nesslabs.com/mind-garden) in Eleventy.
 
-<!--revised-->
+---
+
+> [!IMPORTANT]
+> **Work in progress** - information below is under review:
 
 ## Tutorials and guides
 
