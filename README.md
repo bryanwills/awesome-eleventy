@@ -8,10 +8,9 @@
 ## Contents
 
 - [Build Awesome](#eleventy-is-becoming-build-awesome)
-- [Starter Projects](#starter-projects)
-- [Tutorials and Guides](#tutorials-and-guides)
-- [Screencasts](#screencasts)
-- [Sites using Eleventy](#sites-using-eleventy)
+- [Starter projects](#starter-projects)
+- [Tutorials and guides](#tutorials-and-guides)
+- [Sites using Build Awesome](#sites-using-build-awesome)
 
 ## Eleventy is becoming Build Awesome
 
@@ -20,7 +19,7 @@
   - [by Font Awesome on Bluesky](https://bsky.app/profile/fontawesome.com/post/3mg67zsc5ge2w)
 - [Ongoing Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome)
 
-## Starter Projects
+## Starter projects
 
 Projects that provide a quick starting point for Eleventy sites.
 
@@ -40,31 +39,16 @@ Archived:
 - 📦 [Eleventy Starter Boilerplate](https://creativedesignsguru.com/demo/Eleventy-Starter-Boilerplate/eleventy-starter-boilerplate-presentation/) - 🚀 Eleventy Starter Boilerplate is production-ready with SEO-friendly for quickly starting a blog. ⚡️ Built with Eleventy, ESLint, Prettier, Webpack, PostCSS, Tailwind CSS.
 - 📦 [Eleventy Garden](https://github.com/b3u/eleventy-garden) - A starter site for building a [mind garden](https://nesslabs.com/mind-garden) in Eleventy.
 
----
-
-> [!IMPORTANT]
-> **Work in progress** - information below is under review:
-
 ## Tutorials and guides
 
-- [Turn Jekyll up to Eleventy](https://24ways.org/2018/turn-jekyll-up-to-eleventy/) - An excellent article explaining the differences and similarities between Jekyll and 11ty.
-- [Static Indieweb - Using Webmentions](https://mxb.dev/blog/using-webmentions-on-static-sites/) - How [Max Böck](https://mxb.dev) added webmentions to his Eleventy site.
-- [Consuming a headless CMS GraphQL API with Eleventy](https://www.webstoemp.com/blog/headless-cms-graphql-api-eleventy/) - Consuming data coming from a GraphQL API to generate static pages is as easy as using Markdown files.
+- [2022] [11ty Second 11ty by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3rrNiBBN-wn2BJ11OHiBuC1n)
+- [2019] [Eleventy (11ty) Tutorials by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3roi5Eb3v-SkUV3nfGIyc_LF)
+- [2018] [Turn Jekyll up to Eleventy](https://24ways.org/2018/turn-jekyll-up-to-eleventy/) - An excellent article explaining the differences and similarities between Jekyll and 11ty.
+- [2018] [Simplifying Content Management With Eleventy.js and Netlify CMS](https://www.youtube.com/watch?v=883iX2E57kc)
 
-## Screencasts
+## Sites using Build Awesome
 
-- Building a Static Site with Eleventy
-  - [Building a Static Site with Eleventy - Part 1](https://www.youtube.com/watch?v=p7TkCS01lI8)
-  - [Static Sites Using Data - Part 2](https://www.youtube.com/watch?v=JpK0G4vQjZI)
-  - [Creating a reusable simple content template - Part 3](https://www.youtube.com/watch?v=iHHxd5L_gIo)
-  - [Collections - Part 4](https://www.youtube.com/watch?v=xzH2XZubgEk)
-  - [Custom Homepage - Part 5](https://www.youtube.com/watch?v=5MpfJNdPnNs)
-  - [Contact Page and Deploying to Netlify - Part 6](https://www.youtube.com/watch?v=Rw75idHWPi4)
-- [Simplifying Content Management With Eleventy.js and Netlify CMS](https://www.youtube.com/watch?v=883iX2E57kc)
-
-## Sites using Eleventy
-
-An offical list is maintained on the 11ty.dev site. [You can see it here](https://www.11ty.dev/docs/sites/).
+- [Benchmark web sites Built with Eleventy over time](https://www.11ty.dev/speedlify/) created by @zachleat
 
 ## Contribute
 
@@ -73,3 +57,8 @@ Contributions welcome and encouraged! Read the [contribution guidelines](CONTRIB
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+<!--
+> [!IMPORTANT]
+> **Work in progress** - information below is under review:
+-->
