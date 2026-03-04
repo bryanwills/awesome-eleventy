@@ -47,6 +47,7 @@ Minimally maintained:
 
 ### Tutorials and guides
 
+- [2026] [Learn Eleventy](https://learneleventy.dev/) - This course is designed to give you a really solid understanding of Eleventy—even if you’ve never used it before.
 - [2022] [11ty Second 11ty by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3rrNiBBN-wn2BJ11OHiBuC1n)
 - [2019] [Eleventy (11ty) Tutorials by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3roi5Eb3v-SkUV3nfGIyc_LF)
 - [2018] [Turn Jekyll up to Eleventy](https://24ways.org/2018/turn-jekyll-up-to-eleventy/) - An excellent article explaining the differences and similarities between Jekyll and 11ty.
