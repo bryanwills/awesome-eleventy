@@ -23,7 +23,7 @@
 
 Projects that provide a quick starting point for Eleventy sites.
 
-- [Base Blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
+- [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
 
 Minimally maintained:
 
