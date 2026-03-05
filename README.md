@@ -35,13 +35,13 @@ Projects that provide a quick starting point for Eleventy sites:
 
 Modern v4 starters:
 
-- [Sveleven](https://github.com/anydigital/sveleven) - Modern, lightweight Eleventy v4 starter with Tailwind or Pico.css, CMS and multisiting.
-- [*Blade*switch](https://github.com/anydigital/bladeswitch) - Ultra-lightweight starter compatible with BOTH Jekyll⇋and⇋Eleventy at the same time.
+- [2026] [Sveleven](https://github.com/anydigital/sveleven) - Modern, lightweight Eleventy v4 starter with Tailwind or Pico.css, CMS and multisiting.
+- [2026] [*Blade*switch](https://github.com/anydigital/bladeswitch) - Ultra-lightweight starter compatible with BOTH Jekyll⇋and⇋Eleventy at the same time.
 
 Minimally maintained:
 
-- [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
-- [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) - A boilerplate for building a simple website with the Eleventy static site generator.
+- [2025] [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
+- [2025] [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) - A boilerplate for building a simple website with the Eleventy static site generator.
 
 <details><summary>Archived</summary>
 
