@@ -7,15 +7,12 @@
 
 <p align="center">
   A curated list of awesome Eleventy<sup>11ty</sup> (now Build Awesome)<br>
-  starter projects, plugins, guides, snippets, etc.
+  <a href="#starter-projects">starters</a>,
+  <a href="#tutorials-and-guides">tutorials</a>,
+  <a href="#tips-and-tricks">tricks</a>,
+  <a href="#sites-using-build-awesome">sites</a>,
+  etc.
 </p>
-
-`On this Page:`
-
-- [Build Awesome](#eleventy-is-becoming-build-awesome)
-- [Starter projects](#starter-projects)
-- [Tutorials and guides](#tutorials-and-guides)
-- [Sites using Build Awesome](#sites-using-build-awesome)
 
 ---
 
