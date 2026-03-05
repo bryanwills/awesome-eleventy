@@ -9,9 +9,8 @@
   A curated list of awesome Eleventy<sup>11ty</sup> (now Build Awesome)<br>
   <a href="#starter-projects">starters</a>,
   <a href="#tutorials-and-guides">tutorials</a>,
-  <a href="#tips-and-tricks">tricks</a>,
-  <a href="#sites-using-build-awesome">sites</a>,
-  etc.
+  <a href="#sites-using-build-awesome">sites</a>
+  and more.
 </p>
 
 ---
@@ -58,11 +57,17 @@ Minimally maintained:
 
 ### Tutorials and guides
 
+<!--General guides:-->
 - [2026] [Learn Eleventy](https://learneleventy.dev/) - This course is designed to give you a really solid understanding of Eleventy—even if you’ve never used it before.
 - [2022] [11ty Second 11ty by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3rrNiBBN-wn2BJ11OHiBuC1n)
 - [2019] [Eleventy (11ty) Tutorials by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3roi5Eb3v-SkUV3nfGIyc_LF)
+
+Templating:
+- [2026] [Build Awesome & Nunjucks Tricks](https://any.digital/tricks/build-awesome/) - A curated collection of Eleventy (11ty) tricks, starters, command line tips, configuration snippets, and templating techniques.
+- [2026] [Liquid Tricks](https://any.digital/tricks/liquid/) - A collection of useful Liquid templating tips & tricks.
+
+Migration:
 - [2018] [Turn Jekyll up to Eleventy](https://24ways.org/2018/turn-jekyll-up-to-eleventy/) - An excellent article explaining the differences and similarities between Jekyll and 11ty.
-- [2018] [Simplifying Content Management With Eleventy.js and Netlify CMS](https://www.youtube.com/watch?v=883iX2E57kc)
 
 Webmentions:
 - [2019] [Static Indieweb - Using Webmentions](https://mxb.dev/blog/using-webmentions-on-static-sites/) - How [Max Böck](https://mxb.dev) added webmentions to his Eleventy site.
@@ -70,10 +75,11 @@ Webmentions:
 GraphQL:
 - [2019] [Consuming a headless CMS GraphQL API with Eleventy](https://www.webstoemp.com/blog/headless-cms-graphql-api-eleventy/) - Consuming data coming from a GraphQL API to generate static pages is as easy as using Markdown files.
 
-### Tips and tricks
+<details><summary>Archived</summary>
 
-- [Build Awesome & Nunjucks Tricks](https://any.digital/tricks/build-awesome/) - A curated collection of Eleventy (11ty) tricks, starters, command line tips, configuration snippets, and templating techniques.
-- [Liquid Tricks](https://any.digital/tricks/liquid/) - A collection of useful Liquid templating tips & tricks.
+- 📦 [2018] [Simplifying Content Management With Eleventy.js and Netlify CMS](https://www.youtube.com/watch?v=883iX2E57kc)
+
+</details>
 
 ### Sites using Build Awesome
 
