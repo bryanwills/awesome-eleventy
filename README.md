@@ -23,7 +23,7 @@
 - [Introducing: Build Awesome](https://blog.fontawesome.com/introducing-build-awesome-static-site-platform-kickstarter/) by Font Awesome
 - [Announcement by 11ty on Bluesky](https://bsky.app/profile/11ty.dev/post/3mg6ahzej722m)
 - [Ongoing Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome)
-- [Market: Static Site Generators 2026-2040](https://any.digital/insights/ssg/)
+- [Trends: Static Site Generators 2026-2040](https://any.digital/insights/ssg/)
 
 ### Starter projects
 
