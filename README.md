@@ -5,7 +5,10 @@
   Build Awesome
 </h1>
 
-<p align="center">A curated list of awesome Build Awesome (Eleventy [11ty]) starter projects, plugins, guides, snippets, etc.</p>
+<p align="center">
+  A curated list of awesome Eleventy<sup>11ty</sup> (now Build Awesome)<br>
+  starter projects, plugins, guides, snippets, etc.
+</p>
 
 `On this Page:`
 
