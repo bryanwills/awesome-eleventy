@@ -21,8 +21,8 @@
 ### Eleventy is becoming Build Awesome
 
 - [Introducing: Build Awesome](https://blog.fontawesome.com/introducing-build-awesome-static-site-platform-kickstarter/) by Font Awesome
-  - [Build a Web Site in 7 Minutes with Build Awesome | Demo](https://www.youtube.com/watch?v=yqBbIh5wMKQ)
-  - [Collaborative Editing with Build Awesome – Edit Your Web Site Live | Demo](https://www.youtube.com/watch?v=lBBClBAxrvg)
+  - [Build a Web Site in 7 Minutes with Build Awesome](https://www.youtube.com/watch?v=yqBbIh5wMKQ) - YouTube Demo
+  - [Collaborative Editing with Build Awesome – Edit Your Web Site Live](https://www.youtube.com/watch?v=lBBClBAxrvg) - YouTube Demo
   - [Ongoing Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome)
 - [Announcement by 11ty on Bluesky](https://bsky.app/profile/11ty.dev/post/3mg6ahzej722m)
 - More on topic:
