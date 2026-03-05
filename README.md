@@ -8,9 +8,10 @@
 <p align="center">
   A curated list of awesome Eleventy<sup>11ty</sup> (now Build Awesome)<br>
   <a href="#starter-projects">starters</a>,
+  <a href="#plugins">plugins</a>,
   <a href="#tutorials-and-guides">tutorials</a>,
   <a href="#sites-using-build-awesome">sites</a>
-  and <a href="https://any.digital/tricks/build-awesome/">more</a>.
+  and <a href="https://any.digital/tricks/build-awesome/">more ↗</a>
 </p>
 
 ---
@@ -19,9 +20,8 @@
 
 ### Eleventy is becoming Build Awesome
 
-- Official announcements:
-  - [Introducing: Build Awesome](https://blog.fontawesome.com/introducing-build-awesome-static-site-platform-kickstarter/) by Font Awesome
-  - [Post on Bluesky](https://bsky.app/profile/11ty.dev/post/3mg6ahzej722m) by 11ty
+- [Introducing: Build Awesome](https://blog.fontawesome.com/introducing-build-awesome-static-site-platform-kickstarter/) by Font Awesome
+- [Announcement by 11ty on Bluesky](https://bsky.app/profile/11ty.dev/post/3mg6ahzej722m)
 - [Ongoing Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome)
 
 ### Starter projects
@@ -40,8 +40,8 @@ Modern v4 starters:
 
 Minimally maintained:
 
-- [2025] [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
-- [2025] [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) - A boilerplate for building a simple website with the Eleventy static site generator.
+- [2025] [Base Blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
+- [2025] [Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) - A boilerplate for building a simple website with the Eleventy static site generator.
 
 <details><summary>Archived</summary>
 
@@ -54,6 +54,13 @@ Minimally maintained:
 - 📦 [Eleventy Garden](https://github.com/b3u/eleventy-garden) - A starter site for building a [mind garden](https://nesslabs.com/mind-garden) in Eleventy.
 
 </details>
+
+### Plugins
+
+- [2026] [Bricks [Kit]](https://github.com/anydigital/eleventy-bricks) - A collection of helpful utilities and filters for Eleventy (11ty).
+- [2025] [Fetch](https://github.com/11ty/eleventy-fetch) - Utility to cache any remote asset: Image, Video, Web Font, CSS, JSON, etc.
+- [2023] [Table of Contents](https://github.com/uncenter/eleventy-plugin-toc) - Simple and configurable table of contents generation for Eleventy.
+- [Explore more ↗](https://eleventy-explorer.netlify.app/)
 
 ### Tutorials and guides
 
