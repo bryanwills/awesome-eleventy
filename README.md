@@ -10,7 +10,7 @@
   <a href="#starter-projects">starters</a>,
   <a href="#tutorials-and-guides">tutorials</a>,
   <a href="#sites-using-build-awesome">sites</a>
-  and more.
+  and <a href="https://any.digital/tricks/build-awesome/">more</a>.
 </p>
 
 ---
