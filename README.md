@@ -68,6 +68,11 @@ Webmentions:
 GraphQL:
 - [2019] [Consuming a headless CMS GraphQL API with Eleventy](https://www.webstoemp.com/blog/headless-cms-graphql-api-eleventy/) - Consuming data coming from a GraphQL API to generate static pages is as easy as using Markdown files.
 
+### Tips and tricks
+
+- [Build Awesome & Nunjucks Tricks](https://any.digital/tricks/build-awesome/) - A curated collection of Eleventy (11ty) tricks, starters, command line tips, configuration snippets, and templating techniques.
+- [Liquid Tricks](https://any.digital/tricks/liquid/) - A collection of useful Liquid templating tips & tricks.
+
 ### Sites using Build Awesome
 
 - [Benchmark web sites Built with Eleventy over time](https://www.11ty.dev/speedlify/) created by Zach Leatherman
