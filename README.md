@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  A curated list of awesome Eleventy<sup>11ty</sup> (now Build Awesome)<br>
+  A curated list of awesome Eleventy<sup>11ty</sup> (soon Build Awesome)<br>
   <a href="#starter-projects">starters</a>,
   <a href="#plugins">plugins</a>,
   <a href="#tutorials-and-guides">tutorials</a>,
