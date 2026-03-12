@@ -10,7 +10,7 @@
   <a href="#starter-projects">starters</a>,
   <a href="#plugins">plugins</a>,
   <a href="#tutorials-and-guides">tutorials</a>,
-  <a href="#sites-using-build-awesome">sites</a>
+  <a href="#sites-using-eleventy-build-awesome">sites</a>
   and <a href="https://any.digital/tricks/build-awesome-11ty/">more ↗</a>
 </p>
 
@@ -92,7 +92,7 @@ GraphQL:
 
 </details>
 
-### Sites using Build Awesome
+### Sites using Eleventy (Build Awesome)
 
 - [Benchmark web sites Built with Eleventy over time](https://www.11ty.dev/speedlify/) created by Zach Leatherman
 - [A showcase of websites built with the Eleventy static site generator](https://11tybundle.dev/showcase/) by 11tybundle
