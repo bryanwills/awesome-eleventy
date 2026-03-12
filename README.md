@@ -11,23 +11,21 @@
   <a href="#plugins">plugins</a>,
   <a href="#tutorials-and-guides">tutorials</a>,
   <a href="#sites-using-build-awesome">sites</a>
-  and <a href="https://any.digital/tricks/build-awesome/">more ↗</a>
+  and <a href="https://any.digital/tricks/build-awesome-11ty/">more ↗</a>
 </p>
 
 ---
 
 <!--section:content-->
 
-### Eleventy is becoming Build Awesome
+### Eleventy is [slowly] becoming Build Awesome
 
-- [Introducing: Build Awesome](https://blog.fontawesome.com/introducing-build-awesome-static-site-platform-kickstarter/) by Font Awesome
-  - [Build a Web Site in 7 Minutes with Build Awesome](https://www.youtube.com/watch?v=yqBbIh5wMKQ) - YouTube Demo
-  - [Collaborative Editing with Build Awesome – Edit Your Web Site Live](https://www.youtube.com/watch?v=lBBClBAxrvg) - YouTube Demo
-  - [Ongoing Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome)
-- [Announcement by 11ty on Bluesky](https://bsky.app/profile/11ty.dev/post/3mg6ahzej722m)
+- [Upcoming Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) by Font Awesome
+- [Original Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/)
+  - ~~[Build a Web Site in 7 Minutes with Build Awesome](https://www.youtube.com/watch?v=yqBbIh5wMKQ) - YouTube Demo~~
+  - ~~[Collaborative Editing with Build Awesome – Edit Your Web Site Live](https://www.youtube.com/watch?v=lBBClBAxrvg) - YouTube Demo~~
 - More on topic:
   - [Trends: Static Site Generators 2026-2040](https://any.digital/insights/ssg/)
-  - 
 
 ### Starter projects
 
