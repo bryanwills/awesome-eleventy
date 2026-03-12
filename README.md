@@ -61,7 +61,7 @@ Minimally maintained:
 ### Plugins
 
 - [2026] [Table of Contents](https://github.com/uncenter/eleventy-plugin-toc) - Simple and configurable table of contents generation for Eleventy.
-- [2026] [Blades [Kit]](https://github.com/anydigital/eleventy-blades) - A collection of helpful utilities and filters for Eleventy (11ty).
+- [2026] [Blades](https://github.com/anydigital/eleventy-blades) - A collection of helpful utilities and filters for Eleventy (11ty).
 - [2025] [Fetch](https://github.com/11ty/eleventy-fetch) - Utility to cache any remote asset: Image, Video, Web Font, CSS, JSON, etc.
 - [Explore more ↗](https://eleventy-explorer.netlify.app/)
 
