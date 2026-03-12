@@ -104,7 +104,7 @@ Contributions welcome and encouraged! Read the [contribution guidelines](CONTRIB
 
 ### Credits
 
-- Originally created by [Chris C.](https://github.com/chrissy-dev)
+- Originally created by [Chris Collins](https://github.com/chrissy-dev)
 - Currently maintained by [*Any*digital](https://github.com/anydigital)
 
 ### License
