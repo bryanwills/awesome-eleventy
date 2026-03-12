@@ -1,69 +1,119 @@
-<p align="center">
-	<img src="/11ty-logo.png" alt="Eleventy Logo" width="56" align="center" />
-</p>
-
 <h1 align="center">
-	<a href="https://www.11ty.io/"><strong>Awesome Eleventy</strong></a>
+  <img src="https://awesome.re/badge.svg"><br>
+  Eleventy
+  <img src="/11ty-logo.png" height="24">
+  Build Awesome
 </h1>
 
-<p align="center">A curated list of awesome Eleventy (11ty) starter projects, plugins, guides, snippets, etc</p>
-
-
 <p align="center">
-	<a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a>
+  A curated list of awesome Eleventy<sup>11ty</sup> (now Build Awesome)<br>
+  <a href="#starter-projects">starters</a>,
+  <a href="#plugins">plugins</a>,
+  <a href="#tutorials-and-guides">tutorials</a>,
+  <a href="#sites-using-build-awesome">sites</a>
+  and <a href="https://any.digital/tricks/build-awesome/">more ↗</a>
 </p>
 
+---
 
-## Contents
+<!--section:content-->
 
-- [Starter Projects](#starter-projects)
-- [Tutorials and Guides](#tutorials-and-guides)
-- [Screencasts](#screencasts)
-- [Sites using Eleventy](#sites-using-eleventy)
+### Eleventy is becoming Build Awesome
 
+- [Introducing: Build Awesome](https://blog.fontawesome.com/introducing-build-awesome-static-site-platform-kickstarter/) by Font Awesome
+  - [Build a Web Site in 7 Minutes with Build Awesome](https://www.youtube.com/watch?v=yqBbIh5wMKQ) - YouTube Demo
+  - [Collaborative Editing with Build Awesome – Edit Your Web Site Live](https://www.youtube.com/watch?v=lBBClBAxrvg) - YouTube Demo
+  - [Ongoing Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome)
+- [Announcement by 11ty on Bluesky](https://bsky.app/profile/11ty.dev/post/3mg6ahzej722m)
+- More on topic:
+  - [Trends: Static Site Generators 2026-2040](https://any.digital/insights/ssg/)
+  - 
 
+### Starter projects
 
-## Starter Projects
+Projects that provide a quick starting point for Eleventy sites:
 
-Projects that provide a quick starting point for Eleventy sites.
+- [Curated list of starters](https://11tybundle.dev/starters/) by 11tybundle
+- [Curated list of *minimal* starters](https://any.digital/tricks/build-awesome/#min-starters) by *Any*digital
+- [Curated list of 11ty starters for Sveltia CMS](https://sveltiacms.app/en/docs/frameworks/eleventy#starter-templates)
+- [A larger list of community starters](https://www.11ty.dev/docs/starter/)
 
-- [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
-- [Eleventy One](https://github.com/philhawksworth/eleventyone) - 
-A scaffold for a quick start building with the Eleventy SSG.
-- [Hylia](https://hylia.website/) 📦 - Hylia is a lightweight Eleventy starter kit with Netlify CMS pre-configured, so that you can one-click install a progressive, accessible blog in minutes. 
-- [Deventy](https://github.com/ianrose/deventy) - A minimal 11ty starting point for building static websites with modern tools.
-- [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) - A boilerplate for building a simple website with the Eleventy static site generator.
-- [Eleventy Starter Ghost](https://github.com/TryGhost/eleventy-starter-ghost) - A starter template to build websites with Ghost & Eleventy.
-- [Eleventy Web Starter](https://github.com/chrissy-dev/eleventy-web-starter) - A modern static website workflow using Eleventy, Tailwind CSS, Webpack and PostCSS. 
-- [Eleventy Starter Boilerplate](https://creativedesignsguru.com/demo/Eleventy-Starter-Boilerplate/eleventy-starter-boilerplate-presentation/) - 🚀 Eleventy Starter Boilerplate is production-ready with SEO-friendly for quickly starting a blog. ⚡️ Built with Eleventy, ESLint, Prettier, Webpack, PostCSS, Tailwind CSS.
-- [Eleventy Garden](https://github.com/b3u/eleventy-garden) - A starter site for building a [mind garden](https://nesslabs.com/mind-garden) in Eleventy.
+Modern v4 starters:
 
-## Tutorials and guides
+- [2026] [Sveleven](https://github.com/anydigital/sveleven) - Modern, lightweight Eleventy v4 starter with Tailwind or Pico.css, CMS and multisiting.
+- [2026] [*Blade*switch](https://github.com/anydigital/bladeswitch) - Ultra-lightweight starter compatible with BOTH Jekyll⇋and⇋Eleventy at the same time.
 
-- [Turn Jekyll up to Eleventy](https://24ways.org/2018/turn-jekyll-up-to-eleventy/) - An excellent article explaining the differences and similarities between Jekyll and 11ty. 
-- [Static Indieweb - Using Webmentions](https://mxb.dev/blog/using-webmentions-on-static-sites/) - How [Max Böck](https://mxb.dev) added webmentions to his Eleventy site.
-- [Consuming a headless CMS GraphQL API with Eleventy](https://www.webstoemp.com/blog/headless-cms-graphql-api-eleventy/) - Consuming data coming from a GraphQL API to generate static pages is as easy as using Markdown files.
-## Screencasts 
-- Building a Static Site with Eleventy
-	- [Building a Static Site with Eleventy - Part 1](https://www.youtube.com/watch?v=p7TkCS01lI8)
-	- [Static Sites Using Data - Part 2](https://www.youtube.com/watch?v=JpK0G4vQjZI)
-	- [Creating a reusable simple content template - Part 3](https://www.youtube.com/watch?v=iHHxd5L_gIo)
-	- [Collections - Part 4](https://www.youtube.com/watch?v=xzH2XZubgEk)
-	- [Custom Homepage - Part 5](https://www.youtube.com/watch?v=5MpfJNdPnNs)
-	- [Contact Page and Deploying to Netlify - Part 6](https://www.youtube.com/watch?v=Rw75idHWPi4)
-- [Simplifying Content Management With Eleventy.js and Netlify CMS](https://www.youtube.com/watch?v=883iX2E57kc)
+Minimally maintained:
 
+- [2025] [Base Blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
+- [2025] [Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) - A boilerplate for building a simple website with the Eleventy static site generator.
 
-## Sites using Eleventy
+<details><summary>Archived</summary>
 
-An offical list is maintained on the 11ty.dev site. [You can see it here](https://www.11ty.dev/docs/sites/).
+- 📦 [Eleventy One](https://github.com/philhawksworth/eleventyone) - A scaffold for a quick start building with the Eleventy SSG.
+- 📦 [Hylia](https://hylia.website/) - Hylia is a lightweight Eleventy starter kit with Netlify CMS pre-configured, so that you can one-click install a progressive, accessible blog in minutes.
+- 📦 [Deventy](https://github.com/ianrose/deventy) - A minimal 11ty starting point for building static websites with modern tools.
+- 📦 [Eleventy Starter Ghost](https://github.com/TryGhost/eleventy-starter-ghost) - A starter template to build websites with Ghost & Eleventy.
+- 📦 [Eleventy Web Starter](https://github.com/chrissy-dev/eleventy-web-starter) - A modern static website workflow using Eleventy, Tailwind CSS, Webpack and PostCSS.
+- 📦 [Eleventy Starter Boilerplate](https://creativedesignsguru.com/demo/Eleventy-Starter-Boilerplate/eleventy-starter-boilerplate-presentation/) - 🚀 Eleventy Starter Boilerplate is production-ready with SEO-friendly for quickly starting a blog. ⚡️ Built with Eleventy, ESLint, Prettier, Webpack, PostCSS, Tailwind CSS.
+- 📦 [Eleventy Garden](https://github.com/b3u/eleventy-garden) - A starter site for building a [mind garden](https://nesslabs.com/mind-garden) in Eleventy.
 
+</details>
 
-## Contribute
+### Plugins
+
+- [2026] [Bricks [Kit]](https://github.com/anydigital/eleventy-bricks) - A collection of helpful utilities and filters for Eleventy (11ty).
+- [2025] [Fetch](https://github.com/11ty/eleventy-fetch) - Utility to cache any remote asset: Image, Video, Web Font, CSS, JSON, etc.
+- [2023] [Table of Contents](https://github.com/uncenter/eleventy-plugin-toc) - Simple and configurable table of contents generation for Eleventy.
+- [Explore more ↗](https://eleventy-explorer.netlify.app/)
+
+### Tutorials and guides
+
+<!--General guides:-->
+- [2026] [Learn Eleventy](https://learneleventy.dev/) - This course is designed to give you a really solid understanding of Eleventy—even if you’ve never used it before.
+- [2022] [11ty Second 11ty by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3rrNiBBN-wn2BJ11OHiBuC1n)
+- [2019] [Eleventy (11ty) Tutorials by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3roi5Eb3v-SkUV3nfGIyc_LF)
+
+Templating:
+- [2026] [Build Awesome & Nunjucks Tricks](https://any.digital/tricks/build-awesome/) - A curated collection of Eleventy (11ty) tricks, starters, command line tips, configuration snippets, and templating techniques.
+- [2026] [Liquid Tricks](https://any.digital/tricks/liquid/) - A collection of useful Liquid templating tips & tricks.
+
+Migration:
+- [2018] [Turn Jekyll up to Eleventy](https://24ways.org/2018/turn-jekyll-up-to-eleventy/) - An excellent article explaining the differences and similarities between Jekyll and 11ty.
+
+Webmentions:
+- [2019] [Static Indieweb - Using Webmentions](https://mxb.dev/blog/using-webmentions-on-static-sites/) - How [Max Böck](https://mxb.dev) added webmentions to his Eleventy site.
+
+GraphQL:
+- [2019] [Consuming a headless CMS GraphQL API with Eleventy](https://www.webstoemp.com/blog/headless-cms-graphql-api-eleventy/) - Consuming data coming from a GraphQL API to generate static pages is as easy as using Markdown files.
+
+<details><summary>Archived</summary>
+
+- 📦 [2018] [Simplifying Content Management With Eleventy.js and Netlify CMS](https://www.youtube.com/watch?v=883iX2E57kc)
+
+</details>
+
+### Sites using Build Awesome
+
+- [Benchmark web sites Built with Eleventy over time](https://www.11ty.dev/speedlify/) created by Zach Leatherman
+- [A showcase of websites built with the Eleventy static site generator](https://11tybundle.dev/showcase/) by 11tybundle
+
+<!--section-->
+
+### Contribute
 
 Contributions welcome and encouraged! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
+### Credits
 
-## License
+- Originally created by [Chris C.](https://github.com/chrissy-dev)
+- Currently maintained by [*Any*digital](https://github.com/anydigital)
+
+### License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+<!--
+> [!IMPORTANT]
+> **Work in progress** - information below is under review:
+-->
