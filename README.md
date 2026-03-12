@@ -20,6 +20,7 @@
 
 ### Eleventy is [slowly] becoming Build Awesome
 
+- [Official announcement in Eleventy blog](https://www.11ty.dev/blog/build-awesome/)
 - [Upcoming Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) by Font Awesome
 - [Original Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/)
 
