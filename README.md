@@ -27,6 +27,7 @@
 
 More on topic:
 - [Trends: Static Site Generators 2026-2040](https://any.digital/insights/ssg/)
+- [Eleventy icon in Font Awesome](https://fontawesome.com/icons/eleventy?f=brands&s=solid) 🎈
 
 ### Starter projects
 
