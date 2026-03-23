@@ -1,11 +1,11 @@
 <!--section:index-->
 
-<h1 align="center">
+<h2 align="center">
   <img src="https://awesome.re/badge.svg"><br>
   Eleventy
   <img src="/11ty-logo.png" height="24">
   Build Awesome
-</h1>
+</h2>
 
 <p align="center">
   A curated list of awesome Eleventy<sup>11ty</sup> (soon Build Awesome)<br>
