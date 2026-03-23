@@ -2,9 +2,7 @@
 
 <h2 id="awesome" align="center">
   <img src="https://awesome.re/badge.svg"><br>
-  Eleventy
-  <img src="https://raw.githubusercontent.com/anydigital/awesome-11ty-build-awesome/refs/heads/master/11ty-logo.png" height="16">
-  Build Awesome
+  Eleventy <i class="fa-brands fa-eleventy"></i> Build Awesome
 </h2>
 
 <p align="center">
