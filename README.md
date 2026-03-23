@@ -1,3 +1,5 @@
+<!--section:index-->
+
 <h1 align="center">
   <img src="https://awesome.re/badge.svg"><br>
   Eleventy
@@ -15,8 +17,6 @@
 </p>
 
 ---
-
-<!--section:content-->
 
 ### Eleventy is [slowly] becoming Build Awesome
 
