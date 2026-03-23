@@ -2,7 +2,7 @@
 
 <h2 id="awesome" align="center">
   <img src="https://awesome.re/badge.svg"><br>
-  Eleventy <i class="fa-brands fa-eleventy"></i> Build Awesome
+  Awesome Eleventy <i class="fa-brands fa-eleventy"></i> Build Awesome
 </h2>
 
 <p align="center">
