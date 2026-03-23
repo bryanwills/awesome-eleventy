@@ -11,7 +11,7 @@
   <a href="#plugins">plugins</a>,
   <a href="#tutorials-and-guides">tutorials</a>,
   <a href="#sites-using-eleventy-build-awesome">sites</a>
-  and <a href="https://any.digital/tricks/build-awesome-11ty/">more ↗</a>
+  and <a href="https://blades.ninja/build-awesome-11ty/">more ↗</a>
 </p>
 
 ---
