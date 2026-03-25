@@ -18,6 +18,9 @@
 
 ### Eleventy is [slowly] becoming Build Awesome
 
+- [2026-Mar-23] [The Possum Mascot, now with additional Awesome](https://www.11ty.dev/blog/awesome-possum/) in 11ty.dev/blog
+- [2026-Mar-20] [Eleventy v4.0.0-alpha.7 released](https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.7) with a note:
+  > "this may be one of the last canary releases before you see some names start to change to Build Awesome"
 - [Official announcement in Eleventy blog](https://www.11ty.dev/blog/build-awesome/)
 - [AMA about Build Awesome, an Open Town Hall with Zach Leatherman](https://www.youtube.com/watch?v=lA-wD89m6jM) on YouTube
 - [Upcoming Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) by Font Awesome
