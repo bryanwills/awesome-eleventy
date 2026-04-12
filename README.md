@@ -1,9 +1,7 @@
-<!--section:index-->
-
-<h2 id="awesome" align="center">
+<h1 align="center">
   <img src="https://awesome.re/badge.svg"><br>
-  Awesome Eleventy <i class="fa-brands fa-eleventy"></i> Build Awesome
-</h2>
+  Awesome Eleventy Build Awesome
+</h1>
 
 <p align="center">
   A curated list of awesome Eleventy<sup>11ty</sup> (soon Build Awesome)<br>
@@ -16,7 +14,9 @@
 
 ---
 
-### Eleventy is [slowly] becoming Build Awesome
+<!--section:content-->
+
+## Eleventy is [slowly] becoming Build Awesome
 
 - [2026-Mar-23] [The Possum Mascot, now with additional Awesome](https://www.11ty.dev/blog/awesome-possum/) in 11ty.dev/blog
 - [2026-Mar-20] [Eleventy v4.0.0-alpha.7 released](https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.7) with a note:
@@ -30,7 +30,7 @@ More on topic:
 - [Trends: Static Site Generators 2026-2040](https://any.digital/insights/ssg/)
 - [Eleventy icon in Font Awesome](https://fontawesome.com/icons/eleventy?f=brands&s=solid) 😎
 
-### Starter projects
+## Starter projects
 
 Projects that provide a quick starting point for Eleventy sites:
 
@@ -61,14 +61,14 @@ Minimally maintained:
 
 </details>
 
-### Plugins
+## Plugins
 
 - [2026] [Table of Contents](https://github.com/uncenter/eleventy-plugin-toc) - Simple and configurable table of contents generation for Eleventy.
 - [2026] [Blades](https://github.com/anydigital/eleventy-blades) - A collection of helpful utilities and filters for Eleventy (11ty).
 - [2025] [Fetch](https://github.com/11ty/eleventy-fetch) - Utility to cache any remote asset: Image, Video, Web Font, CSS, JSON, etc.
 - [Explore more ↗](https://eleventy-explorer.netlify.app/)
 
-### Tutorials and guides
+## Tutorials and guides
 
 <!--General guides:-->
 - [2026] [Learn Eleventy](https://learneleventy.dev/) - This course is designed to give you a really solid understanding of Eleventy—even if you’ve never used it before.
@@ -94,23 +94,23 @@ GraphQL:
 
 </details>
 
-### Sites using Eleventy (Build Awesome)
+## Sites using Eleventy (Build Awesome)
 
 - [Benchmark web sites Built with Eleventy over time](https://www.11ty.dev/speedlify/) created by Zach Leatherman
 - [A showcase of websites built with the Eleventy static site generator](https://11tybundle.dev/showcase/) by 11tybundle
 
 <!--section-->
 
-### Contribute
+## Contribute
 
 Contributions welcome and encouraged! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
-### Credits
+## Credits
 
 - Originally created by [Chris Collins](https://github.com/chrissy-dev)
 - Currently maintained by [*Any*digital](https://github.com/anydigital)
 
-### License
+## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
