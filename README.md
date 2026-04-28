@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://awesome.re/badge.svg"><br>
-  Awesome Eleventy Build Awesome
+  Eleventy / Build Awesome
 </h1>
 
 <p align="center">
@@ -16,15 +16,15 @@
 
 <!--section:content-->
 
-## Eleventy is [slowly] becoming Build Awesome
+## Eleventy is becoming Build Awesome
 
-- [2026-Mar-23] [The Possum Mascot, now with additional Awesome](https://www.11ty.dev/blog/awesome-possum/) in 11ty.dev/blog
-- [2026-Mar-20] [Eleventy v4.0.0-alpha.7 released](https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.7) with a note:
+- `2026-04-28` [New ongoing Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) 🎈
+- `2026-03-23` [The Possum Mascot, now with additional Awesome](https://www.11ty.dev/blog/awesome-possum/) `@11ty.dev`
+- `2026-03-20` [Eleventy v4.0.0-alpha.7](https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.7) released with a note:
   > "this may be one of the last canary releases before you see some names start to change to Build Awesome"
-- [Official announcement in Eleventy blog](https://www.11ty.dev/blog/build-awesome/)
-- [AMA about Build Awesome, an Open Town Hall with Zach Leatherman](https://www.youtube.com/watch?v=lA-wD89m6jM) on YouTube
-- [Upcoming Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) by Font Awesome
-- [Original Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/)
+- `2026-03-13` [AMA about Build Awesome, an Open Town Hall with Zach Leatherman](https://www.youtube.com/watch?v=lA-wD89m6jM) `@YouTube`
+- `2026-03-03`..`06` [Original Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) `@FA`
+- `2026-03-03` [Official announcement](https://www.11ty.dev/blog/build-awesome/) `@11ty.dev`
 
 More on topic:
 - [Trends: Static Site Generators 2026-2040](https://any.digital/insights/ssg/)
