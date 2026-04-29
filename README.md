@@ -27,7 +27,7 @@
 - `2026-03-03`..`06` [Original Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) `@FA`
 - `2026-03-03` [Official announcement](https://www.11ty.dev/blog/build-awesome/) `@11ty.dev`
 
-More on topic:
+See also:
 
 - [Static Site Generator Trends 2026-2040](https://blades.ninja/ssg/) `@blades.ninja`
 - [Eleventy icon in Font Awesome](https://fontawesome.com/icons/eleventy?f=brands&s=solid) 😎
