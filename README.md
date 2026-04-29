@@ -18,6 +18,7 @@
 
 ## Eleventy is becoming Build Awesome
 
+- `2026-04-29` [Build Awesome Pro Kickstarter AMA](https://www.youtube.com/live/KkwOTAAJ3gs) `@YouTube`
 - `2026-04-28` [New ongoing Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) 🎈
 - `2026-03-23` [The Possum Mascot, now with additional Awesome](https://www.11ty.dev/blog/awesome-possum/) `@11ty.dev`
 - `2026-03-20` [Eleventy v4.0.0-alpha.7](https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.7) released with a note:
@@ -27,7 +28,7 @@
 - `2026-03-03` [Official announcement](https://www.11ty.dev/blog/build-awesome/) `@11ty.dev`
 
 More on topic:
-- [Trends: Static Site Generators 2026-2040](https://any.digital/insights/ssg/)
+- [Static Site Generator Trends 2026-2040](https://blades.ninja/ssg/) `@blades.ninja`
 - [Eleventy icon in Font Awesome](https://fontawesome.com/icons/eleventy?f=brands&s=solid) 😎
 
 ## Starter projects
