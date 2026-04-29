@@ -60,7 +60,7 @@ More starters:
 - `2026` [*Bl*ades](https://github.com/anyblades/eleventy-blades) — Ultimate blade kit for 11ty (Build Awesome).
 - `2026` [Fetch](https://github.com/11ty/eleventy-fetch) — Utility to cache any remote asset: Image, Video, Web Font, CSS, JSON, etc.
 - `2026` [Table of Contents](https://github.com/uncenter/eleventy-plugin-toc) — Simple and configurable table of contents generation for Eleventy.
-- [More plugins ↗](https://www.11ty.dev/docs/plugins/)
+- [Community plugins ↗](https://www.11ty.dev/docs/plugins/community/)
 - [Even more plugins ↗](https://eleventy-explorer.netlify.app/)
 
 ## Tutorials
