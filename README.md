@@ -28,6 +28,7 @@
 - `2026-03-03` [Official announcement](https://www.11ty.dev/blog/build-awesome/) `@11ty.dev`
 
 More on topic:
+
 - [Static Site Generator Trends 2026-2040](https://blades.ninja/ssg/) `@blades.ninja`
 - [Eleventy icon in Font Awesome](https://fontawesome.com/icons/eleventy?f=brands&s=solid) 😎
 
@@ -35,10 +36,10 @@ More on topic:
 
 Projects that provide a quick starting point for Eleventy sites:
 
-- [Curated list of starters](https://11tybundle.dev/starters/) by 11tybundle
-- [Curated list of *minimal* starters](https://any.digital/tricks/build-awesome/#min-starters) by *Any*digital
-- [Curated list of 11ty starters for Sveltia CMS](https://sveltiacms.app/en/docs/frameworks/eleventy#starter-templates)
-- [A larger list of community starters](https://www.11ty.dev/docs/starter/)
+- [Curated list of starters](https://11tybundle.dev/starters/) `@11tybundle.dev`
+- [Curated list of minimal starters](https://blades.ninja/build-awesome-11ty/starters/#min) `@blades.ninja`
+- [Curated list of 11ty starters for Sveltia CMS](https://sveltiacms.app/en/docs/frameworks/eleventy#starter-templates) `@sveltiacms.app`
+- [A larger list of community starters](https://www.11ty.dev/docs/starter/) `@11ty.dev`
 
 Modern v4 starters:
 
@@ -72,21 +73,26 @@ Minimally maintained:
 ## Tutorials and guides
 
 <!--General guides:-->
+
 - [2026] [Learn Eleventy](https://learneleventy.dev/) - This course is designed to give you a really solid understanding of Eleventy—even if you’ve never used it before.
 - [2022] [11ty Second 11ty by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3rrNiBBN-wn2BJ11OHiBuC1n)
 - [2019] [Eleventy (11ty) Tutorials by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3roi5Eb3v-SkUV3nfGIyc_LF)
 
 Templating:
+
 - [2026] [Build Awesome & Nunjucks Tricks](https://any.digital/tricks/build-awesome/) - A curated collection of Eleventy (11ty) tricks, starters, command line tips, configuration snippets, and templating techniques.
 - [2026] [Liquid Tricks](https://any.digital/tricks/liquid/) - A collection of useful Liquid templating tips & tricks.
 
 Migration:
+
 - [2018] [Turn Jekyll up to Eleventy](https://24ways.org/2018/turn-jekyll-up-to-eleventy/) - An excellent article explaining the differences and similarities between Jekyll and 11ty.
 
 Webmentions:
+
 - [2019] [Static Indieweb - Using Webmentions](https://mxb.dev/blog/using-webmentions-on-static-sites/) - How [Max Böck](https://mxb.dev) added webmentions to his Eleventy site.
 
 GraphQL:
+
 - [2019] [Consuming a headless CMS GraphQL API with Eleventy](https://www.webstoemp.com/blog/headless-cms-graphql-api-eleventy/) - Consuming data coming from a GraphQL API to generate static pages is as easy as using Markdown files.
 
 <details><summary>Archived</summary>
