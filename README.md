@@ -43,8 +43,8 @@ Projects that provide a quick starting point for Eleventy sites:
 
 Modern v4 starters:
 
-- [2026] [Build Awesome Starter](https://github.com/anydigital/build-awesome-starter) - Modern, lightweight Eleventy v4 starter with Tailwind or Pico; [Blades](https://github.com/anydigital/blades), CMS and multisiting.
-- [2026] [*Blade*switch](https://github.com/anydigital/bladeswitch) - Ultra-lightweight [Blades](https://github.com/anydigital/blades) starter compatible with _BOTH_ Jekyll⇋and⇋11ty (Build Awesome) at the same time.
+- [2026] [Build Awesome Starter](https://github.com/anydigital/build-awesome-starter) | Modern, lightweight Eleventy v4 starter with Tailwind/Pico, [*Bl*ades](https://github.com/anyblades/blades), CMS and multisiting.
+- [2026] [*S*ubtle](https://github.com/anyblades/subtle) | Probably the most `.subtle` blog starter template, yet customizable thanks to [11ty plugin](https://github.com/anyblades/eleventy-blades), [Pico](https://github.com/anyblades/pico) and other [*Bl*ades](https://github.com/anyblades/blades).
 
 Minimally maintained:
 
