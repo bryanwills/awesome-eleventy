@@ -5,10 +5,10 @@
 
 <p align="center">
   A curated list of awesome Eleventy<sup>11ty</sup> (soon Build Awesome)<br>
-  <a href="#starter-projects">starters</a>,
+  <a href="#starters">starters</a>,
   <a href="#plugins">plugins</a>,
-  <a href="#tutorials-and-guides">tutorials</a>,
-  <a href="#sites-using-eleventy-build-awesome">sites</a>
+  <a href="#tutorials">tutorials</a>,
+  <a href="#sites">sites</a>
   and <a href="https://blades.ninja/build-awesome-11ty/">more ↗</a>
 </p>
 
@@ -32,7 +32,7 @@ More on topic:
 - [Static Site Generator Trends 2026-2040](https://blades.ninja/ssg/) `@blades.ninja`
 - [Eleventy icon in Font Awesome](https://fontawesome.com/icons/eleventy?f=brands&s=solid) 😎
 
-## Starter projects
+## Starters
 
 Projects that provide a quick starting point for Eleventy sites:
 
@@ -54,16 +54,16 @@ Minimally maintained:
 
 - `2025` [Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) — A boilerplate for building a simple website with the Eleventy static site generator.
 
-## Plugins <!--A-Z-->
+## Plugins<!-- A-Z -->
 
 - `2026` [*Bl*ades](https://github.com/anyblades/eleventy-blades) — Ultimate blade kit for 11ty (Build Awesome).
 - `2026` [Fetch](https://github.com/11ty/eleventy-fetch) — Utility to cache any remote asset: Image, Video, Web Font, CSS, JSON, etc.
 - `2026` [Table of Contents](https://github.com/uncenter/eleventy-plugin-toc) — Simple and configurable table of contents generation for Eleventy.
 - [Explore more ↗](https://eleventy-explorer.netlify.app/)
 
-## Tutorials and guides
+## Tutorials
 
-<!--General guides:-->
+<!-- General guides: -->
 
 - `2026` [Learn Eleventy](https://learneleventy.dev/) — This course is designed to give you a really solid understanding of Eleventy—even if you’ve never used it before.
 - `2022` [11ty Second 11ty by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3rrNiBBN-wn2BJ11OHiBuC1n)
@@ -71,8 +71,8 @@ Minimally maintained:
 
 Templating:
 
-- `2026` [Build Awesome & Nunjucks Tricks](https://any.digital/tricks/build-awesome/) — A curated collection of Eleventy (11ty) tricks, starters, command line tips, configuration snippets, and templating techniques.
-- `2026` [Liquid Tricks](https://any.digital/tricks/liquid/) — A collection of useful Liquid templating tips & tricks.
+- `2026` [*Bl*ades HTML](https://blades.ninja/html/) — Generic Nunjucks/Liquid templates for 11ty/Build Awesome, Jekyll, Shopify, etc.
+- [More templating tricks ↗](https://blades.ninja/build-awesome-11ty/#tpl)
 
 Migration:
 
@@ -86,7 +86,7 @@ GraphQL:
 
 - `2019` [Consuming a headless CMS GraphQL API with Eleventy](https://www.webstoemp.com/blog/headless-cms-graphql-api-eleventy/) — Consuming data coming from a GraphQL API to generate static pages is as easy as using Markdown files.
 
-## Sites using Eleventy (Build Awesome)
+## Sites
 
 - [Benchmark web sites Built with Eleventy over time](https://www.11ty.dev/speedlify/) `@11ty.dev`
 - [A showcase of websites built with the Eleventy static site generator](https://11tybundle.dev/showcase/) `@11tybundle`
@@ -100,7 +100,7 @@ Contributions welcome and encouraged! Read the [contribution guidelines](CONTRIB
 ## Credits
 
 - Originally created by [Chris Collins](https://github.com/chrissy-dev)
-- Currently maintained by [*Any*digital](https://github.com/anydigital)
+- Currently maintained by [*Any*digital](https://any.digital/)
 
 ## License
 
