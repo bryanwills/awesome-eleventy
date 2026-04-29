@@ -43,25 +43,16 @@ Projects that provide a quick starting point for Eleventy sites:
 
 Modern v4 starters:
 
-- [2026] [Build Awesome Starter](https://github.com/anydigital/build-awesome-starter) | Modern, lightweight Eleventy v4 starter with Tailwind/Pico, [*Bl*ades](https://github.com/anyblades/blades), CMS and multisiting.
-- [2026] [*S*ubtle](https://github.com/anyblades/subtle) | Probably the most `.subtle` blog starter template, yet customizable thanks to [11ty plugin](https://github.com/anyblades/eleventy-blades), [Pico](https://github.com/anyblades/pico) and other [*Bl*ades](https://github.com/anyblades/blades).
+- `2026` [Build Awesome Starter](https://github.com/anydigital/build-awesome-starter) — Modern, lightweight Eleventy v4 starter with Tailwind/Pico, [*Bl*ades](https://github.com/anyblades/blades), CMS and multisiting.
+- `2026` [*S*ubtle](https://github.com/anyblades/subtle) — Probably the most `.subtle` blog starter template, yet customizable thanks to [11ty plugin](https://github.com/anyblades/eleventy-blades), [Pico](https://github.com/anyblades/pico) and other [*Bl*ades](https://github.com/anyblades/blades).
+
+v3 starters:
+
+- `2026` [Base Blog](https://github.com/11ty/eleventy-base-blog) — A starter repository for a blog web site using the Eleventy static site generator.
 
 Minimally maintained:
 
-- [2025] [Base Blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
-- [2025] [Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) - A boilerplate for building a simple website with the Eleventy static site generator.
-
-<details><summary>Archived</summary>
-
-- 📦 [Eleventy One](https://github.com/philhawksworth/eleventyone) - A scaffold for a quick start building with the Eleventy SSG.
-- 📦 [Hylia](https://hylia.website/) - Hylia is a lightweight Eleventy starter kit with Netlify CMS pre-configured, so that you can one-click install a progressive, accessible blog in minutes.
-- 📦 [Deventy](https://github.com/ianrose/deventy) - A minimal 11ty starting point for building static websites with modern tools.
-- 📦 [Eleventy Starter Ghost](https://github.com/TryGhost/eleventy-starter-ghost) - A starter template to build websites with Ghost & Eleventy.
-- 📦 [Eleventy Web Starter](https://github.com/chrissy-dev/eleventy-web-starter) - A modern static website workflow using Eleventy, Tailwind CSS, Webpack and PostCSS.
-- 📦 [Eleventy Starter Boilerplate](https://creativedesignsguru.com/demo/Eleventy-Starter-Boilerplate/eleventy-starter-boilerplate-presentation/) - 🚀 Eleventy Starter Boilerplate is production-ready with SEO-friendly for quickly starting a blog. ⚡️ Built with Eleventy, ESLint, Prettier, Webpack, PostCSS, Tailwind CSS.
-- 📦 [Eleventy Garden](https://github.com/b3u/eleventy-garden) - A starter site for building a [mind garden](https://nesslabs.com/mind-garden) in Eleventy.
-
-</details>
+- `2025` [Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) — A boilerplate for building a simple website with the Eleventy static site generator.
 
 ## Plugins
 
