@@ -49,6 +49,7 @@ Modern v4 starters:
 v3 starters:
 
 - `2026` [Base Blog](https://github.com/11ty/eleventy-base-blog) — A starter repository for a blog web site using the Eleventy static site generator.
+- `2026` [Excellent](https://github.com/madrilene/eleventy-excellent) — Eleventy starter with CUBE CSS, Every Layout and global design tokens. A workflow for modern & resilient websites, based on the CUBE CSS boilerplate.
 
 Minimally maintained:
 
