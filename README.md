@@ -34,13 +34,6 @@ More on topic:
 
 ## Starters
 
-Projects that provide a quick starting point for Eleventy sites:
-
-- [Curated list of starters](https://11tybundle.dev/starters/) `@11tybundle.dev`
-- [Curated list of minimal starters](https://blades.ninja/build-awesome-11ty/starters/#min) `@blades.ninja`
-- [Curated list of 11ty starters for Sveltia CMS](https://sveltiacms.app/en/docs/frameworks/eleventy#starter-templates) `@sveltiacms.app`
-- [A larger list of community starters](https://www.11ty.dev/docs/starter/) `@11ty.dev`
-
 Modern v4 starters:
 
 - `2026` [Build Awesome Starter](https://github.com/anydigital/build-awesome-starter) — Modern, lightweight Eleventy v4 starter with Tailwind/Pico, [*Bl*ades](https://github.com/anyblades/blades), CMS and multisiting.
@@ -54,6 +47,13 @@ v3 starters:
 Minimally maintained:
 
 - `2025` [Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) — A boilerplate for building a simple website with the Eleventy static site generator.
+
+More starters:
+
+- [Curated list of ~40 starters](https://11tybundle.dev/starters/) `@11tybundle.dev`
+- [Curated list of ~10 minimal starters](https://blades.ninja/build-awesome-11ty/starters/#min) `@blades.ninja`
+- [Curated list of ~5 CMS starters](https://sveltiacms.app/en/docs/frameworks/eleventy) `@sveltiacms.app`
+- [A larger list of 150+ community starters](https://www.11ty.dev/docs/starter/) `@11ty.dev`
 
 ## Plugins<!-- A-Z -->
 
