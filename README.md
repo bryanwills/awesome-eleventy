@@ -81,11 +81,11 @@ Migration:
 
 Webmentions:
 
-- `2019` [Static Indieweb - Using Webmentions](https://mxb.dev/blog/using-webmentions-on-static-sites/) — How [Max Böck](https://mxb.dev) added webmentions to his Eleventy site.
+- `2019` [Using Webmentions in Eleventy](https://mxb.dev/blog/using-webmentions-on-static-sites/)
 
 GraphQL:
 
-- `2019` [Consuming a headless CMS GraphQL API with Eleventy](https://www.webstoemp.com/blog/headless-cms-graphql-api-eleventy/) — Consuming data coming from a GraphQL API to generate static pages is as easy as using Markdown files.
+- `2019` [Consuming a headless CMS GraphQL API with Eleventy](https://www.webstoemp.com/blog/headless-cms-graphql-api-eleventy/)
 
 ## Sites
 
