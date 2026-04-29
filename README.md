@@ -92,6 +92,7 @@ GraphQL:
 
 - [Benchmark web sites Built with Eleventy over time](https://www.11ty.dev/speedlify/) `@11ty.dev`
 - [A showcase of websites built with the Eleventy static site generator](https://11tybundle.dev/showcase/) `@11tybundle`
+- [Explore real-world websites using Sveltia CMS across various industries, built with Eleventy](https://sveltiacms.app/en/showcase?framework=eleventy) `@sveltiacms.app`
 
 <!--section-->
 
