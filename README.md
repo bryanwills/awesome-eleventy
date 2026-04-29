@@ -16,7 +16,7 @@
 
 <!--section:content-->
 
-## Eleventy is becoming Build Awesome
+## Eleventy is becoming Build Awesome<!-- Z-A -->
 
 - `2026-04-29` [Build Awesome Pro Kickstarter AMA](https://www.youtube.com/live/KkwOTAAJ3gs) `@YouTube`
 - `2026-04-28` [New ongoing Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) 🎈
@@ -57,11 +57,13 @@ More starters:
 - [Curated list of ~5 CMS starters](https://sveltiacms.app/en/docs/frameworks/eleventy) `@sveltiacms.app`
 - [A larger list of 150+ community starters](https://www.11ty.dev/docs/starter/) `@11ty.dev`
 
-## Plugins<!-- A-Z -->
+## Plugins<!-- Z-A -->
 
-- `2026` [*Bl*ades](https://github.com/anyblades/eleventy-blades) — Ultimate blade kit for 11ty (Build Awesome).
-- `2026` [Fetch](https://github.com/11ty/eleventy-fetch) — Utility to cache any remote asset: Image, Video, Web Font, CSS, JSON, etc.
 - `2026` [Table of Contents](https://github.com/uncenter/eleventy-plugin-toc) — Simple and configurable table of contents generation for Eleventy.
+- `2026` [RSS](https://github.com/11ty/eleventy-plugin-rss) — A pack of Eleventy plugins for generating an RSS feed.
+- `2026` [Fetch](https://github.com/11ty/eleventy-fetch) — Utility to cache any remote asset: Image, Video, Web Font, CSS, JSON, etc.
+- `2026` [*Bl*ades](https://github.com/anyblades/eleventy-blades) — Ultimate blade kit for 11ty (Build Awesome).
+- `2025` [Navigation](https://github.com/11ty/eleventy-navigation) — A plugin for creating hierarchical navigation in Eleventy projects. Supports breadcrumbs too!
 - [Community plugins ↗](https://www.11ty.dev/docs/plugins/community/)
 - [Even more plugins ↗](https://eleventy-explorer.netlify.app/)
 
