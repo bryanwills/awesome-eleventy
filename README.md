@@ -43,6 +43,8 @@ v3 starters:
 
 - `2026` [Base Blog](https://github.com/11ty/eleventy-base-blog) — A starter repository for a blog web site using the Eleventy static site generator.
 - `2026` [Excellent](https://github.com/madrilene/eleventy-excellent) — Eleventy starter with CUBE CSS, Every Layout and global design tokens. A workflow for modern & resilient websites, based on the CUBE CSS boilerplate.
+- `2026` [ZeroPoint](https://github.com/MWDelaney/zeropoint) — A modern, opinionated, bare-bones website starter that gets you "up to zero" on a project quickly and easily.
+- `2026` [elva](https://github.com/scottsweb/elva) — A multilingual, clean, green 11ty starter theme.
 
 Minimally maintained:
 
