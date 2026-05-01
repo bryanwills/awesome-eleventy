@@ -1,17 +1,16 @@
-base: https://blades.ninja
+base: https://11ty.blades.ninja
 favicon: /favicon.svg
-favicon_alt: /favicon.png
 title: 11ty Blades
-subtitle: Framework-agnostic, class-light CSS⁺ blade kit. Use with Pico, Simple, Tailwind, or any other CSS reset/framework.
+subtitle: Ultimate blade kit for 11ty (Build Awesome).
 author:
   name: Anton Staroverov
-brand: <big><big><a href="/" class="dark-auto"><i>🥷</i> <span class="opt"><em>Bl</em>ades</span></a></big></big>
+brand: <big><a href="/" class="dark-auto"><i class="fa-brands fa-eleventy fa-lg"></i> <span class="opt"><em>Bl</em>ades</span></a></big>
 header_links:
   - title: '<span class="faded">|</span>'
-  - url: https://github.com/anyblades
+  - url: https://github.com/anyblades/eleventy-blades
     title: <i class="fa-brands fa-github"></i>
-  - url: https://x.com/any_blades
-    title: <i class="fa-brands fa-x-twitter"></i>
+  - url: https://blades.ninja/
+    title: <i>🥷</i>
 footer_content: |
   &nbsp;&nbsp;
 

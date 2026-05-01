@@ -1,9 +1,8 @@
 ---
 permalink: /
 eleventyNavigation:
-  key: 11ty
-  title: <i class="fa-brands fa-eleventy"></i>
-  order: 3
+  title: Plugin
+  order: 0
 title: <sup>Build Awesome</sup> <em>Eleventy Bl</em>ades <small>plugin</small>
 canonical: https://11ty.blades.ninja/
 eleventyComputed:

@@ -1,7 +1,6 @@
 ---
 eleventyNavigation:
-  parent: 11ty
-  key: <i class="fa-solid fa-power-off"></i> Tools
+  key: Power-ups
   order: 3
 title: <sup>Build Awesome</sup> Power <i class="fa-brands fa-eleventy"></i> tools <sub>by <a href="/"><em>Eleventy Bl</em>ades</a></sub>
 includes:

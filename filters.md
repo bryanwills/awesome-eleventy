@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: 11ty
   key: Filters
   order: 1
 title: <sup>Build Awesome</sup> <i class="fa-brands fa-eleventy"></i> Filters <sub>by <a href="/"><em>Eleventy Bl</em>ades plugin</a></sub>

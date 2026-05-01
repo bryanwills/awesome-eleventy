@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: 11ty
   key: Processors
   order: 2
 title: <sup>Build Awesome</sup> <i class="fa-brands fa-eleventy"></i> Processors <sub>by <a href="/"><em>Eleventy Bl</em>ades plugin</a></sub>

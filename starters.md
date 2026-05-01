@@ -1,8 +1,7 @@
 ---
 eleventyNavigation:
-  parent: 11ty
   key: Starters
-  order: 4
+  order: 11
 title: |-
   <sup>How to Build Awesome</sup>
   Minimal yet long-living <i class="fa-brands fa-eleventy"></i> starters

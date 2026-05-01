@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: 11ty
   key: Awesome
   order: 12
 title: <sup>Build Awesome</sup> Awesome <i class="fa-brands fa-eleventy"></i> list
