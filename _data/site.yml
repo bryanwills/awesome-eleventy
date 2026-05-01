@@ -4,14 +4,10 @@ title: 11ty Blades
 subtitle: Ultimate blade kit for 11ty (Build Awesome).
 author:
   name: Anton Staroverov
-brand: <big><a href="/" class="dark-auto"><i class="fa-brands fa-eleventy fa-lg"></i> <span class="opt"><em>Bl</em>ades</span></a></big>
+brand: <big><a href="/" class="dark-auto"><i class="fa-brands fa-eleventy fa-lg"></i> <span><em>Bl</em>ades</span></a></big>
 header_links:
-  - title: '<span class="faded">|</span>'
+  - title: '<span class="faded opt">|</span>'
   - url: https://github.com/anyblades/eleventy-blades
     title: <i class="fa-brands fa-github"></i>
   - url: https://blades.ninja/
     title: <i>🥷</i>
-footer_content: |
-  &nbsp;&nbsp;
-
-  [<span>*Bl*adesverse</span> <i class="faded">:</i> <i><span>![](https://img.shields.io/github/stars/anyblades?logo=_&label=🥷)</span></i>](https://github.com/anyblades?sort=stargazers)
