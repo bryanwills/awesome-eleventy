@@ -33,7 +33,7 @@ includes:
       <!-- https://github.com/anyblades/awesome-11ty-build-awesome#tutorials -->
       {#njk-vscode}
       <!-- https://bsky.app/profile/any.digital/post/3mdjvepwr7k2w -->
-  - teaser: /html/
+  - teaser: https://blades.ninja/html/
   - path: https://blades.ninja/html/
     section: toc
   - path: ./_tpl.md
