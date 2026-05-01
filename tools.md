@@ -3,7 +3,7 @@ eleventyNavigation:
   parent: 11ty
   key: <i class="fa-solid fa-power-off"></i> Tools
   order: 3
-title: <sup>Build Awesome</sup> Power <i class="fa-brands fa-eleventy"></i> tools <sub>by <a href="/build-awesome-11ty/"><em>Eleventy Bl</em>ades</a></sub>
+title: <sup>Build Awesome</sup> Power <i class="fa-brands fa-eleventy"></i> tools <sub>by <a href="/"><em>Eleventy Bl</em>ades</a></sub>
 includes:
   - section: docs,code
     path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/src/eleventy.config.js
@@ -30,10 +30,10 @@ includes:
       pkill -f tailwind
       pkill -f .bin/serve
       ```
-  - path: build-awesome-11ty/_forms.md
+  - path: ./_forms.md
   - text: |-
       ---
       See also:
-  - teaser: /build-awesome-11ty/
-  - teaser: /build-awesome-11ty/starters/
+  - teaser: /
+  - teaser: /starters/
 ---

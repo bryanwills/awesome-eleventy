@@ -9,7 +9,7 @@
   <a href="#plugins">plugins</a>,
   <a href="#tutorials">tutorials</a>,
   <a href="#sites">sites</a>
-  and <a href="https://blades.ninja/build-awesome-11ty/">more ↗</a>
+  and <a href="https://11ty.blades.ninja/">more ↗</a>
 </p>
 
 ---
@@ -53,7 +53,7 @@ Minimally maintained:
 More starters:
 
 - [Curated list of ~40 starters](https://11tybundle.dev/starters/) `@11tybundle.dev`
-- [Curated list of ~10 minimal starters](https://blades.ninja/build-awesome-11ty/starters/#min) `@blades.ninja`
+- [Curated list of ~10 minimal starters](https://11ty.blades.ninja/starters/#min) `@blades.ninja`
 - [Curated list of ~5 CMS starters](https://sveltiacms.app/en/docs/frameworks/eleventy) `@sveltiacms.app`
 - [A larger list of 150+ community starters](https://www.11ty.dev/docs/starter/) `@11ty.dev`
 
@@ -78,7 +78,7 @@ General guides:
 Templating:
 
 - `2026` [*Bl*ades HTML](https://blades.ninja/html/) — Generic Nunjucks/Liquid templates for 11ty/Build Awesome, Jekyll, Shopify, etc.
-- [More templating tricks ↗](https://blades.ninja/build-awesome-11ty/#tpl)
+- [More templating tricks ↗](https://11ty.blades.ninja/#tpl)
 
 Migration:
 

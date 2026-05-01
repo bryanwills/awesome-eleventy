@@ -7,16 +7,16 @@ title: |-
   <sup>How to Build Awesome</sup>
   Minimal yet long-living <i class="fa-brands fa-eleventy"></i> starters
   <sub>that support continuous updates and evolve with your project<br class="opt">
-  based on <a href="/build-awesome-11ty/"><em>Eleventy Bl</em>ades plugin</a></sub>
+  based on <a href="/"><em>Eleventy Bl</em>ades plugin</a></sub>
 summary: Let's try to make a shift from a commodity (a template) to a service (long-term stability), and solve the "maintenance trap" where developers spend more time fixing their build tools than writing content.
 site:
   inline_styles:
     - ".columns > * { break-inside: auto }"
 
 includes:
-  - teaser: /build-awesome-11ty/
+  - teaser: /
   - text: |-
-      This way your generic [11ty config](/build-awesome-11ty/tools/#base-config), [filters](/build-awesome-11ty/filters/), shortcodes, [transforms](/build-awesome-11ty/processors/), and even [npm scripts](/build-awesome-11ty/tools/#base-scripts) live in a separate npm package.
+      This way your generic [11ty config](/tools/#base-config), [filters](/filters/), shortcodes, [transforms](/processors/), and even [npm scripts](/tools/#base-scripts) live in a separate npm package.
 
       So that the user’s project directory stays clean. Updating the "starter" is as simple as running npm update.
 
@@ -36,7 +36,7 @@ includes:
 
       https://github.com/johnheenan/minform
   - text: ---
-  - path: build-awesome-11ty/_starters.md
+  - path: ./_starters.md
 
 revised: 2026-04-24
 ---

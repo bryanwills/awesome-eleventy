@@ -12,7 +12,7 @@ includes:
   - text: |-
       ---
       ## More
-  - teaser: /build-awesome-11ty/
-  - teaser: /build-awesome-11ty/tools/
+  - teaser: /
+  - teaser: /tools/
   - teaser: /html/
 ---

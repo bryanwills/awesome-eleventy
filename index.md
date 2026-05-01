@@ -1,11 +1,11 @@
 ---
-permalink: /build-awesome-11ty/
+permalink: /
 eleventyNavigation:
   key: 11ty
   title: <i class="fa-brands fa-eleventy"></i>
   order: 3
 title: <sup>Build Awesome</sup> <em>Eleventy Bl</em>ades <small>plugin</small>
-canonical: https://blades.ninja/build-awesome-11ty/
+canonical: https://11ty.blades.ninja/
 eleventyComputed:
   summary: |-
     {{ 'https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md'
@@ -14,20 +14,20 @@ eleventyComputed:
 includes:
   - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md
     section: install
-  - teaser: /build-awesome-11ty/starters/
+  - teaser: /starters/
     no_toc: true
   - text: |-
       ---
       ## Documentation
-  - teaser: /build-awesome-11ty/filters/
-  - path: https://blades.ninja/build-awesome-11ty/filters/
-    section: toc
-  - teaser: /build-awesome-11ty/processors/
-  - path: https://blades.ninja/build-awesome-11ty/processors/
-    section: toc
-  - teaser: /build-awesome-11ty/tools/
-  - path: https://blades.ninja/build-awesome-11ty/tools/
-    section: toc
+  - teaser: /filters/
+  # - path: https://11ty.blades.ninja/filters/
+  #   section: toc
+  - teaser: /processors/
+  # - path: https://11ty.blades.ninja/processors/
+  #   section: toc
+  - teaser: /tools/
+  # - path: https://11ty.blades.ninja/tools/
+  #   section: toc
   - text: |-
       ---
       ## Templating <small>tricks</small> {#tpl}
@@ -37,12 +37,12 @@ includes:
   - teaser: /html/
   - path: https://blades.ninja/html/
     section: toc
-  - path: build-awesome-11ty/_tpl.md
+  - path: ./_tpl.md
   - text: |-
       ---
       ## More
-  - teaser: /build-awesome-11ty/starters/
-  - teaser: /build-awesome-11ty/awesome/
+  - teaser: /starters/
+  - teaser: /awesome/
   - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md
     section: featured
 
