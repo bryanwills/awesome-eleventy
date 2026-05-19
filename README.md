@@ -50,7 +50,7 @@ Minimally maintained:
 
 - `2025` [Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) — A boilerplate for building a simple website with the Eleventy static site generator.
 
-More starters:
+### More starters
 
 - [Curated list of ~40 starters](https://11tybundle.dev/starters/) `@11tybundle.dev`
 - [Curated list of ~10 minimal starters](https://11ty.blades.ninja/starters/#min) `@blades.ninja`
