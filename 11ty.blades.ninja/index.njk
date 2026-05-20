@@ -1,0 +1,49 @@
+---
+permalink: /
+eleventyComputed:
+  summary: |-
+    {{ ('https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md' if site.prod else '../../eleventy-blades/README.md')
+      | fetch | section('summary') | markdownify | safe }}
+  description: "{{ summary | remove_tag('h1') | safe }}"
+revised: 2026-02-28
+bricks:
+  - content_here: true
+  - md: |-
+      ---
+      ## <sup>Documentation</sup> {#docs}
+  - tpl: "{% include './sitenav.njk' %}"
+  #- md: |-
+  #    ---
+  #    ## Templating <small>tricks</small> {#tpl}
+  #    <!-- https://github.com/anyblades/awesome-11ty-build-awesome#tutorials -->
+  #     {#njk-vscode}
+  #     <!-- https://bsky.app/profile/any.digital/post/3mdjvepwr7k2w -->
+  # - teaser: https://blades.ninja/html/
+  #- path: https://blades.ninja/html/
+  #  section: toc
+  - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md
+    section: featured
+---
+
+<section class="hero">
+  {{ summary | safe }}
+
+  <nav>
+    <p>
+      <a href="/plugin/" role="button">Install Plugin &nbsp;›</a><br />
+      <sub>Eleventy Blades</sub>
+    </p>
+    <p>
+      <a href="https://subtle.blades.ninja/" role="button" class="contrast"
+        >Content-first Starter &nbsp;↗</a
+      ><br />
+      <sub>Sub11ty (best-in-class)</sub>
+    </p>
+    <p>
+      <a href="https://build.blades.ninja/" role="button" class="contrast"
+        >Multi-site Starter &nbsp;↗</a
+      ><br />
+      <sub>3-in-1 Build Awesome Starter(s)</sub>
+    </p>
+  </nav>
+</section>
