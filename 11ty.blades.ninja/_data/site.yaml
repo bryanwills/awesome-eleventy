@@ -4,13 +4,9 @@ brand: Eleventy 🥷
 header_links:
   - url: https://github.com/anyblades/eleventy-blades
     title: <i class="fa-brands fa-github fa-lg"></i>
-  - url: https://github.com/anyblades/build-awesome-starter
-    title: <i class="fa-brands fa-github"></i>
-  - url: https://github.com/anyblades/subtle
-    title: <i class="fa-brands fa-github fa-sm"></i>
-  - url: https://github.com/anyblades/awesome-blades
-    title: <i class="fa-brands fa-github fa-xs"></i>
+  - url: https://github.com/anyblades/awesome-11ty-buildawesome
+    title: <i class='fa-brands fa-markdown fa-rotate-270 faded'></i>
 footer_contents:
   - Code licensed [MIT](https://github.com/anyblades/eleventy-blades/blob/main/LICENSE.md),
-    docs [CC BY-SA 4.0](https://github.com/anyblades/awesome-blades/blob/main/LICENSE.md). &nbsp;
+    docs [CC BY-SA 4.0](https://github.com/anyblades/awesome-11ty-buildawesome/blob/master/LICENSE.md). &nbsp;
     Currently <img src='https://img.shields.io/github/v/release/anyblades/eleventy-blades?label=&color=white'>
