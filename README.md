@@ -117,7 +117,11 @@ Contributions welcome and encouraged! Read the [contribution guidelines](CONTRIB
 
 ## License
 
+Awesome Eleventy list under:  
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+Eleventy Blades docs under:  
+[![BY SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](docs/LICENSE.md)
 
 <!--
 > [!IMPORTANT]
