@@ -18,13 +18,13 @@
 
 ## Eleventy is becoming Build Awesome<!-- Z-A -->
 
-- `2026-04-29` [Build Awesome Pro Kickstarter AMA](https://www.youtube.com/live/KkwOTAAJ3gs) `@YouTube`
+- `2026-04-29` [Build Awesome Pro Kickstarter AMA](https://www.youtube.com/live/KkwOTAAJ3gs) _@YouTube_
 - `2026-04-28` [New ongoing Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) 🎈
 - `2026-03-23` [The Possum Mascot, now with additional Awesome](https://www.11ty.dev/blog/awesome-possum/) `@11ty.dev`
 - `2026-03-20` [Eleventy v4.0.0-alpha.7](https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.7) released with a note:
   > "this may be one of the last canary releases before you see some names start to change to Build Awesome"
 - `2026-03-13` [AMA about Build Awesome, an Open Town Hall with Zach Leatherman](https://www.youtube.com/watch?v=lA-wD89m6jM) `@YouTube`
-- `2026-03-03`..`06` [Original Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) `@FA`
+- `2026-03-03..06` [Original Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) `@FA`
 - `2026-03-03` [Official announcement](https://www.11ty.dev/blog/build-awesome/) `@11ty.dev`
 
 See also:
@@ -36,6 +36,7 @@ See also:
 
 Modern v4 starters:
 
+- `2026` [Extended Blog](https://github.com/GoogleChrome/starter-extended-blog) — An Eleventy blog template with an AI-powered blog post editor. _@GoogleChrome_
 - `2026` [Build Awesome Starter](https://github.com/anydigital/build-awesome-starter) — Modern, lightweight Eleventy v4 starter with Tailwind/Pico, [*Bl*ades](https://github.com/anyblades/blades), CMS and multisiting.
 - `2026` [*S*ubtle](https://github.com/anyblades/subtle) — Probably the most `.subtle` blog starter template, yet customizable thanks to [11ty plugin](https://github.com/anyblades/eleventy-blades), [Pico](https://github.com/anyblades/pico) and other [*Bl*ades](https://github.com/anyblades/blades).
 
