@@ -36,7 +36,7 @@ For a starter to evolve, it must be "pluggable" — allowing users to toggle/ove
 
 First of all, let's separate all 11ty-specific yet generic enough components into separate 11ty plugin, so it can be highly reused across many different sites and even starters:
 
-This way your generic [11ty config](/tools/#base-config), [filters](/filters/), shortcodes, [transforms](/processors/), and even [npm scripts](/tools/#base-scripts) live in a separate npm package.
+This way your generic [11ty config](/tools/#base-config), [filters](/filters/), shortcodes, [transforms](/features/), and even [npm scripts](/tools/#base-scripts) live in a separate npm package.
 
 So that the user’s project directory stays clean. Updating the "starter" is as simple as running npm update.
 

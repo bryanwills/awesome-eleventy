@@ -7,9 +7,13 @@ revised: 2026-03-25
 
 bricks:
   - sections: [docs, code]
-    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/src/processors/autoLinkFavicons.js
+    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/autoLinkFavicons.js
   - sections: [docs, code]
-    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/src/processors/markdown.js
+    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/mdAutoNl2br.js
+  - sections: [docs, code]
+    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/mdAutoRawTags.js
+  - sections: [docs, code]
+    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/mdAutoUncommentAttrs.js
   # - md: |-
   #     ---
   #     ## Install

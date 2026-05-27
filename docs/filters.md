@@ -7,31 +7,31 @@ revised: 2026-03-24
 
 bricks:
   - sections: [docs, code]
-    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/src/filters/attr_concat.js
+    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/attr_concat.js
   - sections: [docs, code]
-    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/src/filters/attr_includes.js
+    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/attr_includes.js
   - sections: [docs, code]
-    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/src/filters/attr_set.js
+    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/attr_set.js
   - md: |-
       ### `date`
       https://github.com/anyblades/eleventy-blades/blob/main/src/index.js
   - sections: [docs, code]
-    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/src/filters/fetch.js
+    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/fetch.js
   - sections: [docs, code]
-    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/src/filters/if.js
+    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/if.js
   - md: |-
       ### `markdownify`
       https://github.com/anyblades/eleventy-blades/blob/main/src/eleventy.config.js
   - sections: [docs, code]
-    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/src/filters/merge.js
+    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/merge.js
   - sections: [docs, code]
-    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/src/filters/remove_tag.js
+    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/remove_tag.js
   - sections: [docs, code]
-    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/src/filters/section.js
+    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/section.js
   - sections: [docs, code]
-    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/src/filters/strip_tag.js
+    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/strip_tag.js
   - sections: [docs, code]
-    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/src/filters/unindent.js
+    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/unindent.js
   # - md: |-
   #     ---
   #     ## Install
