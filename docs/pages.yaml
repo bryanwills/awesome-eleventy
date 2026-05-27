@@ -7,23 +7,12 @@
 - permalink: /plugin/
   eleventyNavigation:
     parent: Get started
-    key: Install options
+    key: Plugin
     order: 0
+  title: Eleventy Blades plugin
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md
       section: install
-- permalink: false
-  eleventyNavigation:
-    parent: Get started
-    key: Build Awesome Starter ↗
-    order: 1
-    url: https://build.blades.ninja/
-- permalink: false
-  eleventyNavigation:
-    parent: Get started
-    key: Subtle Starter ↗
-    order: 2
-    url: https://subtle.blades.ninja/
 
 # Templates
 - permalink: /templates/

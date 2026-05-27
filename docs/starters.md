@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   parent: Get started
-  key: Minimal 11ty starters
+  key: Starter templates
   order: 11
 content_for_header: |-
   <style>
@@ -11,7 +11,7 @@ content_for_header: |-
   </style>
 revised: 2026-04-24
 === CONTENT: ===
-title: Best minimal <i class="fa-brands fa-eleventy"></i> starters <sub>as of May 2026</sub>
+title: Minimal <i class="fa-brands fa-eleventy"></i> starters <sub>as of May 2026</sub>
 description: |-
   Eleventy ecosystem offers a [wide variety of starters](/awesome/#more-starters).
 
