@@ -5,6 +5,7 @@ eleventyNavigation:
   order: 11
 content_for_header: |-
   <style>
+    td a:has(> i) { text-wrap: balance }
     td code { padding: 0.25em }
     td > code { font-size: x-small; vertical-align: middle }
   </style>
@@ -18,6 +19,8 @@ description: |-
 bricks:
   - path: ./_starters.md
   - md: ---
+eleventyImport:
+  collections: [bricks] # add `tags: [bricks]` to depending template
 ---
 
 How to Build Awesome
