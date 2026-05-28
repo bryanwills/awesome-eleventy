@@ -1,6 +1,7 @@
 ---
 eleventyNavigation:
-  key: Power-ups
+  parent: Get started
+  key: Base package
   order: 3
 
 bricks:

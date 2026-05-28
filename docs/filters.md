@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   key: Filters
-  order: 1
+  order: 5
 description: A collection of useful Eleventy filters for Nunjucks/Liquid via Eleventy Blades plugin.
 revised: 2026-03-24
 

@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  key: Processors
+  key: Features
   order: 2
 description: A collection of useful Eleventy processors via Eleventy Blades plugin.
 revised: 2026-03-25
