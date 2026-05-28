@@ -1,21 +1,14 @@
 ---
 eleventyNavigation:
   parent: Get started
-  key: Base package
+  key: Useful scripts
   order: 3
 
 bricks:
-  - sections: [docs, code]
-    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/packages/eleventy-blades-base/eleventy.config.js
-  - md: ---
   - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/packages/do/README.md
-  - md: ---
-  - sections: [docs, code]
-    path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/siteData.js
   - md: |-
       ---
       ## More
-  - md: |-
       ### Find and kill <small>11ty processes</small>
 
       ```sh

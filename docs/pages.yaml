@@ -13,6 +13,29 @@
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md
       section: install
+- permalink: /base/
+  eleventyNavigation:
+    parent: Get started
+    key: Base package
+    order: 2
+  bricks:
+    - sections: [docs, code]
+      path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/packages/eleventy-blades-base/eleventy.config.js
+
+# Features
+- permalink: false
+  eleventyNavigation:
+    parent: Features
+    key: Overview
+    order: 0
+    url: /features/
+- permalink: /features/site-data/
+  eleventyNavigation:
+    parent: Features
+    key: Site data
+  bricks:
+    - sections: [docs, code]
+      path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/siteData.js
 
 # Templates
 - permalink: /templates/
