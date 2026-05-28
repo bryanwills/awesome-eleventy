@@ -12,16 +12,18 @@ bricks:
     path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/attr_includes.js
   - sections: [docs, code]
     path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/attr_set.js
-  - md: |-
-      ### `date`
-      https://github.com/anyblades/eleventy-blades/blob/main/src/index.js
+  - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/date.js
+    sections: [docs, code]
   - sections: [docs, code]
     path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/fetch.js
   - sections: [docs, code]
     path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/if.js
   - md: |-
       ### `markdownify`
-      https://github.com/anyblades/eleventy-blades/blob/main/src/eleventy.config.js
+      ```js
+      eleventyConfig.addFilter("markdownify", (content) => md.render(String(content ?? "")));
+      ```
+      Living example: https://github.com/anyblades/eleventy-blades/blob/main/packages/eleventy-blades-base/eleventy.config.js
   - sections: [docs, code]
     path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/merge.js
   - sections: [docs, code]
