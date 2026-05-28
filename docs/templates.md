@@ -1,3 +1,9 @@
+---
+eleventyNavigation:
+  key: Templates
+  order: 4
+---
+
 ### Render subnavigation (subpages)
 
 Using https://www.11ty.dev/docs/plugins/navigation/#example-get-just-one-branch :
@@ -7,8 +13,6 @@ Using https://www.11ty.dev/docs/plugins/navigation/#example-get-just-one-branch 
   | eleventyNavigation(eleventyNavigation.key) %}{# child becomes parent here :) #}
 {{ _ | eleventyNavigationToHtml }}
 ```
-
-
 
 ### Include and render `.md` file w/o its Front Matter
 
@@ -29,3 +33,5 @@ Using https://www.11ty.dev/docs/plugins/navigation/#example-get-just-one-branch 
 {% endcapture %}
 {{ _ | markdownify | renderTransforms: page | replace: '...', '...' }}
 ```
+
+---

@@ -72,9 +72,27 @@
       path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/mdAutoUncommentAttrs.js
 
 # Templates
-- permalink: /templates/
+- permalink: false
   eleventyNavigation:
-    key: Templates
-    order: 4
-  bricks:
-    - path: ./_tpl.md
+    parent: Templates
+    key: HTML base ↗
+    order: 1
+    url: https://blades.ninja/html/starter/
+- permalink: false
+  eleventyNavigation:
+    parent: Templates
+    key: Links ↗
+    order: 2
+    url: https://blades.ninja/html/links/
+- permalink: false
+  eleventyNavigation:
+    parent: Templates
+    key: Sitemap ↗
+    order: 3
+    url: https://blades.ninja/html/sitemap/
+- permalink: false
+  eleventyNavigation:
+    parent: Templates
+    key: More
+    order: 10
+    url: /templates/
