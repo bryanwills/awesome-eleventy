@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   parent: Get started
-  key: Starter templates
+  key: Starter projects
   order: 11
 content_for_header: |-
   <style>

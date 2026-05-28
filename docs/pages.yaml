@@ -23,19 +23,53 @@
       path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/packages/eleventy-blades-base/eleventy.config.js
 
 # Features
+- permalink: /features/
+  eleventyNavigation:
+    key: Features
+    order: 2
+  description: A collection of useful Eleventy processors via Eleventy Blades plugin.
+  revised: 2026-03-25
 - permalink: false
   eleventyNavigation:
     parent: Features
     key: Overview
     order: 0
     url: /features/
-- permalink: /features/site-data/
+- permalink: /features/site-globals/
   eleventyNavigation:
     parent: Features
-    key: Site data
+    key: Site globals
   bricks:
     - sections: [docs, code]
       path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/siteData.js
+- permalink: /features/link-favicons/
+  eleventyNavigation:
+    parent: Features
+    key: Automatic link favicons
+  bricks:
+    - sections: [docs, code]
+      path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/autoLinkFavicons.js
+- permalink: /features/markdown-newlines/
+  eleventyNavigation:
+    parent: Features
+    key: Markdown newlines
+  bricks:
+    - sections: [docs, code]
+      path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/mdAutoNl2br.js
+- permalink: /features/markdown-auto-raw/
+  eleventyNavigation:
+    parent: Features
+    key: Markdown auto-raw tags
+  bricks:
+    - sections: [docs, code]
+      path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/mdAutoRawTags.js
+- permalink: /features/markdown-hidden-attrs/
+  eleventyNavigation:
+    parent: Features
+    key: Markdown hidden attrs
+  bricks:
+    - sections: [docs, code]
+      path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/mdAutoUncommentAttrs.js
 
 # Templates
 - permalink: /templates/
