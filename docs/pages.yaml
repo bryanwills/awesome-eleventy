@@ -96,3 +96,99 @@
     key: More
     order: 10
     url: /templates/
+
+# Filters
+- permalink: /filters/
+  eleventyNavigation:
+    key: Filters
+    order: 5
+  description: A collection of useful Eleventy filters for Nunjucks/Liquid via Eleventy Blades plugin.
+  revised: 2026-03-24
+- permalink: /filters/attr_concat/
+  eleventyNavigation:
+    parent: Filters
+    key: attr_concat
+  bricks:
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/attr_concat.js
+      sections: [docs, code]
+- permalink: /filters/attr_includes/
+  eleventyNavigation:
+    parent: Filters
+    key: attr_includes
+  bricks:
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/attr_includes.js
+      sections: [docs, code]
+- permalink: /filters/attr_set/
+  eleventyNavigation:
+    parent: Filters
+    key: attr_set
+  bricks:
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/attr_set.js
+      sections: [docs, code]
+- permalink: /filters/date/
+  eleventyNavigation:
+    parent: Filters
+    key: date
+  bricks:
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/date.js
+      sections: [docs, code]
+- permalink: /filters/fetch/
+  eleventyNavigation:
+    parent: Filters
+    key: fetch
+  bricks:
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/fetch.js
+      sections: [docs, code]
+- permalink: /filters/if/
+  eleventyNavigation:
+    parent: Filters
+    key: if
+  bricks:
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/if.js
+      sections: [docs, code]
+- permalink: /filters/markdownify/
+  eleventyNavigation:
+    parent: Filters
+    key: markdownify
+  bricks:
+    - md: |-
+        ### `markdownify`
+        ```js
+        eleventyConfig.addFilter("markdownify", (content) => md.render(String(content ?? "")));
+        ```
+        Living example: https://github.com/anyblades/eleventy-blades/blob/main/packages/eleventy-blades-base/eleventy.config.js
+- permalink: /filters/merge/
+  eleventyNavigation:
+    parent: Filters
+    key: merge
+  bricks:
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/merge.js
+      sections: [docs, code]
+- permalink: /filters/remove_tag/
+  eleventyNavigation:
+    parent: Filters
+    key: remove_tag
+  bricks:
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/remove_tag.js
+      sections: [docs, code]
+- permalink: /filters/section/
+  eleventyNavigation:
+    parent: Filters
+    key: section
+  bricks:
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/section.js
+      sections: [docs, code]
+- permalink: /filters/strip_tag/
+  eleventyNavigation:
+    parent: Filters
+    key: strip_tag
+  bricks:
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/strip_tag.js
+      sections: [docs, code]
+- permalink: /filters/unindent/
+  eleventyNavigation:
+    parent: Filters
+    key: unindent
+  bricks:
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/unindent.js
+      sections: [docs, code]
