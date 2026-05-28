@@ -19,8 +19,6 @@ description: |-
 bricks:
   - path: ./_starters.md
   - md: ---
-eleventyImport:
-  collections: [bricks] # add `tags: [bricks]` to depending template
 ---
 
 How to Build Awesome
