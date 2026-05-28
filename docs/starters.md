@@ -44,3 +44,26 @@ This way your generic [11ty config](/tools/#base-config), [filters](/filters/), 
 So that the user’s project directory stays clean. Updating the "starter" is as simple as running npm update.
 
 Same for generic "utility" templates, which can be potentially shared even outside of 11ty ecosystem:
+
+---
+
+### Minform starter
+
+<blockquote>
+
+Minform v0.3.1 released at https://github.com/johnheenan/minform which will work with formsubmit.io above to convert forms to email. This is the Hostfurl independent version of Minformhf.
+
+To work with formsubmit.io the following edits are required in `_data/site.yml`:
+
+```
+nohtmx: true
+corsprod: true
+corsurl: https://formsubmit.co
+formpath: /somearbitrarycharacters
+```
+
+Demo at https://minform.hostfurl.com
+
+<cite>https://discord.com/channels/741017160297611315/1494619630273298504/1495806652396601444</cite>
+
+</blockquote>
