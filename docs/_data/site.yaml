@@ -7,6 +7,6 @@ header_links:
   - url: https://github.com/anyblades/awesome-11ty-buildawesome
     title: <i class='fa-solid fa-laptop-code fa-lg faded'></i>
 footer_contents:
-  - Code licensed [MIT](https://github.com/anyblades/eleventy-blades/blob/main/LICENSE.md),
-    docs [CC BY-SA 4.0](https://github.com/anyblades/awesome-11ty-buildawesome/blob/master/LICENSE.md). &nbsp;
+  - Code licensed [MIT](//github.com/anyblades/eleventy-blades/blob/main/LICENSE.md),
+    docs [CC BY-SA 4.0](//github.com/anyblades/awesome-11ty-buildawesome/blob/master/LICENSE.md). &nbsp;
     Currently <img src='https://img.shields.io/github/v/release/anyblades/eleventy-blades?label=&color=white'>
