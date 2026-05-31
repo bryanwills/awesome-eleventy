@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://awesome.re/badge.svg"><br>
-  Eleventy / Build Awesome
+  11ty <sub><sup>//</sup></sub> Build Awesome
 </h1>
 
 <p align="center">
-  A curated list of awesome Eleventy<sup>11ty</sup> (soon Build Awesome)<br>
+  A collection of awesome Eleventy
   <a href="#starters">starters</a>,
   <a href="#plugins">plugins</a>,
   <a href="#tutorials">tutorials</a>,
