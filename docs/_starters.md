@@ -18,5 +18,6 @@
 | https://github.com/surjithctly/neat-starter `⚠️ 11ty v1` {.faded}                                                                                                                                   | <img src="https://img.shields.io/github/languages/code-size/surjithctly/neat-starter?label=" > {.faded}              |
 | https://github.com/yinkakun/eleventy-duo `⚠️ 11ty v2` {.faded}                                                                                                                                      | <img src="https://img.shields.io/github/languages/code-size/yinkakun/eleventy-duo?label="> {.faded}                  |
 | https://github.com/tryghost/eleventy-starter-ghost `⚠️ 11ty v0` {.faded}                                                                                                                            | <img src="https://img.shields.io/github/languages/code-size/tryghost/eleventy-starter-ghost?label="> {.faded}        |
+| https://github.com/google/eleventy-high-performance-blog `⚠️ 11ty v2` {.faded}                                                                                                                      | <img src="https://img.shields.io/github/languages/code-size/google/eleventy-high-performance-blog?label="> {.faded}  |
 
 {.striped}
