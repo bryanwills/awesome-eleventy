@@ -56,18 +56,28 @@ Modern v4 starters:
 
 </td></tr></table></div>
 
+## Plugins
+
+- [Official plugins](https://www.11ty.dev/docs/plugins/) _@11ty.dev_
+- [A larger list of ~100 community plugins](https://www.11ty.dev/docs/plugins/community/) _@11ty.dev_
+
+Modern community plugins:
+
+<div><table><tr><td>
+
+[Table of Contents](https://github.com/uncenter/eleventy-plugin-toc)
+: Simple and configurable table of contents generation for Eleventy.
+
+[*Bl*ades](https://github.com/anyblades/eleventy-blades)
+: Essential 11ty filters, pre/post-processors, and other toggleable features as a simple, configurable plugin.
+
+[*Bl*ades Base](https://github.com/anyblades/eleventy-blades/tree/main/packages/eleventy-blades-base)
+: A ready-to-go `eleventy.config.js` for popular 11ty plugins, bundled with npm scripts in one reusable, zero-maintenance package.
+
+</td></tr></table></div>
+
 > [!IMPORTANT]
 > **Work in progress** — information below is under review:
-
-## Plugins<!-- Z-A -->
-
-- `2026` [Table of Contents](https://github.com/uncenter/eleventy-plugin-toc) — Simple and configurable table of contents generation for Eleventy.
-- `2026` [RSS](https://github.com/11ty/eleventy-plugin-rss) — A pack of Eleventy plugins for generating an RSS feed.
-- `2026` [Fetch](https://github.com/11ty/eleventy-fetch) — Utility to cache any remote asset: Image, Video, Web Font, CSS, JSON, etc.
-- `2026` [*Bl*ades](https://github.com/anyblades/eleventy-blades) — Ultimate blade kit for 11ty (Build Awesome).
-- `2025` [Navigation](https://github.com/11ty/eleventy-navigation) — A plugin for creating hierarchical navigation in Eleventy projects. Supports breadcrumbs too!
-- [Community plugins ↗](https://www.11ty.dev/docs/plugins/community/)
-- [Even more plugins ↗](https://eleventy-explorer.netlify.app/)
 
 ## Tutorials
 
