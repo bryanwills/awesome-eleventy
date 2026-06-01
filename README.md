@@ -49,10 +49,10 @@ Modern v4 starters:
 : An Eleventy blog template with an AI-powered blog post editor. _@GoogleChrome_
 
 [*S*ubtle](https://github.com/anyblades/subtle)
-: The most subtle Eleventy v4 micro-starter for content-first sites. Powered by [Eleventy Blades](//11ty.blades.ninja/)
+: The most subtle Eleventy v4 micro-starter for content-first sites. Powered by Eleventy Blades
 
 [*B*uild Awesome Starter(s)](https://github.com/anydigital/build-awesome-starter)
-: Modern, lightweight Eleventy v4 multi-site starter showcasing [Eleventy Blades](//11ty.blades.ninja/) and Tailwind CLI for: 1) Tailwind 2) Pico 3) Simple CSS.
+: Modern, lightweight Eleventy v4 multi-site starter showcasing Eleventy Blades and Tailwind CLI for: 1) Tailwind 2) Pico 3) Simple CSS.
 
 </td></tr></table></div>
 
