@@ -16,16 +16,16 @@
 
 <!--section:content-->
 
-## Eleventy is becoming Build Awesome<!-- Z-A -->
+## Eleventy is becoming Build Awesome <!-- Z-A -->
 
-- `2026-04-29` [Build Awesome Pro Kickstarter AMA](https://www.youtube.com/live/KkwOTAAJ3gs) _@YouTube_
-- `2026-04-28` [New ongoing Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) 🎈
-- `2026-03-23` [The Possum Mascot, now with additional Awesome](https://www.11ty.dev/blog/awesome-possum/) _@11ty.dev_
-- `2026-03-20` [Eleventy v4.0.0-alpha.7](https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.7) released with a note:
+- `04/29` [Build Awesome Pro Kickstarter AMA](https://www.youtube.com/live/KkwOTAAJ3gs) _@YouTube_
+- `04/28` [New Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro)
+- `03/23` [The Possum Mascot, now with additional Awesome](https://www.11ty.dev/blog/awesome-possum/) _@11ty.dev_
+- `03/20` [Eleventy v4.0.0-alpha.7](https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.7) released with a note:
   > "this may be one of the last canary releases before you see some names start to change to Build Awesome"
-- `2026-03-13` [AMA about Build Awesome, an Open Town Hall with Zach Leatherman](https://www.youtube.com/watch?v=lA-wD89m6jM) _@YouTube_
-- `2026-03-03..06` [Original Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) _@FA_
-- `2026-03-03` [Official announcement](https://www.11ty.dev/blog/build-awesome/) _@11ty.dev_
+- `03/13` [AMA about Build Awesome, an Open Town Hall with Zach Leatherman](https://www.youtube.com/watch?v=lA-wD89m6jM) _@YouTube_
+- `03/03..06` [Original Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) _@FA_
+- `03/03` [Official announcement](https://www.11ty.dev/blog/build-awesome/) _@11ty.dev_
 
 See also:
 
@@ -35,8 +35,8 @@ See also:
 ## Starters
 
 - [Curated list of ~40 starters](https://11tybundle.dev/starters/) _@11tybundle.dev_
-- [Curated list of ~10 minimal starters](https://11ty.blades.ninja/starters/#min) _@blades.ninja_
-- [Curated list of ~5 CMS starters](https://sveltiacms.app/en/docs/frameworks/eleventy) _@sveltiacms.app_
+- [Curated list of minimal starters](https://11ty.blades.ninja/starters/) _@11ty.blades.ninja_
+- [Curated list of starters for](https://sveltiacms.app/en/docs/frameworks/eleventy) _@sveltiacms.app_
 - [A larger list of 150+ community starters](https://www.11ty.dev/docs/starter/) _@11ty.dev_
 
 Modern v4 starters:
@@ -44,6 +44,9 @@ Modern v4 starters:
 - [Extended Blog](https://github.com/GoogleChrome/starter-extended-blog) — An Eleventy blog template with an AI-powered blog post editor. _@GoogleChrome_
 - [*B*uild Awesome Starter(s)](https://github.com/anydigital/build-awesome-starter) — Modern, lightweight Eleventy v4 multi-site starter showcasing [Eleventy Blades](//11ty.blades.ninja/) and Tailwind CLI for: 1) Tailwind 2) Pico 3) Simple CSS.
 - [*S*ubtle](https://github.com/anyblades/subtle) — The most subtle Eleventy v4 micro-starter for content-first sites. Powered by [Eleventy Blades](//11ty.blades.ninja/)
+
+> [!IMPORTANT]
+> **Work in progress** — information below is under review:
 
 ## Plugins<!-- Z-A -->
 
@@ -112,6 +115,4 @@ Eleventy Blades docs under:
 [![BY SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](docs/LICENSE.md)
 
 <!--
-> [!IMPORTANT]
-> **Work in progress** - information below is under review:
 -->
