@@ -13,7 +13,7 @@ revised: 2026-04-24
 === CONTENT: ===
 title: Minimal <i class="fa-brands fa-eleventy"></i> starters <sub>as of June 2026</sub>
 description: |-
-  Eleventy ecosystem offers a [wide variety of starters](/awesome/#starters).
+  Eleventy ecosystem offers a [wide variety of starters](/awesome/#more-starters).
 
   Not sure where to begin? Start with a minimal template:
 ---
