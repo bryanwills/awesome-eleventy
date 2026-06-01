@@ -3,7 +3,7 @@ eleventyNavigation:
   key: Awesome
   order: 12
 title: Awesome <i class="fa-brands fa-eleventy"></i> list
-description: https://github.com/anydigital/awesome-11ty-build-awesome
+description: https://github.com/anyblades/awesome-11ty-buildawesome
 
 bricks:
   - path: ../README.md
