@@ -41,7 +41,9 @@ See also:
 - [Curated list of starters for](https://sveltiacms.app/en/docs/frameworks/eleventy) _@sveltiacms.app_
 - [A larger list of 150+ community starters](https://www.11ty.dev/docs/starter/) _@11ty.dev_
 
-<fieldset><legend><h3>Modern v4 starters</h3></legend>
+Modern v4 starters:
+
+<div><table><tr><td>
 
 [Extended Blog](https://github.com/GoogleChrome/starter-extended-blog)
 : An Eleventy blog template with an AI-powered blog post editor. _@GoogleChrome_
@@ -52,7 +54,7 @@ See also:
 [*B*uild Awesome Starter(s)](https://github.com/anydigital/build-awesome-starter)
 : Modern, lightweight Eleventy v4 multi-site starter showcasing [Eleventy Blades](//11ty.blades.ninja/) and Tailwind CLI for: 1) Tailwind 2) Pico 3) Simple CSS.
 
-</fieldset>
+</td></tr></table></div>
 
 > [!IMPORTANT]
 > **Work in progress** — information below is under review:
