@@ -7,7 +7,7 @@
   A collection of awesome Eleventy
   <a href="#starters">starters</a>,
   <a href="#plugins">plugins</a>,
-  <a href="#tutorials">tutorials</a>,
+  <a href="#articles">articles</a>,
   <a href="#sites">sites</a>
   and <a href="https://11ty.blades.ninja/">more ↗</a>
 </p>
@@ -20,25 +20,24 @@
 
 - `04/28..05/28` [New Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) secured ~$100K from 800+ backers
 - `04/29` [Build Awesome Pro Kickstarter AMA](https://www.youtube.com/live/KkwOTAAJ3gs) _@YouTube_
-- `03/23` [The Possum Mascot, now with additional Awesome](https://www.11ty.dev/blog/awesome-possum/) _@11ty.dev_
 - `03/20` [Eleventy v4.0.0-alpha.7](https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.7) released with a note:
   > "this may be one of the last canary releases before you see some names start to change to Build Awesome"
 - `03/13` [AMA about Build Awesome, an Open Town Hall with Zach Leatherman](https://www.youtube.com/watch?v=lA-wD89m6jM) _@YouTube_
 - `03/03..06` [Original Kickstarter](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) _@FA_
-- `03/03` [Official announcement](https://www.11ty.dev/blog/build-awesome/) _@11ty.dev_
+- `03/03` [Official announcement](https://www.11ty.dev/blog/build-awesome/)
 
 <!--{.unlist}-->
 
 See also:
 
-- [Static Site Generator Trends 2026-2040](https://any.digital/ssg/) _@any.digital_
+- [Static Site Generator Trends 2026-2040](https://any.digital/ssg/) _@Any.digital_
 - [Eleventy icon](https://fontawesome.com/icons/eleventy?f=brands&s=solid) _@FA_
 
 ## Starters
 
-- [Curated list of ~40 starters](https://11tybundle.dev/starters/) _@11tybundle.dev_
-- [Curated list of minimal starters](https://11ty.blades.ninja/starters/) _@11ty.blades.ninja_
-- [Curated list of starters for](https://sveltiacms.app/en/docs/frameworks/eleventy) _@sveltiacms.app_
+- [Curated list of ~40 starters](https://11tybundle.dev/starters/) _@11ty Bundle_
+- [Curated list of minimal starters](https://11ty.blades.ninja/starters/) _@11ty Blades_
+- [Curated list of starters for](https://sveltiacms.app/en/docs/frameworks/eleventy) _@Sveltia CMS_
 - [A larger list of 150+ community starters](https://www.11ty.dev/docs/starter/) _@11ty.dev_
 
 Modern v4 starters:
@@ -46,7 +45,7 @@ Modern v4 starters:
 <div><table><tr><td>
 
 [Extended Blog](https://github.com/GoogleChrome/starter-extended-blog)
-: An Eleventy blog template with an AI-powered blog post editor. _@GoogleChrome_
+: An Eleventy blog template with an AI-powered blog post editor. _@Google Chrome_
 
 [*S*ubtle](https://github.com/anyblades/subtle)
 : The most subtle Eleventy v4 micro-starter for content-first sites. Powered by Eleventy Blades
@@ -58,7 +57,7 @@ Modern v4 starters:
 
 ## Plugins
 
-- [Official plugins](https://www.11ty.dev/docs/plugins/) _@11ty.dev_
+- [Official plugins](https://www.11ty.dev/docs/plugins/)
 - [A larger list of ~100 community plugins](https://www.11ty.dev/docs/plugins/community/) _@11ty.dev_
 
 Modern community plugins:
@@ -76,45 +75,25 @@ Modern community plugins:
 
 </td></tr></table></div>
 
+## Articles
+
+- [Official docs](https://www.11ty.dev/docs/)
+- [Learn Eleventy](https://learneleventy.dev/) community course
+- [11ty Bundle](https://11tybundle.dev/) of community know-hows
+
+Archive:
+
+- `2023` [Tutorials](https://www.11ty.dev/docs/tutorials/) _@11ty.dev_
+- `2023` [Quick tips](https://www.11ty.dev/docs/quicktips/) _@11ty.dev_
+
 > [!IMPORTANT]
 > **Work in progress** — information below is under review:
-
-## Tutorials
-
-General guides:
-
-- `2026` [Learn Eleventy](https://learneleventy.dev/) — This course is designed to give you a really solid understanding of Eleventy—even if you’ve never used it before.
-- `2022` [11ty Second 11ty by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3rrNiBBN-wn2BJ11OHiBuC1n)
-- `2019` [Eleventy (11ty) Tutorials by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3roi5Eb3v-SkUV3nfGIyc_LF)
-
-Images:
-
-- `2026` [Optimizing Images with Eleventy on Netlify](https://kittygiraudel.com/2026/05/05/optimizing-images-with-11ty-on-netlify/) _@kittygiraudel.com_
-
-Templating:
-
-- `2026` [*Bl*ades HTML](https://blades.ninja/html/) — Generic Nunjucks/Liquid templates for 11ty/Build Awesome, Jekyll, Shopify, etc.
-- [More templating tricks ↗](https://11ty.blades.ninja/#tpl)
-
-Migration:
-
-- `2018` [Turn Jekyll up to Eleventy](https://24ways.org/2018/turn-jekyll-up-to-eleventy/) — An excellent article explaining the differences and similarities between Jekyll and 11ty.
-
-Webmentions:
-
-- `2019` [Using Webmentions in Eleventy](https://mxb.dev/blog/using-webmentions-on-static-sites/)
-
-GraphQL:
-
-- `2019` [Consuming a headless CMS GraphQL API with Eleventy](https://www.webstoemp.com/blog/headless-cms-graphql-api-eleventy/)
-
-[More tutorials ↗](https://www.11ty.dev/docs/tutorials/)
 
 ## Sites
 
 - [Benchmark web sites Built with Eleventy over time](https://www.11ty.dev/speedlify/) _@11ty.dev_
-- [A showcase of websites built with the Eleventy static site generator](https://11tybundle.dev/showcase/) _@11tybundle_
-- [Explore real-world websites using Sveltia CMS across various industries, built with Eleventy](https://sveltiacms.app/en/showcase?framework=eleventy) _@sveltiacms.app_
+- [A showcase of websites built with the Eleventy static site generator](https://11tybundle.dev/showcase/) _@11ty Bundle_
+- [Explore real-world websites using Sveltia CMS across various industries, built with Eleventy](https://sveltiacms.app/en/showcase?framework=eleventy) _@Sveltia CMS_
 
 <!--section-->
 
