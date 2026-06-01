@@ -103,7 +103,7 @@ Contributions welcome and encouraged! Read the [contribution guidelines](CONTRIB
 - Originally created by [Chris Collins](https://github.com/chrissy-dev)
 - Currently maintained by [*Any*digital](https://any.digital/)
 
-## Licenses
+## License
 
 | Awesome Eleventy list                                                                                                                   | Eleventy Blades docs                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
