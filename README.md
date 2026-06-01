@@ -20,24 +20,24 @@
 
 - `2026-04-29` [Build Awesome Pro Kickstarter AMA](https://www.youtube.com/live/KkwOTAAJ3gs) _@YouTube_
 - `2026-04-28` [New ongoing Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) 🎈
-- `2026-03-23` [The Possum Mascot, now with additional Awesome](https://www.11ty.dev/blog/awesome-possum/) `@11ty.dev`
+- `2026-03-23` [The Possum Mascot, now with additional Awesome](https://www.11ty.dev/blog/awesome-possum/) _@11ty.dev_
 - `2026-03-20` [Eleventy v4.0.0-alpha.7](https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.7) released with a note:
   > "this may be one of the last canary releases before you see some names start to change to Build Awesome"
-- `2026-03-13` [AMA about Build Awesome, an Open Town Hall with Zach Leatherman](https://www.youtube.com/watch?v=lA-wD89m6jM) `@YouTube`
-- `2026-03-03..06` [Original Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) `@FA`
-- `2026-03-03` [Official announcement](https://www.11ty.dev/blog/build-awesome/) `@11ty.dev`
+- `2026-03-13` [AMA about Build Awesome, an Open Town Hall with Zach Leatherman](https://www.youtube.com/watch?v=lA-wD89m6jM) _@YouTube_
+- `2026-03-03..06` [Original Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) _@FA_
+- `2026-03-03` [Official announcement](https://www.11ty.dev/blog/build-awesome/) _@11ty.dev_
 
 See also:
 
-- [Static Site Generator Trends 2026-2040](https://blades.ninja/ssg/) `@blades.ninja`
+- [Static Site Generator Trends 2026-2040](https://blades.ninja/ssg/) _@blades.ninja_
 - [Eleventy icon in Font Awesome](https://fontawesome.com/icons/eleventy?f=brands&s=solid) 😎
 
 ## Starters
 
-- [Curated list of ~40 starters](https://11tybundle.dev/starters/) `@11tybundle.dev`
-- [Curated list of ~10 minimal starters](https://11ty.blades.ninja/starters/#min) `@blades.ninja`
-- [Curated list of ~5 CMS starters](https://sveltiacms.app/en/docs/frameworks/eleventy) `@sveltiacms.app`
-- [A larger list of 150+ community starters](https://www.11ty.dev/docs/starter/) `@11ty.dev`
+- [Curated list of ~40 starters](https://11tybundle.dev/starters/) _@11tybundle.dev_
+- [Curated list of ~10 minimal starters](https://11ty.blades.ninja/starters/#min) _@blades.ninja_
+- [Curated list of ~5 CMS starters](https://sveltiacms.app/en/docs/frameworks/eleventy) _@sveltiacms.app_
+- [A larger list of 150+ community starters](https://www.11ty.dev/docs/starter/) _@11ty.dev_
 
 Modern v4 starters:
 
@@ -65,7 +65,7 @@ General guides:
 
 Images:
 
-- `2026` [Optimizing Images with Eleventy on Netlify](https://kittygiraudel.com/2026/05/05/optimizing-images-with-11ty-on-netlify/) `@kittygiraudel.com`
+- `2026` [Optimizing Images with Eleventy on Netlify](https://kittygiraudel.com/2026/05/05/optimizing-images-with-11ty-on-netlify/) _@kittygiraudel.com_
 
 Templating:
 
@@ -88,9 +88,9 @@ GraphQL:
 
 ## Sites
 
-- [Benchmark web sites Built with Eleventy over time](https://www.11ty.dev/speedlify/) `@11ty.dev`
-- [A showcase of websites built with the Eleventy static site generator](https://11tybundle.dev/showcase/) `@11tybundle`
-- [Explore real-world websites using Sveltia CMS across various industries, built with Eleventy](https://sveltiacms.app/en/showcase?framework=eleventy) `@sveltiacms.app`
+- [Benchmark web sites Built with Eleventy over time](https://www.11ty.dev/speedlify/) _@11ty.dev_
+- [A showcase of websites built with the Eleventy static site generator](https://11tybundle.dev/showcase/) _@11tybundle_
+- [Explore real-world websites using Sveltia CMS across various industries, built with Eleventy](https://sveltiacms.app/en/showcase?framework=eleventy) _@sveltiacms.app_
 
 <!--section-->
 
