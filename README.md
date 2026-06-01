@@ -34,29 +34,16 @@ See also:
 
 ## Starters
 
-Modern v4 starters:
-
-- `2026` [Extended Blog](https://github.com/GoogleChrome/starter-extended-blog) — An Eleventy blog template with an AI-powered blog post editor. _@GoogleChrome_
-- `2026` [Build Awesome Starter](https://github.com/anydigital/build-awesome-starter) — Modern, lightweight Eleventy v4 starter with Tailwind/Pico, [*Bl*ades](https://github.com/anyblades/blades), CMS and multisiting.
-- `2026` [*S*ubtle](https://github.com/anyblades/subtle) — Probably the most `.subtle` blog starter template, yet customizable thanks to [11ty plugin](https://github.com/anyblades/eleventy-blades), [Pico](https://github.com/anyblades/pico) and other [*Bl*ades](https://github.com/anyblades/blades).
-
-v3 starters:
-
-- `2026` [Base Blog](https://github.com/11ty/eleventy-base-blog) — A starter repository for a blog web site using the Eleventy static site generator.
-- `2026` [Excellent](https://github.com/madrilene/eleventy-excellent) — Eleventy starter with CUBE CSS, Every Layout and global design tokens. A workflow for modern & resilient websites, based on the CUBE CSS boilerplate.
-- `2026` [ZeroPoint](https://github.com/MWDelaney/zeropoint) — A modern, opinionated, bare-bones website starter that gets you "up to zero" on a project quickly and easily.
-- `2026` [elva](https://github.com/scottsweb/elva) — A multilingual, clean, green 11ty starter theme.
-
-Minimally maintained:
-
-- `2025` [Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) — A boilerplate for building a simple website with the Eleventy static site generator.
-
-### More starters
-
 - [Curated list of ~40 starters](https://11tybundle.dev/starters/) `@11tybundle.dev`
 - [Curated list of ~10 minimal starters](https://11ty.blades.ninja/starters/#min) `@blades.ninja`
 - [Curated list of ~5 CMS starters](https://sveltiacms.app/en/docs/frameworks/eleventy) `@sveltiacms.app`
 - [A larger list of 150+ community starters](https://www.11ty.dev/docs/starter/) `@11ty.dev`
+
+Modern v4 starters:
+
+- [Extended Blog](https://github.com/GoogleChrome/starter-extended-blog) — An Eleventy blog template with an AI-powered blog post editor. _@GoogleChrome_
+- [*B*uild Awesome Starter(s)](https://github.com/anydigital/build-awesome-starter) — Modern, lightweight Eleventy v4 multi-site starter showcasing [Eleventy Blades](//11ty.blades.ninja/) and Tailwind CLI for: 1) Tailwind 2) Pico 3) Simple CSS.
+- [*S*ubtle](https://github.com/anyblades/subtle) — The most subtle Eleventy v4 micro-starter for content-first sites. Powered by [Eleventy Blades](//11ty.blades.ninja/)
 
 ## Plugins<!-- Z-A -->
 
