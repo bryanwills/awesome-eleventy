@@ -86,14 +86,14 @@ Archive:
 - `2023` [Tutorials](https://www.11ty.dev/docs/tutorials/) _@11ty.dev_
 - `2023` [Quick tips](https://www.11ty.dev/docs/quicktips/) _@11ty.dev_
 
-> [!IMPORTANT]
-> **Work in progress** — information below is under review:
-
 ## Sites
 
-- [Benchmark web sites Built with Eleventy over time](https://www.11ty.dev/speedlify/) _@11ty.dev_
-- [A showcase of websites built with the Eleventy static site generator](https://11tybundle.dev/showcase/) _@11ty Bundle_
-- [Explore real-world websites using Sveltia CMS across various industries, built with Eleventy](https://sveltiacms.app/en/showcase?framework=eleventy) _@Sveltia CMS_
+- [Eleventy Leaderboards](https://www.11ty.dev/speedlify/) _@11ty.dev_
+- [A showcase of websites built with Eleventy](https://11tybundle.dev/showcase/) _@11ty Bundle_
+- [Eleventy websites using](https://sveltiacms.app/en/showcase?framework=eleventy) _@Sveltia CMS_
+
+> [!IMPORTANT]
+> **Work in progress** — information below is under review:
 
 <!--section-->
 
