@@ -24,13 +24,18 @@
 - `03/20` [Eleventy v4.0.0-alpha.7](https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.7) released with a note:
   > "this may be one of the last canary releases before you see some names start to change to Build Awesome"
 - `03/13` [AMA about Build Awesome, an Open Town Hall with Zach Leatherman](https://www.youtube.com/watch?v=lA-wD89m6jM) _@YouTube_
-- `03/03..06` [Original Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) _@FA_
+- `03/03..06` [Original Kickstarter](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) _@FA_
 - `03/03` [Official announcement](https://www.11ty.dev/blog/build-awesome/) _@11ty.dev_
+
+<!--{.markerless}-->
 
 See also:
 
-- [Static Site Generator Trends 2026-2040](https://blades.ninja/ssg/) _@blades.ninja_
-- [Eleventy icon in Font Awesome](https://fontawesome.com/icons/eleventy?f=brands&s=solid) 😎
+- [Static Site Generator Trends 2026-2040](https://any.digital/ssg/) _@any.digital_
+- [Eleventy icon](https://fontawesome.com/icons/eleventy?f=brands&s=solid) _@FA_
+
+> [!IMPORTANT]
+> **Work in progress** — information below is under review:
 
 ## Starters
 
@@ -44,9 +49,6 @@ Modern v4 starters:
 - [Extended Blog](https://github.com/GoogleChrome/starter-extended-blog) — An Eleventy blog template with an AI-powered blog post editor. _@GoogleChrome_
 - [*B*uild Awesome Starter(s)](https://github.com/anydigital/build-awesome-starter) — Modern, lightweight Eleventy v4 multi-site starter showcasing [Eleventy Blades](//11ty.blades.ninja/) and Tailwind CLI for: 1) Tailwind 2) Pico 3) Simple CSS.
 - [*S*ubtle](https://github.com/anyblades/subtle) — The most subtle Eleventy v4 micro-starter for content-first sites. Powered by [Eleventy Blades](//11ty.blades.ninja/)
-
-> [!IMPORTANT]
-> **Work in progress** — information below is under review:
 
 ## Plugins<!-- Z-A -->
 
