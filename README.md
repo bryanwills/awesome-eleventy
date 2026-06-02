@@ -60,7 +60,7 @@ Modern v4 starters:
 - [Official plugins](https://www.11ty.dev/docs/plugins/)
 - [A larger list of ~100 community plugins](https://www.11ty.dev/docs/plugins/community/) _@11ty.dev_
 
-Modern community plugins:
+Featured community plugins:
 
 <div><table><tr><td>
 
