@@ -16,6 +16,8 @@ description: |-
   Eleventy ecosystem offers a [wide variety of starters](/awesome/#starters).
 
   Not sure where to begin? Start with a minimal template:
+bricks:
+  - content_here: "{{ content | replace('>https://github.com/', '>@') | safe }}"
 revised: 2026-04-24
 ---
 
