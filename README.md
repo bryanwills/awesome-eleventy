@@ -26,7 +26,7 @@
 - `03/03..06` [Original Kickstarter](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) _@FA_
 - `03/03` [Official announcement](https://www.11ty.dev/blog/build-awesome/)
 
-<!--{.unlist}-->
+<!--{.markerless}-->
 
 See also:
 
