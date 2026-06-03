@@ -21,6 +21,10 @@
   bricks:
     - sections: [docs, code]
       path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/packages/eleventy-blades-base/eleventy.config.js
+    - md: |-
+        ---
+        Featured by:
+        - https://www.11ty.dev/docs/plugins/community/
 
 # Features
 - permalink: /features/
