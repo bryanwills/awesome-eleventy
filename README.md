@@ -94,6 +94,10 @@ Archive:
 - [A showcase of websites built with Eleventy](https://11tybundle.dev/showcase/) _@11ty Bundle_
 - [Eleventy websites using](https://sveltiacms.app/en/showcase?framework=eleventy) _@Sveltia CMS_
 
+## Other
+
+- https://github.com/apleasantview/document
+
 <!--section-->
 
 ## Contribute
