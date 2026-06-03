@@ -81,6 +81,15 @@ Featured community plugins:
 - [Learn Eleventy](https://learneleventy.dev/) community course
 - [11ty Bundle](https://11tybundle.dev/) of community know-hows
 
+Featured community articles:
+
+<div><table><tr><td>
+
+[Document](https://apv-document.netlify.app)
+: An inquiry into the web document — what's left when everything accumulated around it is taken away.
+
+</td></tr></table></div>
+
 Archive:
 
 - `2023` [Tutorials](https://www.11ty.dev/docs/tutorials/) _@11ty.dev_
@@ -93,10 +102,6 @@ Archive:
 - [Eleventy Leaderboards](https://www.11ty.dev/speedlify/) _@11ty.dev_
 - [A showcase of websites built with Eleventy](https://11tybundle.dev/showcase/) _@11ty Bundle_
 - [Eleventy websites using](https://sveltiacms.app/en/showcase?framework=eleventy) _@Sveltia CMS_
-
-## Other
-
-- https://github.com/apleasantview/document
 
 <!--section-->
 
