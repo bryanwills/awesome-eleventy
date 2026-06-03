@@ -26,8 +26,6 @@
 - `03/03..06` [Original Kickstarter](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) _@FA_
 - `03/03` [Official announcement](https://www.11ty.dev/blog/build-awesome/)
 
-<!--{.markerless}-->
-
 See also:
 
 - [Static Site Generator Trends 2026-2040](https://any.digital/ssg/) _@Any.digital_
@@ -42,7 +40,7 @@ See also:
 
 Modern v4 starters:
 
-<div><table><tr><td>
+<table><tr><td>
 
 [Extended Blog](https://github.com/GoogleChrome/starter-extended-blog)
 : An Eleventy blog template with an AI-powered blog post editor. _@Google Chrome_
@@ -53,7 +51,7 @@ Modern v4 starters:
 [*B*uild Awesome Starter(s)](https://github.com/anydigital/build-awesome-starter)
 : Modern, lightweight Eleventy v4 multi-site starter showcasing Eleventy Blades and Tailwind CLI for: 1) Tailwind 2) Pico 3) Simple CSS.
 
-</td></tr></table></div>
+</td></tr></table>
 
 ## Plugins
 
@@ -62,7 +60,7 @@ Modern v4 starters:
 
 Featured community plugins:
 
-<div><table><tr><td>
+<table><tr><td>
 
 [Table of Contents](https://github.com/uncenter/eleventy-plugin-toc)
 : Simple and configurable table of contents generation for Eleventy.
@@ -73,7 +71,7 @@ Featured community plugins:
 [*Bl*ades Base](https://github.com/anyblades/eleventy-blades/tree/main/packages/eleventy-blades-base)
 : A ready-to-go `eleventy.config.js` for popular 11ty plugins, bundled with npm scripts in one reusable, zero-maintenance package.
 
-</td></tr></table></div>
+</td></tr></table>
 
 ## Articles
 
@@ -83,19 +81,17 @@ Featured community plugins:
 
 Featured community articles:
 
-<div><table><tr><td>
+<table><tr><td>
 
 [Document](https://apv-document.netlify.app)
 : An inquiry into the web document — what's left when everything accumulated around it is taken away.
 
-</td></tr></table></div>
+</td></tr></table>
 
 Archive:
 
 - `2023` [Tutorials](https://www.11ty.dev/docs/tutorials/) _@11ty.dev_
 - `2023` [Quick tips](https://www.11ty.dev/docs/quicktips/) _@11ty.dev_
-
-<!--{.markerless}-->
 
 ## Sites
 
