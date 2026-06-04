@@ -7,7 +7,9 @@
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md
       section: install
-    - md: ---
+    - md: |-
+        ---
+        ## <sup>Appendix</sup>
     - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/plugin.js
       section: code
 - permalink: /base/
@@ -15,6 +17,9 @@
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/packages/eleventy-blades-base/eleventy.config.js
       sections: [docs, code]
+    - md: "There are 4 ways to get started:"
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md
+      section: config+starters
     - md: |-
         ---
         Featured by:
