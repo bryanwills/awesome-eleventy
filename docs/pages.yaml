@@ -152,12 +152,8 @@
     parent: Filters
     key: markdownify
   bricks:
-    - md: |-
-        ### `markdownify`
-        ```js
-        eleventyConfig.addFilter("markdownify", (content) => md.render(String(content ?? "")));
-        ```
-        Living example: https://github.com/anyblades/eleventy-blades/blob/main/packages/eleventy-blades-base/eleventy.config.js
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/packages/eleventy-blades-base/eleventy.config.js
+      section: markdownify
 - permalink: /filters/merge/
   eleventyNavigation:
     parent: Filters
