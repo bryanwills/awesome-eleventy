@@ -13,6 +13,7 @@
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md
       section: install
+    - md: ---
     - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/plugin.js
       section: code
 - permalink: /base/
