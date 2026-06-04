@@ -3,7 +3,7 @@
   eleventyNavigation: { key: Get started, order: 0, url: /plugin/ }
 - permalink: /plugin/
   eleventyNavigation: { parent: Get started, key: Plugin, order: 0 }
-  title: Eleventy Blades plugin
+  title: Eleventy&nbsp;Blades <mark>plugin</mark>
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md
       section: install
@@ -14,6 +14,7 @@
       section: code
 - permalink: /base/
   eleventyNavigation: { parent: Get started, key: Base package, order: 2 }
+  title: Eleventy&nbsp;Blades <mark>base package</mark>
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/packages/eleventy-blades-base/eleventy.config.js
       sections: [docs, code]
