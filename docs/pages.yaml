@@ -22,8 +22,8 @@
     key: Base package
     order: 2
   bricks:
-    - sections: [docs, code]
-      path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/packages/eleventy-blades-base/eleventy.config.js
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/packages/eleventy-blades-base/eleventy.config.js
+      section: docs
     - md: |-
         ---
         Featured by:
