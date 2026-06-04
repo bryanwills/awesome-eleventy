@@ -54,7 +54,7 @@
     parent: Features
     key: Automatic link favicons
   bricks:
-    - sections: [docs, code]
+    - section: docs
       path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/autoLinkFavicons.js
 - permalink: /features/markdown-newlines/
   eleventyNavigation:
