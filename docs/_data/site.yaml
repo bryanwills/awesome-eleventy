@@ -5,7 +5,7 @@ header_links:
   - url: https://github.com/anyblades/eleventy-blades
     title: <i class="fa-brands fa-github fa-lg"></i>
   - url: https://blades.ninja/
-    title: <i class="fa-brands fa-css3 fa-lg"></i>
+    title: <i class="fa-brands fa-css3 fa-lg faded"></i>
   - url: https://github.com/anyblades/awesome-11ty-buildawesome
     title: <i class="fa-solid fa-laptop-code fa-lg faded"></i>
 footer_contents:
