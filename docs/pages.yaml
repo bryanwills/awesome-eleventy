@@ -115,6 +115,7 @@
       sections: [docs, code]
 - permalink: /filters/markdownify/
   eleventyNavigation: { parent: Filters, key: markdownify }
+  description: "Included out-of-the-box with https://11ty.blades.ninja/base/ package:"
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/packages/eleventy-blades-base/eleventy.config.js
       section: markdownify
