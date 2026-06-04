@@ -61,8 +61,8 @@
     parent: Features
     key: Markdown newlines
   bricks:
-    - section: docs
-      path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/mdAutoNl2br.js
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/mdAutoNl2br.js
+      sections: [docs, code]
 - permalink: /features/markdown-auto-raw/
   eleventyNavigation:
     parent: Features
