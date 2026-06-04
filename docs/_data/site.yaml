@@ -10,3 +10,4 @@ footer_contents:
   - Code licensed [MIT](//github.com/anyblades/eleventy-blades/blob/main/LICENSE.md),
     docs [CC BY-SA 4.0](//github.com/anyblades/awesome-11ty-buildawesome/blob/master/LICENSE.md). &nbsp;
     Currently <img src="https://img.shields.io/npm/v/@anyblades/eleventy-blades?label=&color=white">
+              <img src="https://img.shields.io/npm/v/@anyblades/eleventy-blades-base?label=base/&color=white">
