@@ -75,8 +75,8 @@
     parent: Features
     key: Markdown hidden attrs
   bricks:
-    - sections: [docs, code]
-      path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/mdAutoUncommentAttrs.js
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/mdAutoUncommentAttrs.js
+      sections: [docs, code]
 
 # Templates
 - permalink: false
