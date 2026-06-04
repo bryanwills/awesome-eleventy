@@ -47,8 +47,8 @@
     parent: Features
     key: Site globals
   bricks:
-    - sections: [docs, code]
-      path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/siteData.js
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/siteData.js
+      sections: [docs, code]
 - permalink: /features/link-favicons/
   eleventyNavigation:
     parent: Features
