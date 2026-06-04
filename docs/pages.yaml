@@ -20,10 +20,6 @@
     - md: "There are 4 ways to get started:"
     - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md
       section: config+starters
-    - md: |-
-        ---
-        Featured by:
-        - https://www.11ty.dev/docs/plugins/community/
 
 # Features
 - permalink: /features/
