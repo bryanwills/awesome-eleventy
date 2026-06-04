@@ -68,8 +68,8 @@
     parent: Features
     key: Markdown auto-raw tags
   bricks:
-    - sections: [docs, code]
-      path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/mdAutoRawTags.js
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/mdAutoRawTags.js
+      sections: [docs, code]
 - permalink: /features/markdown-hidden-attrs/
   eleventyNavigation:
     parent: Features
