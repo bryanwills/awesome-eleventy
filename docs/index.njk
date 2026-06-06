@@ -5,6 +5,7 @@ eleventyComputed:
     {{ ('https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md' if site.prod else '../../eleventy-blades/README.md')
       | fetch | section('summary') | markdownify | safe }}
   description: "{{ summary | remove_tag('h1') | safe }}"
+  _trusted: "{{ '../.starter/index.njk' | fetch | section('trusted-11ty') | safe }}"
 revised: 2026-02-28
 bricks:
   - content_here: true
@@ -41,3 +42,5 @@ bricks:
     </p>
   </nav>
 </section>
+
+{{ _trusted | safe }}
