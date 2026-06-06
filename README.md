@@ -18,13 +18,28 @@
 
 ## Eleventy is becoming Build Awesome <!-- Z-A -->
 
-- `04/28..05/28` [New Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) secured ~$100K from 800+ backers
-- `04/29` [Build Awesome Pro Kickstarter AMA](https://www.youtube.com/live/KkwOTAAJ3gs) _@YouTube_
-- `03/20` [Eleventy v4.0.0-alpha.7](https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.7) released with a note:
-  > "this may be one of the last canary releases before you see some names start to change to Build Awesome"
-- `03/13` [AMA about Build Awesome, an Open Town Hall with Zach Leatherman](https://www.youtube.com/watch?v=lA-wD89m6jM) _@YouTube_
-- `03/03..06` [Original Kickstarter](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) _@FA_
-- `03/03` [Official announcement](https://www.11ty.dev/blog/build-awesome/)
+<table><tr><td>
+
+Apr 28..May 28
+: > [New Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) secured ~$100K from 800+ backers
+
+Apr 29
+: > [Build Awesome Pro Kickstarter AMA](https://www.youtube.com/live/KkwOTAAJ3gs) _@YouTube_
+
+Mar 20
+: > [Eleventy v4.0.0-alpha.7](https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.7) released with a note:
+: > "this may be one of the last canary releases before you see some names start to change to Build Awesome"
+
+Mar 13
+: > [AMA about Build Awesome, an Open Town Hall with Zach Leatherman](https://www.youtube.com/watch?v=lA-wD89m6jM) _@YouTube_
+
+Mar 3..6
+: > [Original Kickstarter](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) _@FA_
+
+Mar 3
+: > [Official announcement](https://www.11ty.dev/blog/build-awesome/)
+
+</td></tr></table>
 
 See also:
 

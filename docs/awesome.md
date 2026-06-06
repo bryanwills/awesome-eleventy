@@ -3,7 +3,11 @@ eleventyNavigation:
   key: Awesome
   order: 12
 site:
-  inline_styles: [".breakout-all > table { max-width: 110% !important }"]
+  inline_styles:
+    - |-
+      dt { margin-block: 0.25rem }
+      blockquote { padding-block: 0.25rem; margin-block: 0 }
+      .breakout-all > table { max-width: 110% !important }
 === CONTENT: ===
 title: Awesome <i class="fa-brands fa-eleventy"></i> list
 description: https://github.com/anyblades/awesome-11ty-buildawesome
