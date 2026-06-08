@@ -5,15 +5,12 @@ eleventyComputed:
     {{ ('https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md' if site.prod else '../../eleventy-blades/README.md')
       | fetch | section('summary') | markdownify | safe }}
   description: "{{ summary | remove_tag('h1') | safe }}"
+  _micro_starters: "{{ './starters.md' | fetch | section('micro') | markdownify | safe }}"
   _trusted_begin: "{{ '../.starter/index.njk' | fetch | section('trusted/11ty') | safe }}"
   _trusted_end: "{{ '../.starter/index.njk' | fetch | section('trusted/11ty/END') | safe }}"
 revised: 2026-02-28
 bricks:
   - content_here: true
-  - md: |-
-      ---
-      ## <sup>Documentation</sup> {#docs}
-  - tpl: "{% include './sitenav.njk' %}"
   #- md: |-
   #    ---
   #    ## Templating <small>tricks</small> {#tpl}
@@ -45,6 +42,20 @@ bricks:
   </nav>
 </section>
 
+<hr />
+<h2 id="starters"><sup>Micro-starters</sup></h2>
+{{ _micro_starters | safe }}
+<style>
+  #starters + table tbody tr:first-child {
+    display: none;
+  }
+</style>
+
+<hr />
+<h2 id="docs"><sup>Documentation</sup></h2>
+{% include 'sitenav.njk' %}
+
+<hr />
 {{ _trusted_begin | safe }}
 <article>
   <header>
