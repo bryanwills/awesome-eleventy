@@ -3,13 +3,6 @@ eleventyNavigation:
   parent: Get started
   key: Starter projects
   order: 11
-site:
-  inline_styles:
-    - |-
-      table {
-        a[href*="://github.com/"] > i { display: none }
-        code { padding: 0.25em; font-size: x-small; vertical-align: middle }
-      }
 === CONTENT: ===
 title: Minimal <i class="fa-brands fa-eleventy"></i> starters <sub>as of June 2026</sub>
 description: |-
@@ -22,6 +15,12 @@ revised: 2026-04-24
 ---
 
 <!--section:micro-->
+<style>
+  table {
+    a[href*="://github.com/"] > i { display: none }
+    code { padding: 0.25em; font-size: x-small; vertical-align: middle }
+  }
+</style>
 
 | Repo                                                                                                                                                                                             | Code size                                                                                                                        | Direct dependencies                                                 | Custom JS <hr>                                                                                                                     | Custom templates <hr>                                      | Custom CSS <hr>                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------- |
