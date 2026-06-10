@@ -53,18 +53,21 @@ See also:
 - [Curated list of starters for](https://sveltiacms.app/en/docs/frameworks/eleventy) _@Sveltia CMS_
 - [A larger list of 150+ community starters](https://www.11ty.dev/docs/starter/) _@11ty.dev_
 
-Modern v4 starters:
+Featured community starters:
 
 <table><tr><td>
 
-[Extended Blog](https://github.com/GoogleChrome/starter-extended-blog)
+`v4` [Extended Blog](https://github.com/GoogleChrome/starter-extended-blog)
 : An Eleventy blog template with an AI-powered blog post editor. _@Google Chrome_
 
-[*S*ubtle](https://github.com/anyblades/subtle)
-: The most subtle Eleventy v4 micro-starter for content-first sites. Powered by Eleventy Blades
+`v4` [*S*ubtle](https://github.com/anyblades/subtle)
+: The most subtle Eleventy v4 micro-starter for content-first sites. Powered by Eleventy Blades Kit
 
-[*B*uild Awesome Starter(s)](https://github.com/anydigital/build-awesome-starter)
-: Modern, lightweight Eleventy v4 multi-site starter showcasing Eleventy Blades and Tailwind CLI for: 1) Tailwind 2) Pico 3) Simple CSS.
+`v4` [*B*uild Awesome Starter<sup>[s]</sup>](https://github.com/anydigital/build-awesome-starter)
+: 6-in-1 modern, lightweight Eleventy v4 multi-site starter showcasing Eleventy Blades Kit and Tailwind CLI for: [1] Tailwind CSS + Typography [2] Blades CSS [3] Bootstrap CSS [4] Pico CSS [5] Simple CSS [6] Liquid Templates.
+
+`v3` [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden)
+: Turn your Obsidian vault into a beautiful website. Free, open-source, and entirely yours.
 
 </td></tr></table>
 
