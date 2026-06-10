@@ -66,7 +66,7 @@ Featured community starters:
 `v4` [*B*uild Awesome Starter<sup>[s]</sup>](https://github.com/anydigital/build-awesome-starter)
 : 6-in-1 modern, lightweight Eleventy v4 multi-site starter showcasing Eleventy Blades Kit and Tailwind CLI for: [1] Tailwind CSS + Typography [2] Blades CSS [3] Bootstrap CSS [4] Pico CSS [5] Simple CSS [6] Liquid Templates.
 
-`v3` [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden)
+`v3` [Digital Obsidian Garden](https://github.com/oleeskild/digitalgarden)
 : Turn your Obsidian vault into a beautiful website. Free, open-source, and entirely yours.
 
 </td></tr></table>
