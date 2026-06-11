@@ -69,6 +69,9 @@ Featured community starters:
 `v3` [Digital Obsidian Garden](https://github.com/oleeskild/digitalgarden)
 : Turn your Obsidian vault into a beautiful website. Free, open-source, and entirely yours.
 
+`v3` [Web Awesome SSR](https://github.com/KonnorRogers/webawesome-11ty-ssr)
+: Bare bones 11ty + Web Awesome setup using SSR.
+
 </td></tr></table>
 
 ## Plugins
