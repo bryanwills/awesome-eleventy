@@ -18,26 +18,26 @@
 
 ## Eleventy is becoming Build Awesome <!-- Z-A -->
 
-<table><tr><td>
+<table><tr><td class="has-timeline">
 
 Apr 28..May 28
-: > [New Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) secured ~$100K from 800+ backers
+: [New Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) secured ~$100K from 800+ backers
 
 Apr 29
-: > [Build Awesome Pro Kickstarter AMA](https://www.youtube.com/live/KkwOTAAJ3gs) _@YouTube_
+: [Build Awesome Pro Kickstarter AMA](https://www.youtube.com/live/KkwOTAAJ3gs) _@YouTube_
 
 Mar 20
-: > [Eleventy v4.0.0-alpha.7](https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.7) released with a note:
-: > "this may be one of the last canary releases before you see some names start to change to Build Awesome"
+: [Eleventy v4.0.0-alpha.7](https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.7) released with a note:
+: "this may be one of the last canary releases before you see some names start to change to Build Awesome"
 
 Mar 13
-: > [AMA about Build Awesome, an Open Town Hall with Zach Leatherman](https://www.youtube.com/watch?v=lA-wD89m6jM) _@YouTube_
+: [AMA about Build Awesome, an Open Town Hall with Zach Leatherman](https://www.youtube.com/watch?v=lA-wD89m6jM) _@YouTube_
 
 Mar 3..6
-: > [Original Kickstarter](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) _@FA_
+: [Original Kickstarter](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) _@FA_
 
 Mar 3
-: > [Official announcement](https://www.11ty.dev/blog/build-awesome/)
+: [Official announcement](https://www.11ty.dev/blog/build-awesome/)
 
 </td></tr></table>
 
@@ -45,6 +45,8 @@ See also:
 
 - [Static Site Generator Trends 2026-2040](https://any.digital/ssg/) _@Any.digital_
 - [Eleventy icon](https://fontawesome.com/icons/eleventy?f=brands&s=solid) _@FA_
+
+---
 
 ## Starters
 
@@ -74,6 +76,8 @@ Featured community starters:
 
 </td></tr></table>
 
+---
+
 ## Plugins
 
 - [Official plugins](https://www.11ty.dev/docs/plugins/)
@@ -93,6 +97,8 @@ Featured community plugins:
 : A ready-to-go `eleventy.config.js` for popular 11ty plugins, bundled with npm scripts in one reusable, zero-maintenance package.
 
 </td></tr></table>
+
+---
 
 ## Articles
 
@@ -114,6 +120,8 @@ Archive:
 - `2023` [Tutorials](https://www.11ty.dev/docs/tutorials/) _@11ty.dev_
 - `2023` [Quick tips](https://www.11ty.dev/docs/quicktips/) _@11ty.dev_
 
+---
+
 ## Sites
 
 - [Eleventy Leaderboards](https://www.11ty.dev/speedlify/) _@11ty.dev_
@@ -121,6 +129,8 @@ Archive:
 - [Eleventy websites using](https://sveltiacms.app/en/showcase?framework=eleventy) _@Sveltia CMS_
 
 <!--section-->
+
+---
 
 ## Contribute
 

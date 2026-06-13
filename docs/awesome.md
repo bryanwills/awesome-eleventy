@@ -3,8 +3,6 @@ eleventyNavigation:
   key: Awesome
   order: 12
 inline_styles: |-
-  dt { margin-block: 0.25rem }
-  blockquote { padding-block: 0.25rem; margin-block: 0 }
   .breakout-all > table { max-width: 110% !important }
 
 === CONTENT: ===
