@@ -9,7 +9,7 @@
       section: install
     - md: |-
         ---
-        ## <sup>Appendix</sup>
+        ## <sup style>Appendix</sup>
     - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/plugin.js
       section: code
 - permalink: /base/
