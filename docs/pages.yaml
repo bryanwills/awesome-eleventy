@@ -52,6 +52,11 @@
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/mdAutoUncommentAttrs.js
       sections: [docs, code]
+- permalink: /features/virtual-pages/
+  eleventyNavigation: { parent: Features, key: Virtual pages <mark>NEW</mark> }
+  bricks:
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/features/virtualPages.js
+      sections: [docs, code]
 
 # Templates
 - permalink: false
@@ -134,6 +139,11 @@
   eleventyNavigation: { parent: Filters, key: section }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/section.js
+      sections: [docs, code]
+- permalink: /filters/split/
+  eleventyNavigation: { parent: Filters, key: split <mark>NEW</mark> }
+  bricks:
+    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/filters/split.js
       sections: [docs, code]
 - permalink: /filters/strip_tag/
   eleventyNavigation: { parent: Filters, key: strip_tag }
