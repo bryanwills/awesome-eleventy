@@ -2,22 +2,16 @@
 eleventyNavigation:
   key: Awesome
   order: 12
-inline_styles: |-
-  .breakout-all > table { max-width: 110% !important }
-
-=== CONTENT: ===
 title: Awesome <i class="fa-brands fa-eleventy"></i> list
 description: https://github.com/anyblades/awesome-11ty-buildawesome
 bricks:
   - path: ../README.md
     section: content
-  # - md: |-
-  #     ---
-  #     ## More
-  # - teaser: /
-  # - teaser: /tools/
-  # - teaser: /html/
 ---
+
+<style>
+  .breakout-all > table { max-width: 110% !important }
+</style>
 
 ---
 
