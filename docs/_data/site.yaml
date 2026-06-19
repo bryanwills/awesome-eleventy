@@ -1,9 +1,11 @@
 base: https://11ty.blades.ninja
 title: Build Awesome / Eleventy Blades
-brand: 11ty 🥷 <em>Bl</em>ades
+brand: 11ty&nbsp;🥷&nbsp;<em>Bl</em>ades
 header_links:
   - url: https://github.com/anyblades/eleventy-blades
     title: <i class="fa-brands fa-github fa-lg"></i>
+  - url: https://mastodon.social/@anydigital/tagged/11tyBuildAwesome
+    title: <i class="fa-brands fa-mastodon fa-lg"></i>
   - url: https://blades.ninja/
     title: <i class="fa-brands fa-css3 fa-sm faded"></i>
   - url: https://github.com/anyblades/awesome-11ty-buildawesome
