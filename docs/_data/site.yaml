@@ -4,7 +4,7 @@ brand: 11ty&nbsp;🥷&nbsp;<em>Bl</em>ades
 header_links:
   - url: https://github.com/anyblades/eleventy-blades
     title: <i class="fa-brands fa-github fa-lg"></i>
-  - url: https://mastodon.social/@anydigital/tagged/11tyBuildAwesome
+  - url: https://mastodon.social/@anydigital/tagged/11tyBuildAwesome?boosts=1
     title: <i class="fa-brands fa-mastodon fa-lg"></i>
   - url: https://blades.ninja/
     title: <i class="fa-brands fa-css3 fa-sm faded"></i>
