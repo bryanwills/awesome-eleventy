@@ -64,7 +64,7 @@ Newest Build Awesome starters:
 
 <table><tr><td>
 
-`BA v4` [6-in-1 Starter[s]](https://github.com/anydigital/build-awesome-starter)
+`BA v4` [6-in-1 Starter](https://github.com/anyblades/buildawesome-starters)
 : Modern, lightweight Eleventy v4 multi-site starter showcasing Eleventy Blades Kit and Tailwind CLI for: [1] Tailwind CSS + Typography [2] Blades CSS [3] Bootstrap CSS [4] Pico CSS [5] Simple CSS [6] Liquid Templates.
 
 <!--`BA v4` [Base Blog](https://github.com/11ty/awesome-base-blog)
