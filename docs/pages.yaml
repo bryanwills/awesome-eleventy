@@ -12,15 +12,6 @@
         ## <sup style>Appendix</sup>
     - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/plugin.js
       section: code
-- permalink: /base/
-  eleventyNavigation: { parent: Get started, key: Base package, order: 2 }
-  title: Eleventy Blades <mark>base package</mark>
-  bricks:
-    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/packages/eleventy-blades-base/eleventy.config.js
-      sections: [docs, code]
-    - md: "There are 4 ways to get started:"
-    - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md
-      section: config+starters
 
 # Features
 - permalink: /features/
