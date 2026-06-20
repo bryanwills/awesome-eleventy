@@ -10,8 +10,9 @@
     - md: |-
         ---
         ## <sup style>Appendix</sup>
+        Default options:
     - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/plugin.js
-      section: code
+      sections: [def-options, code]
 
 # Features
 - permalink: /features/
