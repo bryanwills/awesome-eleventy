@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://awesome.re/badge.svg"><br>
-  11ty <sub><sup>//</sup></sub> Build Awesome
+  Awesome 11ty <sub><sup>//</sup></sub> Build Awesome
 </h1>
 
 <p align="center">
