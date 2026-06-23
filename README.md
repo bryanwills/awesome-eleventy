@@ -22,8 +22,8 @@
 
 Jun 17  
 : First [Build Awesome v4.0.0-alpha.8](https://github.com/11ty/buildawesome/releases/tag/v4.0.0-alpha.8) released  
-: ... renaming `11ty/eleventy` repo to [`11ty/buildawesome`](https://github.com/11ty/buildawesome)  
-: Build Awesome joins [Web Awesome Discord](https://webawesome.com/docs/resources/community#community-chat) (to become just Awesome)
+: ... renaming `11ty/eleventy` repo to https://github.com/11ty/buildawesome  
+: Build Awesome joined [Web Awesome Discord](https://webawesome.com/docs/resources/community#community-chat) (to become just Awesome Discord)
 
 Apr 28..May 28
 : [New Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) secured ~$100K from 800+ backers
