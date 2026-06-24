@@ -6,6 +6,8 @@ header_links:
     title: <i class="fa-brands fa-github fa-lg"></i>
   - url: https://mastodon.social/@anydigital/tagged/11tyBuildAwesome?boosts=1
     title: <i class="fa-brands fa-mastodon fa-lg"></i>
+  - url: https://bsky.app/hashtag/11tyBuildAwesome?author=any.digital
+    title: <i class="fa-brands fa-bluesky"></i>
   - url: https://blades.ninja/
     title: <i class="fa-brands fa-css3 fa-sm faded"></i>
   - url: https://github.com/anyblades/awesome-11ty-buildawesome
