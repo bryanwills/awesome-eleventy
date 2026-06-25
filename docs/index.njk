@@ -5,24 +5,12 @@ eleventyComputed:
     {{ ('https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md' if site.prod else '../../eleventy-blades/README.md')
       | fetch | section('summary') | markdownify | safe }}
   description: "{{ summary | remove_tag('h1') | safe }}"
-  _micro_starters: "{{ './starters.md' | fetch | section('micro') | markdownify | safe }}"
-  _trusted_begin: "{{ '../.starter/index.njk' | fetch | section('trusted/11ty') | safe }}"
-  _trusted_end: "{{ '../.starter/index.njk' | fetch | section('trusted/11ty/END') | safe }}"
-revised: 2026-02-28
 bricks:
   - content_here: true
-  #- md: |-
-  #    ---
-  #    ## Templating <small>tricks</small> {#tpl}
-  #    <!-- https://github.com/anyblades/awesome-11ty-build-awesome#tutorials -->
-  #     {#njk-vscode}
-  #     <!-- https://bsky.app/profile/any.digital/post/3mdjvepwr7k2w -->
-  # - teaser: https://blades.ninja/html/
-  #- path: https://blades.ninja/html/
-  #  section: toc
   - md: ---
   - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/README.md
     section: featured
+revised: 2026-02-28
 ---
 
 <section class="hero">
@@ -31,7 +19,7 @@ bricks:
 
 <hr />
 <h2 id="starters"><sup style>Micro-starters</sup></h2>
-{{ _micro_starters | safe }}
+{{ './starters.md' | fetch | section('micro') | markdownify | safe }}
 <style>
   tbody tr:first-child {
     display: none;
@@ -43,14 +31,49 @@ bricks:
 {% include 'sitenav.njk' %}
 
 <hr />
-{{ _trusted_begin | safe }}
-<article>
-  <header>
-    <a
-      ><i class="fa-solid fa-flask fa-lg" style="color: dodgerblue"></i>
-      Scientists</a
+<h2 id="trusted"><sup style>Trusted by</sup></h2>
+<div class="grid breakout-item-max">
+  <article>
+    <header>
+      <a href="https://sveltiacms.app/">Sveltia CMS</a>
+    </header>
+    Providing multiple starter
+    <a href="//sveltiacms.app/en/docs/start#starter-templates:~:text=anyblades"
+      >templates</a
     >
-  </header>
-  <a href="//github.com/tomdstanton/tomdstanton">Tom Stanton</a>
-</article>
-{{ _trusted_end | safe }}
+  </article>
+  <article>
+    <header>
+      <a href="https://hostfurl.com/">
+        <i class="dark-auto"><img src="https://hostfurl.com/favicon.svg" /></i>
+        Hostfurl
+      </a>
+    </header>
+    Powering <a href="//github.com/hostfurl/minformhf">Minformhf</a> template
+  </article>
+  <article>
+    <header>
+      <a
+        ><i class="fa-solid fa-flask fa-lg" style="color: dodgerblue"></i>
+        Scientists</a
+      >
+    </header>
+    <a href="//github.com/tomdstanton/tomdstanton">Tom Stanton</a>
+  </article>
+</div>
+<style>
+  .grid:has(article) {
+    padding-inline: 1em;
+    gap: 2px;
+    margin-top: 1.5em;
+  }
+  article:has(> header) {
+    background: none;
+    border: 2px solid var(--pico-card-sectioning-background-color);
+  }
+  article header a {
+    text-decoration: none;
+    font-weight: 600;
+    color: var(--pico-contrast);
+  }
+</style>
