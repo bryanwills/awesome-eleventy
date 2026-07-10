@@ -20,8 +20,12 @@
 
 <table><tr><td class="has-timeline">
 
+Jul 1
+: [Build Awesome (11ty) v4.0.0-alpha.10](https://github.com/11ty/buildawesome/releases/tag/v4.0.0-alpha.10) released  
+: ~[Build Awesome (11ty) v4.0.0-alpha.9](https://github.com/11ty/buildawesome/releases/tag/v4.0.0-alpha.9) released~ and shortly hotfixed by alpha.10
+
 Jun 17  
-: [Build Awesome v4.0.0-alpha.8](https://github.com/11ty/buildawesome/releases/tag/v4.0.0-alpha.8) released (first ever)  
+: [Build Awesome (11ty) v4.0.0-alpha.8](https://github.com/11ty/buildawesome/releases/tag/v4.0.0-alpha.8) released (first ever)  
 : https://github.com/11ty/buildawesome became the new name for `11ty/eleventy` repo  
 : [Web Awesome Discord](https://webawesome.com/docs/resources/community#community-chat) welcomed Build Awesome (to become just Awesome Discord)
 
