@@ -22,7 +22,7 @@
 
 Jul 1
 : [Build Awesome (11ty) v4.0.0-alpha.10](https://github.com/11ty/buildawesome/releases/tag/v4.0.0-alpha.10) released  
-: ~~[Build Awesome (11ty) v4.0.0-alpha.9](https://github.com/11ty/buildawesome/releases/tag/v4.0.0-alpha.9) released~~ and shortly hotfixed by alpha.10
+: ~~[Build Awesome (11ty) v4.0.0-alpha.9](https://github.com/11ty/buildawesome/releases/tag/v4.0.0-alpha.9) released~~ and shortly hotfixed by `alpha.10`
 
 Jun 17  
 : [Build Awesome (11ty) v4.0.0-alpha.8](https://github.com/11ty/buildawesome/releases/tag/v4.0.0-alpha.8) released (first ever)  
