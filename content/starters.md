@@ -61,3 +61,9 @@ revised: 2026-04-24
     }
   }
 </style>
+
+---
+
+## <sup style>Featured by</sup>
+
+- https://bsky.app/profile/thefulcrum.eurosky.social/post/3mnk64fhwpq2l
