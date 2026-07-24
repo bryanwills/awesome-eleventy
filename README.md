@@ -52,6 +52,7 @@ Mar 3
 
 See also:
 
+- https://build.awesome.me/pro/#build-awesome-timeline
 - [Static Site Generator Trends 2026-2040](https://any.digital/ssg/) _@Any.digital_
 - [Eleventy icon](https://fontawesome.com/icons/eleventy?f=brands&s=solid) _@FA_
 
