@@ -11,7 +11,7 @@
         ---
         ## <sup style>Appendix</sup>
         Default options:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/plugin.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/plugin.js
       sections: [def-options, code]
 
 # Features
@@ -25,32 +25,32 @@
 - permalink: /features/site-globals/
   eleventyNavigation: { parent: Features, key: Site globals }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/features/siteData.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/features/siteData.js
       sections: [docs, code]
 - permalink: /features/link-favicons/
   eleventyNavigation: { parent: Features, key: Automatic link favicons }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/features/autoLinkFavicons.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/features/autoLinkFavicons.js
       sections: [docs, code]
 - permalink: /features/markdown-newlines/
   eleventyNavigation: { parent: Features, key: Markdown newlines }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/features/mdAutoNl2br.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/features/mdAutoNl2br.js
       sections: [docs, code]
 - permalink: /features/markdown-auto-raw/
   eleventyNavigation: { parent: Features, key: Markdown auto-raw tags }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/features/mdAutoRawTags.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/features/mdAutoRawTags.js
       sections: [docs, code]
 - permalink: /features/markdown-hidden-attrs/
   eleventyNavigation: { parent: Features, key: Markdown hidden attrs }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/features/mdAutoUncommentAttrs.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/features/mdAutoUncommentAttrs.js
       sections: [docs, code]
 - permalink: /features/virtual-pages/
   eleventyNavigation: { parent: Features, key: Virtual pages <mark>NEW</mark> }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/features/virtualPages.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/features/virtualPages.js
       sections: [docs, code]
 
 # Filters
@@ -63,32 +63,32 @@
 - permalink: /filters/attr_concat/
   eleventyNavigation: { parent: Filters, key: attr_concat }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/attr_concat.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/filters/attr_concat.js
       sections: [docs, code]
 - permalink: /filters/attr_includes/
   eleventyNavigation: { parent: Filters, key: attr_includes }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/attr_includes.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/filters/attr_includes.js
       sections: [docs, code]
 - permalink: /filters/attr_set/
   eleventyNavigation: { parent: Filters, key: attr_set }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/attr_set.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/filters/attr_set.js
       sections: [docs, code]
 - permalink: /filters/date/
   eleventyNavigation: { parent: Filters, key: date }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/date.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/filters/date.js
       sections: [docs, code]
 - permalink: /filters/fetch/
   eleventyNavigation: { parent: Filters, key: fetch }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/fetch.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/filters/fetch.js
       sections: [docs, code]
 - permalink: /filters/if/
   eleventyNavigation: { parent: Filters, key: if }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/if.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/filters/if.js
       sections: [docs, code]
 - permalink: /filters/markdownify/
   eleventyNavigation: { parent: Filters, key: markdownify }
@@ -99,30 +99,30 @@
 - permalink: /filters/merge/
   eleventyNavigation: { parent: Filters, key: merge }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/merge.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/filters/merge.js
       sections: [docs, code]
 - permalink: /filters/remove_tag/
   eleventyNavigation: { parent: Filters, key: remove_tag }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/remove_tag.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/filters/remove_tag.js
       sections: [docs, code]
 - permalink: /filters/section/
   eleventyNavigation: { parent: Filters, key: section }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/section.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/filters/section.js
       sections: [docs, code]
 - permalink: /filters/split/
   eleventyNavigation: { parent: Filters, key: split <mark>NEW</mark> }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/split.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/filters/split.js
       sections: [docs, code]
 - permalink: /filters/strip_tag/
   eleventyNavigation: { parent: Filters, key: strip_tag }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/strip_tag.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/filters/strip_tag.js
       sections: [docs, code]
 - permalink: /filters/unindent/
   eleventyNavigation: { parent: Filters, key: unindent }
   bricks:
-    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/unindent.js
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/filters/unindent.js
       sections: [docs, code]
