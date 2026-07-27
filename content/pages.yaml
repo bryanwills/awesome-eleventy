@@ -16,10 +16,12 @@
 
 # Features
 - permalink: /features/
-  eleventyNavigation: { key: Features, order: 2 }
-  title: Plugin features
+  eleventyNavigation: { key: Features, order: 2, title: Plugin features }
   description: A collection of useful Eleventy processors via Eleventy Blades plugin.
   revised: 2026-03-25
+- permalink: false
+  eleventyNavigation:
+    { parent: Features, key: Features overview, url: /features/ }
 - permalink: /features/site-globals/
   eleventyNavigation: { parent: Features, key: Site globals }
   bricks:
@@ -53,10 +55,11 @@
 
 # Filters
 - permalink: /filters/
-  eleventyNavigation: { key: Filters, order: 3 }
-  title: Plugin filters
+  eleventyNavigation: { key: Filters, order: 3, title: Plugin filters }
   description: A collection of useful Eleventy filters for Nunjucks/Liquid via Eleventy Blades plugin.
   revised: 2026-03-24
+- permalink: false
+  eleventyNavigation: { parent: Filters, key: Filters overview, url: /filters/ }
 - permalink: /filters/attr_concat/
   eleventyNavigation: { parent: Filters, key: attr_concat }
   bricks:
