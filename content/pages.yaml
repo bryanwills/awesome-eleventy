@@ -15,36 +15,36 @@
       sections: [def-options, code]
 
 # Features
-- permalink: /kit/features/
+- permalink: /features/
   eleventyNavigation: { key: Features, order: 2 }
   description: A collection of useful Eleventy processors via Eleventy Blades plugin.
   revised: 2026-03-25
-- permalink: /kit/features/site-globals/
+- permalink: /features/site-globals/
   eleventyNavigation: { parent: Features, key: Site globals }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/features/siteData.js
       sections: [docs, code]
-- permalink: /kit/features/link-favicons/
+- permalink: /features/link-favicons/
   eleventyNavigation: { parent: Features, key: Automatic link favicons }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/features/autoLinkFavicons.js
       sections: [docs, code]
-- permalink: /kit/features/markdown-newlines/
+- permalink: /features/markdown-newlines/
   eleventyNavigation: { parent: Features, key: Markdown newlines }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/features/mdAutoNl2br.js
       sections: [docs, code]
-- permalink: /kit/features/markdown-auto-raw/
+- permalink: /features/markdown-auto-raw/
   eleventyNavigation: { parent: Features, key: Markdown auto-raw tags }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/features/mdAutoRawTags.js
       sections: [docs, code]
-- permalink: /kit/features/markdown-hidden-attrs/
+- permalink: /features/markdown-hidden-attrs/
   eleventyNavigation: { parent: Features, key: Markdown hidden attrs }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/features/mdAutoUncommentAttrs.js
       sections: [docs, code]
-- permalink: /kit/features/virtual-pages/
+- permalink: /features/virtual-pages/
   eleventyNavigation: { parent: Features, key: Virtual pages <mark>NEW</mark> }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/features/virtualPages.js
@@ -77,72 +77,72 @@
     url: /templates/
 
 # Filters
-- permalink: /kit/filters/
+- permalink: /filters/
   eleventyNavigation: { key: Filters, order: 3 }
   description: A collection of useful Eleventy filters for Nunjucks/Liquid via Eleventy Blades plugin.
   revised: 2026-03-24
-- permalink: /kit/filters/attr_concat/
+- permalink: /filters/attr_concat/
   eleventyNavigation: { parent: Filters, key: attr_concat }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/attr_concat.js
       sections: [docs, code]
-- permalink: /kit/filters/attr_includes/
+- permalink: /filters/attr_includes/
   eleventyNavigation: { parent: Filters, key: attr_includes }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/attr_includes.js
       sections: [docs, code]
-- permalink: /kit/filters/attr_set/
+- permalink: /filters/attr_set/
   eleventyNavigation: { parent: Filters, key: attr_set }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/attr_set.js
       sections: [docs, code]
-- permalink: /kit/filters/date/
+- permalink: /filters/date/
   eleventyNavigation: { parent: Filters, key: date }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/date.js
       sections: [docs, code]
-- permalink: /kit/filters/fetch/
+- permalink: /filters/fetch/
   eleventyNavigation: { parent: Filters, key: fetch }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/fetch.js
       sections: [docs, code]
-- permalink: /kit/filters/if/
+- permalink: /filters/if/
   eleventyNavigation: { parent: Filters, key: if }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/if.js
       sections: [docs, code]
-- permalink: /kit/filters/markdownify/
+- permalink: /filters/markdownify/
   eleventyNavigation: { parent: Filters, key: markdownify }
   description: "Included out-of-the-box with https://11ty.blades.ninja/base/ package:"
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/buildawesome.config.js
       section: markdownify
-- permalink: /kit/filters/merge/
+- permalink: /filters/merge/
   eleventyNavigation: { parent: Filters, key: merge }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/merge.js
       sections: [docs, code]
-- permalink: /kit/filters/remove_tag/
+- permalink: /filters/remove_tag/
   eleventyNavigation: { parent: Filters, key: remove_tag }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/remove_tag.js
       sections: [docs, code]
-- permalink: /kit/filters/section/
+- permalink: /filters/section/
   eleventyNavigation: { parent: Filters, key: section }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/section.js
       sections: [docs, code]
-- permalink: /kit/filters/split/
+- permalink: /filters/split/
   eleventyNavigation: { parent: Filters, key: split <mark>NEW</mark> }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/split.js
       sections: [docs, code]
-- permalink: /kit/filters/strip_tag/
+- permalink: /filters/strip_tag/
   eleventyNavigation: { parent: Filters, key: strip_tag }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/strip_tag.js
       sections: [docs, code]
-- permalink: /kit/filters/unindent/
+- permalink: /filters/unindent/
   eleventyNavigation: { parent: Filters, key: unindent }
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/filters/unindent.js
