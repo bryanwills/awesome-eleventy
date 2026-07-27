@@ -109,11 +109,11 @@ Featured community plugins:
 [Table of Contents](https://github.com/uncenter/eleventy-plugin-toc)
 : Simple and configurable table of contents generation for Eleventy.
 
-[*Bl*ades](https://github.com/anyblades/eleventy-blades)
+[*Bl*ades](https://github.com/anyblades/buildawesome-kit)
 : Essential 11ty filters, pre/post-processors, and other toggleable features as a simple, configurable plugin.
 
-[*Bl*ades Base](https://github.com/anyblades/eleventy-blades/tree/main/packages/eleventy-blades-base)
-: A ready-to-go `eleventy.config.js` for popular 11ty plugins, bundled with npm scripts in one reusable, zero-maintenance package.
+[*Bl*ades Base](https://github.com/anyblades/buildawesome-kit/tree/main/packages/buildawesome-kit-config)
+: A ready-to-go `buildawesome.config.js` for popular 11ty plugins, bundled with npm scripts in one reusable, zero-maintenance package.
 
 </td></tr></table>
 

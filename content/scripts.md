@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 3
 
 bricks:
-  - path: https://raw.githubusercontent.com/anyblades/eleventy-blades/refs/heads/main/packages/do/README.md
+  - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/scripts/README.md
 ---
 
 ---
