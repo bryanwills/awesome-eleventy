@@ -1,3 +1,3 @@
 # A-Z
-/processors/  /kit/features/ 301
-/tools/       /base/ 301
+/features/*     /plugin/features/:splat     301
+/filters/*      /plugin/filters/:splat      301
