@@ -1,3 +1,10 @@
+---
+eleventyNavigation:
+  parent: Get started
+  key: Kit overview
+  order: -1
+---
+
 How to Build Awesome
 minimal yet long-living <i class="fa-brands fa-eleventy"></i> starter
 that support continuous updates and evolve with your project?

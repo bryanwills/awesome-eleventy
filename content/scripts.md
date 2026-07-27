@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   parent: Get started
-  key: Useful scripts
+  key: Scripts
   order: 3
 
 bricks:

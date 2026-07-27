@@ -1,5 +1,6 @@
 ---
 eleventyNavigation:
+  parent: Get started
   key: Templates
   order: 4
 ---

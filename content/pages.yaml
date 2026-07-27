@@ -1,6 +1,6 @@
 # Get started
 - permalink: false
-  eleventyNavigation: { key: Get started, order: 0, url: /plugin/ }
+  eleventyNavigation: { key: Get started, order: 0, url: /kit/ }
 - permalink: /plugin/
   eleventyNavigation: { parent: Get started, key: Plugin, order: 0 }
   title: Eleventy Blades <mark>plugin</mark>
@@ -17,6 +17,7 @@
 # Features
 - permalink: /features/
   eleventyNavigation: { key: Features, order: 2 }
+  title: Plugin features
   description: A collection of useful Eleventy processors via Eleventy Blades plugin.
   revised: 2026-03-25
 - permalink: /features/site-globals/
@@ -50,35 +51,10 @@
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/kit/features/virtualPages.js
       sections: [docs, code]
 
-# Templates
-- permalink: false
-  eleventyNavigation:
-    parent: Templates
-    key: HTML base ↗
-    order: 1
-    url: https://blades.ninja/html/starter/
-- permalink: false
-  eleventyNavigation:
-    parent: Templates
-    key: Links ↗
-    order: 2
-    url: https://blades.ninja/html/links/
-- permalink: false
-  eleventyNavigation:
-    parent: Templates
-    key: Sitemap ↗
-    order: 3
-    url: https://blades.ninja/html/sitemap/
-- permalink: false
-  eleventyNavigation:
-    parent: Templates
-    key: More
-    order: 10
-    url: /templates/
-
 # Filters
 - permalink: /filters/
   eleventyNavigation: { key: Filters, order: 3 }
+  title: Plugin filters
   description: A collection of useful Eleventy filters for Nunjucks/Liquid via Eleventy Blades plugin.
   revised: 2026-03-24
 - permalink: /filters/attr_concat/
