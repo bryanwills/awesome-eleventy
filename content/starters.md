@@ -2,7 +2,7 @@
 eleventyNavigation:
   parent: Get started
   key: Starter projects
-  order: 11
+  order: 3
 title: Minimal <i class="fa-brands fa-eleventy"></i> starters <sub style>as of June 2026</sub>
 description: |-
   Eleventy ecosystem offers a [wide variety of starters](/awesome/#starters).

@@ -1,3 +1,5 @@
 # A-Z
+/base/          /config/                    301
+# * => *
 /features/*     /plugin/features/:splat     301
 /filters/*      /plugin/filters/:splat      301

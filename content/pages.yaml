@@ -1,8 +1,13 @@
 # Get started
 - permalink: false
   eleventyNavigation: { key: Get started, order: 0, url: /kit/ }
+
+# Core
+- permalink: false
+  eleventyNavigation: { key: Core, order: 1, url: /plugin/ }
 - permalink: /plugin/
-  eleventyNavigation: { parent: Get started, key: Plugin, order: 0 }
+  eleventyNavigation:
+    { parent: Core, key: Plugin, order: 0, title: Generic plugin }
   title: Eleventy Blades <mark>plugin</mark>
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/README.md
@@ -16,7 +21,7 @@
 
 # Features
 - permalink: /plugin/features/
-  eleventyNavigation: { key: Features, order: 2, title: Plugin features }
+  eleventyNavigation: { key: Features, order: 2, title: Core features }
   description: A collection of useful Eleventy processors via Eleventy Blades plugin.
   revised: 2026-03-25
 - permalink: false
@@ -55,7 +60,7 @@
 
 # Filters
 - permalink: /plugin/filters/
-  eleventyNavigation: { key: Filters, order: 3, title: Plugin filters }
+  eleventyNavigation: { key: Filters, order: 3, title: Core filters }
   description: A collection of useful Eleventy filters for Nunjucks/Liquid via Eleventy Blades plugin.
   revised: 2026-03-24
 - permalink: false

@@ -2,7 +2,6 @@
 eleventyNavigation:
   parent: Get started
   key: Templates
-  order: 4
 ---
 
 ### Render subnavigation (subpages)
