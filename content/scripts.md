@@ -4,16 +4,18 @@ eleventyNavigation:
   key: Scripts
 
 title: <mark>Core</mark> scripts
-description: https://github.com/anyblades/buildawesome-kit/tree/main/core/scripts
 bricks:
-  - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/scripts/README.md
+  - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/README.md
+    section: scripts
+  - md: |-
+      ---
+      ## <sup style>Appendix</sup>
+      How it works:
+  - path: "https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/scripts/package.json"
+    wrap: ["```json\n", "\n```"]
 ---
 
----
-
-## More
-
-### Find and kill <small>11ty processes</small>
+### Find and kill 11ty processes
 
 ```sh
 ps aux | grep eleventy
