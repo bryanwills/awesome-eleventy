@@ -1,8 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Get started
-  key: Kit overview
-  order: -1
+permalink: false
 ---
 
 How to Build Awesome

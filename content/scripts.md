@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   parent: Core
-  key: Generic scripts
+  key: Scripts
 
 bricks:
   - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/scripts/README.md

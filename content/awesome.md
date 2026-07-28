@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   key: Awesome
-  order: 12
+  order: 11
 title: Awesome <i class="fa-brands fa-eleventy"></i> list
 description: https://github.com/anyblades/awesome-11ty-buildawesome
 bricks:

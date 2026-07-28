@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   parent: Get started
-  key: Templates
+  key: HTML templates
 ---
 
 ### Render subnavigation (subpages)
