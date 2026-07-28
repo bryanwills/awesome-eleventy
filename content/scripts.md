@@ -3,6 +3,7 @@ eleventyNavigation:
   parent: Core
   key: Scripts
 
+title: <mark><i class="fa-brands fa-square-build-awesome-stroke fa-width-auto"></i> Kit</mark> Scripts
 bricks:
   - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/scripts/README.md
 ---
