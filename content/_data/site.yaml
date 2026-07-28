@@ -1,6 +1,6 @@
 base: https://build.blades.ninja
 title: 11ty / Build Awesome Kit
-brand: <i class="fa-brands fa-square-build-awesome-stroke"></i> Kit
+brand: <i class="fa-brands fa-square-build-awesome-stroke fa-xl"></i> <small><small>Build Awesome</small><br>Kit</small>
 header_links:
   - url: https://github.com/anyblades/buildawesome-kit
     title: <i class="fa-brands fa-github fa-lg"></i>
