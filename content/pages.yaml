@@ -1,7 +1,7 @@
 # Starter pack
 - permalink: false
   eleventyNavigation:
-    { key: Get started, order: 10, url: /config/, title: Pre-Configured }
+    { key: Get started, order: 10, url: /config/, title: Pre-configured }
 
 # Core
 - permalink: false
@@ -9,7 +9,7 @@
     { key: Core, order: 1, url: /plugin/, title: Core package }
 - permalink: /plugin/
   eleventyNavigation: { parent: Core, key: Plugin, order: 0 }
-  title: <mark>Core</mark> Plugin
+  title: <mark>Core</mark> plugin
   description: "`npm i @anyblades/buildawesome-kit`"
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/README.md
@@ -24,7 +24,7 @@
 # Features
 - permalink: /plugin/features/
   eleventyNavigation: { key: Features, order: 2 }
-  title: <mark>Core</mark> Features
+  title: <mark>Core</mark> features
   description: https://github.com/anyblades/buildawesome-kit/tree/main/core/features
   revised: 2026-03-25
 - permalink: false
@@ -64,7 +64,7 @@
 # Filters
 - permalink: /plugin/filters/
   eleventyNavigation: { key: Filters, order: 3 }
-  title: <mark>Core</mark> Filters
+  title: <mark>Core</mark> filters
   description: https://github.com/anyblades/buildawesome-kit/tree/main/core/filters
   revised: 2026-03-24
 - permalink: false
