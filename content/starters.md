@@ -3,7 +3,10 @@ eleventyNavigation:
   parent: Get started
   key: Starter projects
   order: 3
-title: Minimal <mark class="fa-brands fa-eleventy"></mark> Build Awesome starters <sub style>as of June 2026</sub>
+title: |-
+  <mark>Minimal</mark><br>
+  <i class="fa-brands fa-eleventy"></i><s hidden>11ty /</s> <mark>Build Awesome</mark> starters
+  <sub style>as of June 2026</sub>
 description: |-
   Eleventy ecosystem offers a [wide variety of starters](/awesome/#starters).
 
