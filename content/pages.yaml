@@ -22,7 +22,7 @@
 # Features
 - permalink: /plugin/features/
   eleventyNavigation: { key: Features, order: 2 }
-  title: <mark>Core</mark> plugin features
+  title: <mark>Core</mark> features
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/README.md
       section: features
@@ -65,7 +65,7 @@
 # Filters
 - permalink: /plugin/filters/
   eleventyNavigation: { key: Filters, order: 3 }
-  title: <mark>Core</mark> plugin filters
+  title: <mark>Core</mark> filters
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/README.md
       section: filters
