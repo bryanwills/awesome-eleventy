@@ -1,7 +1,7 @@
 # Starter pack
 - permalink: false
   eleventyNavigation:
-    { key: Get started, order: 10, url: /kit/, title: Starter pack }
+    { key: Get started, order: 10, url: /config/, title: Pre-Configured }
 
 # Core
 - permalink: false
