@@ -4,13 +4,13 @@ brand: <i class="fa-brands fa-square-build-awesome-stroke fa-xl mark-brand"></i>
 header_links:
   - url: https://github.com/anyblades/buildawesome-kit
     title: <i class="fa-brands fa-github fa-lg"></i>
-  - url: https://bsky.app/hashtag/11tyBuildAwesome?author=any.digital
+  - url: https://bsky.app/hashtag/BuildAwesomeKit?author=any.digital
     title: <i class="fa-brands fa-bluesky"></i>
-  - url: https://mastodon.social/@anydigital/tagged/11tyBuildAwesome?boosts=1
+  - url: https://mastodon.social/@anydigital/tagged/BuildAwesomeKit?boosts=1
     title: <i class="fa-brands fa-mastodon fa-lg"></i>
   - url: https://blades.ninja/
     title: <i>🥷</i>
-  - url: https://github.com/anyblades/awesome-11ty-buildawesome
+  - url: https://github.com/anyblades/awesome-buildawesome
     title: <i class="fa-solid fa-laptop-code faded"></i>
 footer_contents:
   - Code licensed [MIT](//github.com/anyblades/eleventy-blades/blob/main/LICENSE.md),
