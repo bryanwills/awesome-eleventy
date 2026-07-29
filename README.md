@@ -21,7 +21,7 @@
 <table><tr><td class="has-timeline">
 
 Jul 1
-: ~~[Build Awesome (11ty) v4.0.0-alpha.9](https://github.com/11ty/buildawesome/releases/tag/v4.0.0-alpha.9) released ...~~
+: ~~[Build Awesome (11ty) v4.0.0-alpha.9](https://github.com/11ty/buildawesome/releases/tag/v4.0.0-alpha.9) released~~
 : ... and shortly hotfixed by [Build Awesome (11ty) v4.0.0-alpha.10](https://github.com/11ty/buildawesome/releases/tag/v4.0.0-alpha.10)
 
 Jun 17  
