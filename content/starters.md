@@ -4,8 +4,8 @@ eleventyNavigation:
   key: Starters
   order: 3
 title: |-
-  <mark>Minimal starters</mark><br>
-  <small>for</small> <i class="fa-brands fa-eleventy"></i><s hidden>11ty</s> / Build Awesome
+  <mark>Minimal</mark> <s hidden>11ty</s><i class="fa-brands fa-eleventy"></i> /<br>
+  Build Awesome <mark>starters</mark>
   <sub style>as of June 2026</sub>
 description: |-
   Eleventy ecosystem offers a [wide variety of starters](/awesome/#starters).
