@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: Get started
+  parent: Pre-configured
   key: HTML templates
 ---
 
@@ -33,5 +33,3 @@ Using https://www.11ty.dev/docs/plugins/navigation/#example-get-just-one-branch 
 {% endcapture %}
 {{ _ | markdownify | renderTransforms: page | replace: '...', '...' }}
 ```
-
----

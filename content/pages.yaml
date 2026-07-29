@@ -1,8 +1,3 @@
-# Starter pack
-- permalink: false
-  eleventyNavigation:
-    { key: Get started, order: 10, url: /config/, title: Pre-configured }
-
 # Core
 - permalink: false
   eleventyNavigation:
@@ -140,3 +135,19 @@
   bricks:
     - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/core/filters/unindent.js
       sections: [docs, code]
+
+# Pre-configured
+- permalink: false
+  eleventyNavigation: { key: Pre-configured, order: 10, url: /config/ }
+- permalink: /config/
+  eleventyNavigation:
+    { parent: Pre-configured, key: All-in-one package, order: 2 }
+  title: All-in-one <mark>config</mark> package
+  bricks:
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/README.md
+      section: config
+    - md: |-
+        ---
+        ## <sup style>Appendix</sup>
+    - path: https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/buildawesome.config.js
+      section: code

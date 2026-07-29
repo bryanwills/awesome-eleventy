@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: Get started
+  parent: Pre-configured
   key: Starters
   order: 3
 title: |-
