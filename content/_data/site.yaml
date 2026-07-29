@@ -11,7 +11,7 @@ header_links:
   - url: https://blades.ninja/
     title: <i>🥷</i>
   - url: https://github.com/anyblades/awesome-11ty-buildawesome
-    title: <i class="fa-solid fa-laptop-code fa-sm faded"></i>
+    title: <i class="fa-solid fa-laptop-code faded"></i>
 footer_contents:
   - Code licensed [MIT](//github.com/anyblades/eleventy-blades/blob/main/LICENSE.md),
     docs [CC BY-SA 4.0](//github.com/anyblades/awesome-11ty-buildawesome/blob/master/content/LICENSE.md). &nbsp;
