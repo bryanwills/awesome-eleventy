@@ -1,6 +1,9 @@
 ---
 permalink: /
 eleventyComputed:
+  content_for_header: |-
+    <meta property="og:image" content="{{ site.base }}/og-image.png">
+    <meta name="twitter:card" content="summary_large_image">
   summary: |-
     {{ ('https://raw.githubusercontent.com/anyblades/buildawesome-kit/refs/heads/main/README.md' if site.prod else '../../buildawesome-kit/README.md')
       | fetch | section('summary') | markdownify | safe }}
