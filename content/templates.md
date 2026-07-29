@@ -2,7 +2,12 @@
 eleventyNavigation:
   parent: Pre-configured
   key: HTML templates
+description: https://github.com/anyblades/blades/tree/main/_includes/blades
 ---
+
+---
+
+## <sup style>Appendix</sup>
 
 ### Render subnavigation (subpages)
 
