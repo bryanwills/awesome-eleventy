@@ -3,6 +3,10 @@ eleventyNavigation:
   parent: Pre-configured
   key: Starters
   order: 3
+eleventyComputed:
+  content_for_header: |-
+    <meta property="og:image" content="{{ site.base }}{{ page.url }}og.png">
+    <meta name="twitter:card" content="summary_large_image">
 title: |-
   <mark>Best minimal</mark><br>
   <i class="fa-brands fa-eleventy"></i><s hidden>11ty</s> / Build Awesome
