@@ -32,17 +32,17 @@ Apr 28..May 28
 : [New Kickstarter campaign](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro) secured ~$100K from 800+ backers
 
 Apr 29
-: [Build Awesome Pro Kickstarter AMA](https://www.youtube.com/live/KkwOTAAJ3gs) _@YouTube_
+: [Build Awesome Pro Kickstarter AMA](https://www.youtube.com/live/KkwOTAAJ3gs) `@ YouTube`
 
 Mar 20
 : [Eleventy v4.0.0-alpha.7](https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.7) released with a note:
 : "this may be one of the last canary releases before you see some names start to change to Build Awesome"
 
 Mar 13
-: [AMA about Build Awesome, an Open Town Hall with Zach Leatherman](https://www.youtube.com/watch?v=lA-wD89m6jM) _@YouTube_
+: [AMA about Build Awesome, an Open Town Hall with Zach Leatherman](https://www.youtube.com/watch?v=lA-wD89m6jM) `@ YouTube`
 
 Mar 3..6
-: [Original Kickstarter](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) _@FA_
+: [Original Kickstarter](https://www.kickstarter.com/projects/fontawesome/build-awesome) and [why it was canceled](https://blog.fontawesome.com/pausing-kickstarter/) `@ FA`
 
 Mar 3
 : [Official announcement](https://www.11ty.dev/blog/build-awesome/)
@@ -58,10 +58,10 @@ See also:
 
 ## Starters
 
-- [Curated list of ~40 starters](https://11tybundle.dev/starters/) _@11ty Bundle_
-- [Curated list of minimal starters](https://11ty.blades.ninja/starters/) _@11ty Blades_
-- [Curated list of starters for](https://sveltiacms.app/en/docs/frameworks/eleventy) _@Sveltia CMS_
-- [A larger list of 150+ community starters](https://www.11ty.dev/docs/starter/) _@11ty.dev_
+- [Curated list of ~40 starters](https://11tybundle.dev/starters/) `@ 11ty Bundle`
+- [Curated list of minimal starters](https://11ty.blades.ninja/starters/) `@ 11ty Blades`
+- [Curated list of starters for](https://sveltiacms.app/en/docs/frameworks/eleventy) `@ Sveltia CMS`
+- [A larger list of 150+ community starters](https://www.11ty.dev/docs/starter/) `@ 11ty.dev`
 
 Newest Build Awesome starters:
 
@@ -80,7 +80,7 @@ Featured community starters:
 <table><tr><td>
 
 `11ty v4` [Extended Blog](https://github.com/GoogleChrome/starter-extended-blog)
-: An Eleventy blog template with an AI-powered blog post editor. _@Google Chrome_
+: An Eleventy blog template with an AI-powered blog post editor. `@ Google Chrome`
 
 `11ty v4` [*S*ubtle](https://github.com/anyblades/subtle)
 : The most subtle Eleventy v4 micro-starter for content-first sites. Powered by Eleventy Blades Kit
@@ -98,7 +98,7 @@ Featured community starters:
 ## Plugins
 
 - [Official plugins](https://www.11ty.dev/docs/plugins/)
-- [A larger list of ~100 community plugins](https://www.11ty.dev/docs/plugins/community/) _@11ty.dev_
+- [A larger list of ~100 community plugins](https://www.11ty.dev/docs/plugins/community/) `@ 11ty.dev`
 
 Featured community plugins:
 
@@ -134,16 +134,16 @@ Featured community articles:
 
 Archive:
 
-- `2023` [Tutorials](https://www.11ty.dev/docs/tutorials/) _@11ty.dev_
-- `2023` [Quick tips](https://www.11ty.dev/docs/quicktips/) _@11ty.dev_
+- `2023` [Tutorials](https://www.11ty.dev/docs/tutorials/) `@ 11ty.dev`
+- `2023` [Quick tips](https://www.11ty.dev/docs/quicktips/) `@ 11ty.dev`
 
 ---
 
 ## Sites
 
-- [Eleventy Leaderboards](https://www.11ty.dev/speedlify/) _@11ty.dev_
-- [A showcase of websites built with Eleventy](https://11tybundle.dev/showcase/) _@11ty Bundle_
-- [Eleventy websites using](https://sveltiacms.app/en/showcase?framework=eleventy) _@Sveltia CMS_
+- [Eleventy Leaderboards](https://www.11ty.dev/speedlify/) `@ 11ty.dev`
+- [A showcase of websites built with Eleventy](https://11tybundle.dev/showcase/) `@ 11ty Bundle`
+- [Eleventy websites using](https://sveltiacms.app/en/showcase?framework=eleventy) `@ Sveltia CMS`
 
 <!--section-->
 
