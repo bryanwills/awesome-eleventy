@@ -160,7 +160,7 @@ Archive:
 
 ---
 
-## <sup style>Appendix</sup>
+## <sup style>APPENDIX</sup>
 
 ### Contribute
 
