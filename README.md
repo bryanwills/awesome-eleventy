@@ -85,6 +85,8 @@ See also:
 
 ### Featured Eleventy starters:
 
+<table><tr><td>
+
 [Extended Blog](https://github.com/GoogleChrome/starter-extended-blog)
 : An Eleventy blog template with an AI-powered blog post editor. `@ Google Chrome`
 
@@ -94,10 +96,12 @@ See also:
 [Web Awesome SSR](https://github.com/konnorrogers/11ty-webawesome-ssr)
 : Bare bones 11ty + Web Awesome setup using SSR.
 
-> [!IMPORTANT]
-> **Work in progress** — information below is under review:
+</td></tr></table>
 
 ---
+
+> [!IMPORTANT]
+> **Work in progress** — information below is under review:
 
 ## Plugins
 
