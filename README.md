@@ -68,14 +68,14 @@ See also:
 - [Curated list of starters for](https://sveltiacms.app/en/docs/frameworks/eleventy) `@ Sveltia CMS`
 - [A larger list of 150+ community starters](https://www.11ty.dev/docs/starter/) `@ 11ty.dev`
 
-### Build Awesome starters:
+Build Awesome starters:
 
 <table><tr><td>
 
 [Content-First](//content.build.blades.ninja/)
 : Best content-first micro-starter powered by Build Awesome Kit and Blades CSS.
 
-[Micro-Starter[s]](https://micro.build.blades.ninja/)
+[Micro-Starter[s]](//micro.build.blades.ninja/)
 : Modern 11-in-1 micro-starter showcasing Build Awesome Kit for: [1] Blades CSS [2] Pico CSS [3] Bootstrap CSS [4] Web Awesome [5] Sveltia CMS [6] Liquid (templates) [7] Tailwind CSS [8] Shotpipe (OG images) [9] Content-First 🔥 [10] Bare Build Awesome Kit (plugin) [11] Bare Build Awesome Kit (scripts).
 
 <!-- [Base Blog](https://github.com/11ty/awesome-base-blog)
@@ -83,7 +83,7 @@ See also:
 
 </td></tr></table>
 
-### Featured Eleventy starters:
+Featured Eleventy starters:
 
 <table><tr><td>
 
