@@ -78,8 +78,10 @@ Build Awesome starters:
 [*M*icro-Starter[s]](//micro.build.blades.ninja/)
 : Modern 11-in-1 micro-starter showcasing Build Awesome Kit for: [1] Blades CSS [2] Pico CSS [3] Bootstrap CSS [4] Web Awesome [5] Sveltia CMS [6] Liquid (templates) [7] Tailwind CSS [8] Shotpipe (OG images) [9] Content-First 🔥 [10] Bare Build Awesome Kit (plugin) [11] Bare Build Awesome Kit (scripts).
 
-<!-- [Base Blog](https://github.com/11ty/awesome-base-blog)
-: DRAFT REPOSITORY IN PROGRESS: A starter repository for a blog web site using the Eleventy static site generator and Web Awesome. -->
+<!--
+[Base Blog](https://github.com/11ty/awesome-base-blog)
+: DRAFT REPOSITORY IN PROGRESS: A starter repository for a blog web site using the Eleventy static site generator and Web Awesome.
+-->
 
 </td></tr></table>
 
@@ -128,9 +130,6 @@ Featured Eleventy plugins:
 
 ---
 
-> [!IMPORTANT]
-> **Work in progress** — information below is under review:
-
 ## Articles
 
 - [Official docs](https://www.11ty.dev/docs/)
@@ -148,8 +147,8 @@ Featured community articles:
 
 Archive:
 
-- `2023` [Tutorials](https://www.11ty.dev/docs/tutorials/) `@ 11ty.dev`
-- `2023` [Quick tips](https://www.11ty.dev/docs/quicktips/) `@ 11ty.dev`
+- [2023] [Tutorials](https://www.11ty.dev/docs/tutorials/) `@ 11ty.dev`
+- [2023] [Quick tips](https://www.11ty.dev/docs/quicktips/) `@ 11ty.dev`
 
 ---
 
@@ -161,20 +160,24 @@ Archive:
 
 ---
 
-## Contribute
+## <sup style>Appendix</sup>
+
+### Contribute
 
 Contributions welcome and encouraged! Read the [contribution guidelines](https://github.com/anyblades/awesome-buildawesome/blob/master/CONTRIBUTING.md) first.
 
-## Credits
+### Credits
 
 - Originally created by [Chris Collins](https://github.com/chrissy-dev)
 - Currently maintained by [*A*nydigital](https://any.digital/)
 
-## License
+### License
 
-| Awesome Eleventy list                                                                                                                   | Eleventy Blades docs                                                                                  |
+| Awesome 11ty / Build Awesome list                                                                                                       | Build Awesome Kit docs                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0) | [![BY SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](docs/LICENSE.md) |
 
 <!--
+> [!IMPORTANT]
+> **Work in progress** — information below is under review:
 -->
