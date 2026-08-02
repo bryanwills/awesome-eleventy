@@ -3,22 +3,26 @@
   11ty / Build Awesome
 </h1>
 
-<p align="center">
+<!--section:content-->
+
+<p align="center" style="text-align: left">
   A collection of awesome Eleventy
   <a href="#starters">starters</a>,
   <a href="#plugins">plugins</a>,
   <a href="#articles">articles</a>,
   <a href="#sites">sites</a>
-  and <a href="https://11ty.blades.ninja/">more ↗</a>
+  and <a href="https://build.blades.ninja/">more ↗</a>
 </p>
 
 ---
 
-<!--section:content-->
-
 ## Eleventy is now Build Awesome
 
 <table><tr><td class="has-timeline">
+
+Jul 31
+: [<i class="fa-brands fa-square-build-awesome-stroke fa-lg mark-brand"></i> Build Awesome Kit](https://build.blades.ninja/) released (contrib)
+: including [Content-First Starter](//content.build.blades.ninja/) and [11-in-1 Micro-Starter[s]](//micro.build.blades.ninja/)
 
 Jul 1
 : ~~[Build Awesome (11ty) v4.0.0-alpha.9](https://github.com/11ty/buildawesome/releases/tag/v4.0.0-alpha.9) released~~
@@ -56,6 +60,9 @@ See also:
 - https://fontawesome.com/icons/brands/solid/build-awesome
 
 ---
+
+> [!IMPORTANT]
+> **Work in progress** — information below is under review:
 
 ## Starters
 
@@ -146,8 +153,6 @@ Archive:
 - [A showcase of websites built with Eleventy](https://11tybundle.dev/showcase/) `@ 11ty Bundle`
 - [Eleventy websites using](https://sveltiacms.app/en/showcase?framework=eleventy) `@ Sveltia CMS`
 
-<!--section-->
-
 ---
 
 ## Contribute
@@ -166,6 +171,4 @@ Contributions welcome and encouraged! Read the [contribution guidelines](CONTRIB
 | [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0) | [![BY SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](docs/LICENSE.md) |
 
 <!--
-> [!IMPORTANT]
-> **Work in progress** — information below is under review:
 -->
