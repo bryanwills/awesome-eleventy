@@ -72,10 +72,10 @@ Build Awesome starters:
 
 <table><tr><td>
 
-[Content-First](//content.build.blades.ninja/)
+[*C*ontent-First](//content.build.blades.ninja/)
 : Best content-first micro-starter powered by Build Awesome Kit and Blades CSS.
 
-[Micro-Starter[s]](//micro.build.blades.ninja/)
+[*M*icro-Starter[s]](//micro.build.blades.ninja/)
 : Modern 11-in-1 micro-starter showcasing Build Awesome Kit for: [1] Blades CSS [2] Pico CSS [3] Bootstrap CSS [4] Web Awesome [5] Sveltia CMS [6] Liquid (templates) [7] Tailwind CSS [8] Shotpipe (OG images) [9] Content-First 🔥 [10] Bare Build Awesome Kit (plugin) [11] Bare Build Awesome Kit (scripts).
 
 <!-- [Base Blog](https://github.com/11ty/awesome-base-blog)
@@ -100,30 +100,36 @@ Featured Eleventy starters:
 
 ---
 
-> [!IMPORTANT]
-> **Work in progress** — information below is under review:
-
 ## Plugins
 
-- [Official plugins](https://www.11ty.dev/docs/plugins/)
+- [Official plugins](https://www.11ty.dev/docs/plugins/) `@ 11ty.dev`
 - [A larger list of ~100 community plugins](https://www.11ty.dev/docs/plugins/community/) `@ 11ty.dev`
 
-Featured community plugins:
+Build Awesome plugins:
+
+<table><tr><td>
+
+[*B*uild Awesome Kit](https://github.com/anyblades/buildawesome-kit)
+: Lightweight plugin with essential opt-out features, filters, and scripts. Use it standalone OR fully pre-configured with other popular plugins OR via one of our micro-starters.
+
+</td></tr></table>
+
+Featured Eleventy plugins:
 
 <table><tr><td>
 
 [Table of Contents](https://github.com/uncenter/eleventy-plugin-toc)
 : Simple and configurable table of contents generation for Eleventy.
 
-[*Bl*ades](https://github.com/anyblades/buildawesome-kit)
-: Essential 11ty filters, pre/post-processors, and other toggleable features as a simple, configurable plugin.
-
-[*Bl*ades Base](https://github.com/anyblades/buildawesome-kit/tree/main/packages/buildawesome-kit-config)
-: A ready-to-go `buildawesome.config.js` for popular 11ty plugins, bundled with npm scripts in one reusable, zero-maintenance package.
+[Shotpipe (OG images)](https://github.com/podop29/eleventy-plugin-shotpipe)
+: Open Graph images for Eleventy — with zero build-time cost.
 
 </td></tr></table>
 
 ---
+
+> [!IMPORTANT]
+> **Work in progress** — information below is under review:
 
 ## Articles
 
