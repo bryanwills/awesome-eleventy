@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="https://awesome.re/badge.svg"><br>
-  Awesome 11ty <sub><sup>//</sup></sub> Build Awesome
+  <img src="https://awesome.re/badge.svg"> 11ty / Build Awesome
 </h1>
 
 <p align="center">
@@ -16,7 +15,7 @@
 
 <!--section:content-->
 
-## Eleventy is becoming Build Awesome <!-- Z-A -->
+## Eleventy is now Build Awesome
 
 <table><tr><td class="has-timeline">
 
@@ -53,8 +52,7 @@ Mar 3
 See also:
 
 - https://build.awesome.me/pro/#build-awesome-timeline
-- [Static Site Generator Trends 2026-2040](https://any.digital/ssg/) _@Any.digital_
-- [Eleventy icon](https://fontawesome.com/icons/eleventy?f=brands&s=solid) _@FA_
+- https://fontawesome.com/icons/brands/solid/build-awesome
 
 ---
 
