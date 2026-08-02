@@ -22,7 +22,7 @@
 
 Jul 31
 : [<i class="fa-brands fa-square-build-awesome-stroke fa-lg mark-brand"></i> Build Awesome Kit](https://build.blades.ninja/) released (contrib)
-: including [Content-First Starter](//content.build.blades.ninja/) and [11-in-1 Micro-Starter[s]](//micro.build.blades.ninja/)
+: including [11-in-1 Micro-Starter[s]](//micro.build.blades.ninja/) and [Content-First Starter](//content.build.blades.ninja/)
 
 Jul 1
 : ~~[Build Awesome (11ty) v4.0.0-alpha.9](https://github.com/11ty/buildawesome/releases/tag/v4.0.0-alpha.9) released~~
@@ -61,45 +61,41 @@ See also:
 
 ---
 
-> [!IMPORTANT]
-> **Work in progress** — information below is under review:
-
 ## Starters
 
 - [Curated list of ~40 starters](https://11tybundle.dev/starters/) `@ 11ty Bundle`
-- [Curated list of minimal starters](https://11ty.blades.ninja/starters/) `@ 11ty Blades`
+- [Curated list of minimal starters](https://build.blades.ninja/starters/) `@ Build Awesome Kit`
 - [Curated list of starters for](https://sveltiacms.app/en/docs/frameworks/eleventy) `@ Sveltia CMS`
 - [A larger list of 150+ community starters](https://www.11ty.dev/docs/starter/) `@ 11ty.dev`
 
-Newest Build Awesome starters:
+### Build Awesome starters:
 
 <table><tr><td>
 
-`BA v4` [6-in-1 Starter](https://github.com/anyblades/buildawesome-starters)
-: Modern, lightweight Eleventy v4 multi-site starter showcasing Eleventy Blades Kit and Tailwind CLI for: [1] Tailwind CSS + Typography [2] Blades CSS [3] Bootstrap CSS [4] Pico CSS [5] Simple CSS [6] Liquid Templates.
+[Content-First](//content.build.blades.ninja/)
+: Best content-first micro-starter powered by Build Awesome Kit and Blades CSS.
 
-<!--`BA v4` [Base Blog](https://github.com/11ty/awesome-base-blog)
-: DRAFT REPOSITORY IN PROGRESS: A starter repository for a blog web site using the Eleventy static site generator and Web Awesome.-->
+[Micro-Starter[s]](https://micro.build.blades.ninja/)
+: Modern 11-in-1 micro-starter showcasing Build Awesome Kit for: [1] Blades CSS [2] Pico CSS [3] Bootstrap CSS [4] Web Awesome [5] Sveltia CMS [6] Liquid (templates) [7] Tailwind CSS [8] Shotpipe (OG images) [9] Content-First 🔥 [10] Bare Build Awesome Kit (plugin) [11] Bare Build Awesome Kit (scripts).
+
+<!-- [Base Blog](https://github.com/11ty/awesome-base-blog)
+: DRAFT REPOSITORY IN PROGRESS: A starter repository for a blog web site using the Eleventy static site generator and Web Awesome. -->
 
 </td></tr></table>
 
-Featured community starters:
+### Featured Eleventy starters:
 
-<table><tr><td>
-
-`11ty v4` [Extended Blog](https://github.com/GoogleChrome/starter-extended-blog)
+[Extended Blog](https://github.com/GoogleChrome/starter-extended-blog)
 : An Eleventy blog template with an AI-powered blog post editor. `@ Google Chrome`
 
-`11ty v4` [*S*ubtle](https://github.com/anyblades/subtle)
-: The most subtle Eleventy v4 micro-starter for content-first sites. Powered by Eleventy Blades Kit
-
-`11ty v3` [Digital Obsidian Garden](https://github.com/oleeskild/digitalgarden)
+[Digital Obsidian Garden](https://github.com/oleeskild/digitalgarden)
 : Turn your Obsidian vault into a beautiful website. Free, open-source, and entirely yours.
 
-`11ty v3` [Web Awesome SSR](https://github.com/konnorrogers/11ty-webawesome-ssr)
+[Web Awesome SSR](https://github.com/konnorrogers/11ty-webawesome-ssr)
 : Bare bones 11ty + Web Awesome setup using SSR.
 
-</td></tr></table>
+> [!IMPORTANT]
+> **Work in progress** — information below is under review:
 
 ---
 
@@ -157,12 +153,12 @@ Archive:
 
 ## Contribute
 
-Contributions welcome and encouraged! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome and encouraged! Read the [contribution guidelines](https://github.com/anyblades/awesome-buildawesome/blob/master/CONTRIBUTING.md) first.
 
 ## Credits
 
 - Originally created by [Chris Collins](https://github.com/chrissy-dev)
-- Currently maintained by [*Any*digital](https://any.digital/)
+- Currently maintained by [*A*nydigital](https://any.digital/)
 
 ## License
 
