@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://awesome.re/badge.svg"> 11ty / Build Awesome
+  Awesome &nbsp;<img src="https://cdn.simpleicons.org/awesomelists" height="32" valign="middle">&nbsp;
+  11ty / Build Awesome
 </h1>
 
 <p align="center">
