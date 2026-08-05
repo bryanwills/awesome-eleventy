@@ -10,7 +10,7 @@ header_links:
     title: <i class="fa-brands fa-mastodon fa-lg"></i>
   - url: https://blades.ninja/
     title: <i>🥷</i>
-  - url: https://github.com/anyblades/awesome-buildawesome
+  - url: https://github.com/anyblades/awesome-buildawesome/tree/master/content
     title: <i class="fa-solid fa-laptop-code faded"></i>
 footer_contents:
   - Code licensed [MIT](//github.com/anyblades/buildawesome-kit/blob/main/LICENSE.md),
